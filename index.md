@@ -2,6 +2,8 @@
 permalink: /
 layout: hero
 filename: index.md
+title: Project Open Data
+description: Description
 ---
 
 * [Slash Data Catalog](catalog/)
