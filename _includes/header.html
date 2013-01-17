@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="{{ site.root_url }}/assets/css/style.css">
 
         <script src="{{ site.root_url }}/assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
-{% capture edit_url %}{{ site.prose_url }}#{{ site.org_name }}/edit/{{ site.branch }}/index.md{% endcapture %}
+{% capture edit_url %}{{ site.prose_url }}#{{ site.org_name }}/edit/{{ site.branch }}/{{ page.filename }}{% endcapture %}
     </head>
     <body>
         <!--[if lt IE 7]>
