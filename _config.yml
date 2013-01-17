@@ -1,0 +1,19 @@
+#document settings
+title: Project Open Data
+description: Document Description
+url: http://project-open-data.github.com/
+repo_name: project-open-data.github.com
+branch: master
+
+#global settings, no need to change these
+#root_url: http://project-open-data.github.com
+root_url: http://project-open-data.github.com
+org_name: project-open-data
+prose_url: http://project-open-data.github.com/contribute/
+
+# default build settings for running locally, no need to edit
+server: auto
+safe: true
+pymgemnts: true
+auto: true
+exclude: ["readme.md"]
