@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /index/
 layout: hero
 filename: index.md
 title: Project Open Data
