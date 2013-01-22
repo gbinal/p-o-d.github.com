@@ -39,13 +39,16 @@ Implementation guidance for open data practices.
 
 3-1 U.S. Government Policy on Open Data - NEED LINK & sentence
 
-3-2 Business Case for Open Data - NEED LINK
+3-2 Business Case for Open Data - NEED LINK & sentence
 
-3-3 Implementation Roadmap - NEED LINK
+3-3 Roadmap - NEED LINK & sentence
 
-3-4 Implementation Use Cases - NEED LINK?
+3-4 Use Cases - NEED LINK? & sentence
 
-3-5 Frequently Asked Questions - NEED LINK
+3-5 [Open Data Catalog](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
+
+3-6 Frequently Asked Questions - NEED LINK & sentence
+
 
 
 #4. Solutions 
@@ -73,7 +76,7 @@ This section contains programatic tools, resources and or checklists to help pro
 
 5-3 Data Collection Form Validator - NEED LINK
 
-5-4 [Open Data Catalog Guidance](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
+
 
 5-5 Metadata Resources - NEED LINK
 * --The below to include within the page, once made
