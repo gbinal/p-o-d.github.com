@@ -95,7 +95,7 @@ This section contains programatic tools, resources and/or checklists to help pro
 ----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-2 [Department of Labor API Program](http://project-open-data.github.com/Labor_OpenData_CaseStudy/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
+6-2 [Department of Labor API Program](http://project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
 
 6-3 Department of Transportation Enterprise Data Inventory - NEED LINK
 
