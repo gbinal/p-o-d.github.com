@@ -57,7 +57,6 @@ published: false
  
 
 
-
 ### Security, Privacy and Data Quality
 
 * Who is reponsible for insuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agencies requirements for security and privacy and quality?
@@ -86,6 +85,10 @@ published: false
 * How should I manage this /data file?
  * A wide variety of tools are available to manage a data catalog, be it public facing or for internal data managements.  Managing the records of metadata in the file can be managed by databases, spreadsheets, or even text editors.  Data management systems should be able to export the metadata either in the desired format or simply mapped with tools.
 
+### Agency participation with Open Data
+
+* What are some of the ways that agencies can become more involved with Open Data
+ * Having a contact point at the agency who can answer questions and received comments about published data is extremely important to making your data more open and valuable to the public.  This contact point can be centralized at the agency level, but having someone close to the source of the data who understands it well enough to help the public take full advantage of available data is extremely valuable.
 
 ### Scope 
 
