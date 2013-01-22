@@ -19,8 +19,8 @@ This Appendix was purposefully developed as GitHub pages so that real collaborat
 
 
 #2. Definitions
----------------
-This section is a list of definitions and principles used to guide the policy.
+--------------
+This section is a list of definitions and principles used to guide the project.
 
 2-1 [Open Data Principles](http://project-open-data.github.com/open-data-principles/) - The standard set of open data principles for the United States Government.
 
