@@ -39,8 +39,6 @@ Implementation guidance for open data practices.
 
 3-1 U.S. Government Policy on Open Data - NEED LINK & sentence
 
-3-2 Business Case for Open Data - NEED LINK & sentence
-
 3-3 Roadmap - NEED LINK & sentence
 
 3-4 Use Cases - NEED LINK? & sentence
@@ -72,37 +70,40 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 4-8 [API Sandbox]()
 
 
-#5. Resources / Checklists
+#5. Resources
 ----------------------
-This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
+This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.
 
 5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED SENTENCE
 
-5-2 Open License Examples - NEED LINK
+5-2 Business Case for Open Data - NEED LINK & sentence
 
-5-3 [Chief Data Officer Position Description](http://project-open-data.github.com/cdo-description/) - Sample language for a Chief Data Officer position description.
+5-3 [Future Department Case Study](http://project-open-data.github.com/Future_CaseStudy/) - NEED sentence and name, should it be in Imp. guid?
 
-5-4 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
+5-4 Open License Examples - NEED LINK
 
-5-5 [Data Privacy and Security]() - Resources for strengthening data release safeguards.
+5-5 [Chief Data Officer Material](http://project-open-data.github.com/cdo-description/) - Sample language for a Chief Data Officer position description.
+
+5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
+
+5-7 [Data Release Safeguard Checklist]() - Checklist for improving privacy and security prior to data release.
+
+5-8 [Privacy Appendix]() - NEED Sentence
+
 
 #6. Case Studies
 ----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-6 [Future Department Case Study](http://project-open-data.github.com/Future_CaseStudy/) - NEED sentence and name, should it be in Imp. guid?
-
-
-
 6-2 [Department of Labor API Program](http://project-open-data.github.com/Labor_OpenData_CaseStudy/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
 
-6-4 Department of Transportation Enterprise Data Inventory - NEED LINK
+6-3 Department of Transportation Enterprise Data Inventory - NEED LINK
 
-6-5 Disaster Assistance Program Coordination - NEED LINK
+6-4 Disaster Assistance Program Coordination - NEED LINK
 
-6-6 Environmental Protection Agency Central Data Exchange - NEED LINK
+6-5 Environmental Protection Agency Central Data Exchange - NEED LINK
 
-6-1 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
+6-6 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
 
 
 -others from howto.gov/api
