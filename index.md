@@ -39,9 +39,9 @@ Implementation guidance for open data practices.
 
 3-1 U.S. Government Policy on Open Data - NEED LINK & sentence
 
-3-3 Roadmap - NEED LINK & sentence
+3-3 [Roadmap](http://project-open-data.github.com/roadmap/) - NEED Content & sentence
 
-3-4 Use Cases - NEED LINK? & sentence
+3-4 [Use Cases](http://project-open-data.github.com/use-cases/) - NEED content & sentence
 
 3-5 [Public Data Listing](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.
 
