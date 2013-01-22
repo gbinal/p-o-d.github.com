@@ -54,7 +54,7 @@ Implementation guidance for open data practices.
 This section is a list of ready-to-use solutions or tools that will help agencies jump start their open efforts.  These are real, implementable coded solutions that were developed to significantly reduce the barrier to implementing open data at your agency.  Many of these tools are hosted at [Labs.Data.gov](http://labs.data.gov) and developers are encouraged to contribute improvements to them.  
 
 4-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases.  *[Hosted](http://labs.data.gov/db-to-api)*
-
+ 
 4-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.  *[Hosted](http://labs.data.gov/csv-to-api)*
 
 4-3 [Spatial Search](https://github.com/project-open-data/SpatialSearch) - A RESTful API that allows the user to query geographic entities by latitude and longitude, and extract data.
