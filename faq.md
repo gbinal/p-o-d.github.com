@@ -3,6 +3,7 @@ layout: default
 title: Frequently Asked Questions
 permalink: /faq/
 filename: faq.md
+published: false
 ---
 
 
@@ -37,9 +38,13 @@ What is the relationship of Project Open Data (generally) to NIEM, ISE, FGDC, an
 * Are redirects allowed for /data pages?
 * What is the relationship of the /data page and public data listing to Data.gov and how will this impact current Data.gov processes?
 * What is a "persistent identifier"?
+A persistent identifier is a unique label that is managed and kept up to date over a defined time period (e.g., Unique Investment Identifiers).
+
+
 
 ### Scope 
 * How should agencies prioritize making improvements to existing systems and data?
+...Agencies should also ensure continuity of access to the data by involving primary users in the changes. 
 * Which agencies are required to implement this policy?
 
 ### Timeline
