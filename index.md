@@ -95,19 +95,19 @@ This section contains programatic tools, resources and/or checklists to help pro
 ----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-2 [Department of Labor API Program](http://project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
+6-1 [Department of Labor API Program](http://project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
 
-6-3 [Department of Transportation Enterprise Data Inventory](http://project-open-data.github.com/transportation-case-study/) - NEED content
+6-2 [Department of Transportation Enterprise Data Inventory](http://project-open-data.github.com/transportation-case-study/) - A review of DOT's strategy and policy when creating a robust data inventory program.  
 
-6-4 [Disaster Assistance Program Coordination](http://project-open-data.github.com/fema-case-study/) - NEED content
+6-3 [Disaster Assistance Program Coordination](http://project-open-data.github.com/fema-case-study/) - The coordinated campaign led by FEMA has integrated a successful data exchange among 16 agencies to coordinate an important public service.  
 
-6-5 [Environmental Protection Agency Central Data Exchange](http://project-open-data.github.com/epa-case-study/) - NEED content
+6-4 [Environmental Protection Agency Central Data Exchange](http://project-open-data.github.com/epa-case-study/) - The agency's data exchange provides a model for programs that seek to coordinate the flow of data among industry, state, local, and tribal entities.  
 
-6-6 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - A core government program update that has grown into an important public service.
+6-5 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - A core government program update that has grown into an important public service.
 
-6-7 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
+6-6 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
 
-6-8 [National Renewable Energy Laboratory API program](http://developer.nrel.gov/api-case-study/) - An agency perspective on developing APIs for general use and in particular building the case for the internal re-use of the resources.
+6-7 [National Renewable Energy Laboratory API program](http://developer.nrel.gov/api-case-study/) - An agency perspective on developing APIs for general use and in particular building the case for the internal re-use of the resources.
 
 
 
