@@ -86,9 +86,9 @@ This section contains programatic tools, resources and/or checklists to help pro
 
 5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
-5-7 [Data Release Safeguard Checklist]() - Checklist for improving privacy and security prior to data release.
+5-7 [Data Release Safeguard Checklist]() - Checklist for improving privacy and security prior to data release. - Need link
 
-5-8 [Digital PII Checklist]() - NEED Sentence
+5-8 [Digital PII Checklist]() - NEED Sentence and link
 
 
 #6. Case Studies
@@ -103,10 +103,13 @@ Case studies of novel or best practices from agencies who are leading in open da
 
 6-5 Environmental Protection Agency Central Data Exchange - NEED LINK
 
-6-6 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
+6-6 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - A core government program update that has grown into an important public service.
+
+6-7 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
+
+6-8 [National Renewable Energy Laboratory API program](http://developer.nrel.gov/api-case-study/) - An agency perspective on developing APIs for general use and in particular building the case for the internal re-use of the resources.
 
 
--others from howto.gov/api
 
 
 **For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
