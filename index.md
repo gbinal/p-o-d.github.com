@@ -74,13 +74,13 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 ----------------------
 This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.
 
-5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED SENTENCE
+5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED content and sentence
 
-5-2 Business Case for Open Data - NEED LINK & sentence
+5-2 [Business Case for Open Data](http://project-open-data.github.com/business-case/) - NEED Content & sentence
 
-5-3 [Future Department Case Study](http://project-open-data.github.com/future-case-study/) - NEED sentence and name, should it be in Imp. guid?
+5-3 [Future Department Case Study](http://project-open-data.github.com/future-case-study/) - NEED sentence and name
 
-5-4 Open License Examples - NEED LINK
+5-4 [Open License Examples](http://project-open-data.github.com/license-examples/) - NEED Content and sentence
 
 5-5 [Chief Data Officer Material](http://project-open-data.github.com/cdo-description/) - Sample language for a Chief Data Officer position description.
 
