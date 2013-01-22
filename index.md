@@ -88,7 +88,7 @@ This section contains programatic tools, resources and/or checklists to help pro
 
 5-7 [Data Release Safeguard Checklist]() - Checklist for improving privacy and security prior to data release.
 
-5-8 [Privacy Appendix]() - NEED Sentence
+5-8 [Digital PII Checklist]() - NEED Sentence
 
 
 #6. Case Studies
