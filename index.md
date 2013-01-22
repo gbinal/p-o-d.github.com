@@ -47,7 +47,7 @@ Implementation guidance for open data practices.
 
 3-5 [Open Data Catalog](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
 
-3-6 Frequently Asked Questions - NEED LINK & sentence
+3-6 [Frequently Asked Questions](http://project-open-data.github.com/faq) - NEED sentence
 
 
 
@@ -65,6 +65,11 @@ This section is a list of ready to use solutions or tools that will help agencie
 
 4-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information.
 
+4-6 [Catalog Generator](https://github.com/project-open-data/catalog-generator)
+
+4-7 [JSON Validator](https://github.com/project-open-data/json-validator)
+
+4-8 API Sandbox
 
 #5. Resources / Checklists
 ----------------------
