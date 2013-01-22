@@ -28,22 +28,24 @@ This section is a list of definitions and principles used to guide the project.
 
 2-3 [Open Data Glossary](http://project-open-data.github.com/glossary/) - The glossary of open data terms.
 
-2-4 [Common Core Metadata](http://project-open-data.github.com/common-core-metadata-schema/) - The schema used to describe datasets and APIs, and published data at agency.gov/data.
+2-4 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The definition for open licenses.
 
-2-5 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The definition for open licenses.
+2-5 [Common Core Metadata](http://project-open-data.github.com/common-core-metadata-schema/) - The schema used to describe datasets and APIs, and published data at agency.gov/data.
 
 
 #3. Implementation Guidance
 ----------------
-Best practices for coordinating the implementation of the Open Data Policy.  
+Implementation guidance for open data practices.  
 
-3-1 Business Case for Implementation - NEED LINK
+3-1 U.S. Government Policy on Open Data - NEED LINK & sentence
 
-3-2 Implementation Timeline and Checklist - NEED LINK
+3-2 Business Case for Open Data - NEED LINK
 
-3-3 Agency Use Cases - NEED LINK
+3-3 Implementation Roadmap - NEED LINK
 
-3-4 Frequently Asked Questions - NEED LINK
+3-4 Implementation Use Cases - NEED LINK?
+
+3-5 Frequently Asked Questions - NEED LINK
 
 
 #4. Solutions 
