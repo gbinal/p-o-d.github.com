@@ -76,25 +76,20 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 ----------------------
 This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
 
-5-2 Data Release Checklist - (and decision tree) NEED LINK
-
-5-3 Data Collection Form Validator - NEED LINK
-
-
-
-5-5 Metadata Resources - NEED LINK
+5-1 Metadata Resources - NEED LINK
 * --The below to include within the page, once made
-* Sample Datasets - NEED LINK
-* Metadata Maps - NEED LINK
-* Metadata Translation Tools - NEED LINK
-* Example RFP Language - NEED LINK
-* Instructions for RDFa/XML vs. JSON preference - NEED LINK
+* Sample Datasets - 
+* Schema Maps - 
+* Schema Translation Tools - 
+* Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
 
-5-6 Open Licenses - NEED LINK
+5-2 Open License Examples - NEED LINK
 
-5-1 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer.
+5-3 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer.
 
-5-7 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interfaces (API).
+5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interfaces (API).
+
+5-7 [Data Privacy and Security]() - Data release resources for securing and sharing data while safeguarding privacy and ensuring security.  
 
 #6. Case Studies
 ----------------
