@@ -76,8 +76,6 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 ----------------------
 This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
 
-5-1 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer
-
 5-2 Data Release Checklist - (and decision tree) NEED LINK
 
 5-3 Data Collection Form Validator - NEED LINK
@@ -93,6 +91,8 @@ This section contains programatic tools, resources and or checklists to help pro
 * Instructions for RDFa/XML vs. JSON preference - NEED LINK
 
 5-6 Open Licenses - NEED LINK
+
+5-1 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer.
 
 5-7 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interfaces (API).
 
