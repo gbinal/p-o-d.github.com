@@ -4,6 +4,7 @@ layout: hero
 filename: index.md
 title: Project Open Data
 description: Description
+published: false
 ---
 
 #1. Background
@@ -38,43 +39,43 @@ This section is a list of definitions and principles used to guide the policy.
 ----------------
 Best practices for coordinating the implementation of the Open Data Policy.  
 
-5-1 Business Case for Implementation - NEED LINK
+3-1 Business Case for Implementation - NEED LINK
 
-5-2 Implementation Timeline and Checklist - NEED LINK
+3-2 Implementation Timeline and Checklist - NEED LINK
 
-5-3 Agency Use Cases - NEED LINK
+3-3 Agency Use Cases - NEED LINK
 
-5-4 Frequently Asked Questions - NEED LINK
+3-4 Frequently Asked Questions - NEED LINK
 
 
 #4. Solutions 
 -------------
 This section is a list of ready to use solutions or tools that will help agencies jump start their open efforts.  Some of these are real implementable coded solutions, some are more descriptive.  In either case these were developed to significantly reduce the barrier to implementing open data at your agency.  We made these with the intent of being able to a) taking the tool off the shelf and implementing and b) by placing them on GitHub encouraging a community to form up make these tools better, add tools, and add value to our collective open efforts.
 
-3-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases.
+4-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases.
 
-3-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.
+4-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.
 
-3-3 [Spatial Search](https://github.com/project-open-data/SpatialSearch) - A RESTful API that allows the user to query geographic entities by latitude and longitude, and extract data.
+4-3 [Spatial Search](https://github.com/project-open-data/SpatialSearch) - A RESTful API that allows the user to query geographic entities by latitude and longitude, and extract data.
 
-3-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
+4-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
 
-3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information.
+4-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information.
 
 
 #5. Resources / Checklists
 ----------------------
 This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
 
-4-1 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer
+5-1 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer
 
-4-2 Data Release Checklist - (and decision tree) NEED LINK
+5-2 Data Release Checklist - (and decision tree) NEED LINK
 
-4-3 Data Collection Form Validator - NEED LINK
+5-3 Data Collection Form Validator - NEED LINK
 
-4-4 [Open Data Catalog Guidance](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
+5-4 [Open Data Catalog Guidance](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
 
-4-5 Metadata Resources - NEED LINK
+5-5 Metadata Resources - NEED LINK
 * --The below to include within the page, once made
 * Sample Datasets - NEED LINK
 * Metadata Maps - NEED LINK
@@ -82,7 +83,7 @@ This section contains programatic tools, resources and or checklists to help pro
 * Example RFP Language - NEED LINK
 * Instructions for RDFa/XML vs. JSON preference - NEED LINK
 
-4-6 Open Licenses - NEED LINK
+5-6 Open Licenses - NEED LINK
 
 
 #6. Case Studies
