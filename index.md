@@ -97,11 +97,11 @@ Case studies of novel or best practices from agencies who are leading in open da
 
 6-2 [Department of Labor API Program](http://project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
 
-6-3 Department of Transportation Enterprise Data Inventory - NEED LINK
+6-3 [Department of Transportation Enterprise Data Inventory](http://project-open-data.github.com/transportation-case-study/) - NEED content
 
-6-4 Disaster Assistance Program Coordination - NEED LINK
+6-4 [Disaster Assistance Program Coordination](http://project-open-data.github.com/fema-case-study/) - NEED content
 
-6-5 Environmental Protection Agency Central Data Exchange - NEED LINK
+6-5 [Environmental Protection Agency Central Data Exchange](http://project-open-data.github.com/epa-case-study/) - NEED content
 
 6-6 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - A core government program update that has grown into an important public service.
 
