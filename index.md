@@ -51,25 +51,25 @@ Implementation guidance for open data practices.
 
 
 
-#4. Solutions 
+#4. Tools 
 -------------
-This section is a list of ready to use solutions or tools that will help agencies jump start their open efforts.  Some of these are real implementable coded solutions, some are more descriptive.  In either case these were developed to significantly reduce the barrier to implementing open data at your agency.  We made these with the intent of being able to a) taking the tool off the shelf and implementing and b) by placing them on GitHub encouraging a community to form up make these tools better, add tools, and add value to our collective open efforts.
+This section is a list of ready-to-use solutions or tools that will help agencies jump start their open efforts.  These are real, implementable coded solutions that were developed to significantly reduce the barrier to implementing open data at your agency.  Many of these tools are hosted at [Labs.Data.gov](http://labs.data.gov) and developers are encouraged to contribute improvements to them.  
 
-4-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases.
+4-1 [Database to API](https://github.com/project-open-data/db-to-api) - Dynamically generate RESTful APIs from the contents of a database table. Provides JSON, XML, and HTML. Supports most popular databases. [Hosted]()
 
-4-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.
+4-2 [CSV to API](https://github.com/project-open-data/csv-to-api) - Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.  [Hosted]()
 
 4-3 [Spatial Search](https://github.com/project-open-data/SpatialSearch) - A RESTful API that allows the user to query geographic entities by latitude and longitude, and extract data.
 
-4-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.
+4-4 [Kickstart](https://github.com/project-open-data/kickstart) - A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities.  
 
-4-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information.
+4-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information.  [Hosted]()
 
-4-6 [Catalog Generator](https://github.com/project-open-data/catalog-generator)
+4-6 [Catalog Generator](https://github.com/project-open-data/catalog-generator)  [Hosted]()
 
-4-7 [JSON Validator](https://github.com/project-open-data/json-validator)
+4-7 [JSON Validator](https://github.com/project-open-data/json-validator)  [Hosted]()
 
-4-8 API Sandbox
+4-8 [API Sandbox]()
 
 #5. Resources / Checklists
 ----------------------
