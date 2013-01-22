@@ -95,18 +95,22 @@ This section contains programatic tools, resources and or checklists to help pro
 ----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
+6-6 [Future Department Case Study](http://project-open-data.github.com/Future_CaseStudy/) - NEED sentence and name, should it be in Imp. guid?
+
+
+
+6-2 [Department of Labor API Program](http://project-open-data.github.com/Labor_OpenData_CaseStudy/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
+
+6-4 Department of Transportation Enterprise Data Inventory - NEED LINK
+
+6-5 Disaster Assistance Program Coordination - NEED LINK
+
+6-6 Environmental Protection Agency Central Data Exchange - NEED LINK
+
 6-1 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf) - The National Broadband Map, a case study on open innovation for national policy.  Produced by the [Wilson Center](http://www.wilsoncenter.org/).
 
-6-2 [Department of Labor Case Study](http://project-open-data.github.com/Labor_OpenData_CaseStudy/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
 
-6-3 Technical Design Examples - NEED LINK
+-others from howto.gov/api
 
-6-4 Internal Enterprise Data Inventory - NEED LINK
-
-6-5 Effective Coordination Case Study - NEED LINK
-
-6-6 [Future Department Case Study](http://project-open-data.github.com/Future_CaseStudy/)
-
-6-7 (Further case studies that support the policy's business case) - NEED LINK
 
 **For Developers: [View all appendices](http://github.com/project-open-data/) (and source)**
