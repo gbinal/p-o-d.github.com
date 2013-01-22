@@ -85,11 +85,11 @@ This section contains programatic tools, resources and or checklists to help pro
 
 5-2 Open License Examples - NEED LINK
 
-5-3 [Chief Data Officer Example](http://project-open-data.github.com/cdo-description/) - Example position descriptions for a Chief Data Officer.
+5-3 [Chief Data Officer Position Description](http://project-open-data.github.com/cdo-description/) - Sample language for a Chief Data Officer position description.
 
-5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interfaces (API).
+5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
-5-7 [Data Privacy and Security]() - Data release resources for securing and sharing data while safeguarding privacy and ensuring security.  
+5-7 [Data Privacy and Security]() - Resources for strengthening data release safeguards.
 
 #6. Case Studies
 ----------------
