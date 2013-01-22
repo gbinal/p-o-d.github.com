@@ -53,7 +53,7 @@ published: false
 * How can I recommend changes and improvements to the metadata schema?
 
 * Can I extend the metadata schema beyond the terms specified at {LINK} ?
- * Yes, if your data management provide rich metadata specific to the mission of your agency or the Line of Business your agency participates, addition metadata that makes your data more usefull to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
+ * Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, pubishing additional metadata that makes your data more usefull to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
  
 
 
