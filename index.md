@@ -22,17 +22,17 @@ This Appendix was purposefully developed as GitHub pages so that real collaborat
 --------------
 This section is a list of definitions and principles used to guide the project.
 
-2-1 [Open Data Principles](http://project-open-data.github.com/open-data-principles/) - The standard set of open data principles for the United States Government.
+2-1 [Open Data Principles](http://project-open-data.github.com/open-data-principles/) - The standard set of open data principles.
 
-2-2 [Open Standards](http://project-open-data.github.com/open-standards/) - The United States Government standard definition for open standards.
+2-2 [Open Standards](http://project-open-data.github.com/open-standards/) - The standard definition for open standards.
 
-2-3 [Open Data Glossary](http://project-open-data.github.com/glossary/) - The glossary of all things open.
+2-3 [Open Data Glossary](http://project-open-data.github.com/glossary/) - The glossary of open data terms.
 
 2-4 [API Basics](http://project-open-data.github.com/api-basics/) - Basic understanding of Application Programming Interfaces (API).
 
-2-5 [Common Core Metadata](http://project-open-data.github.com/common-core-metadata-schema/) - The canonical description of the schema used to list agency datasets and APIs as hosted at agency.gov/data.
+2-5 [Common Core Metadata](http://project-open-data.github.com/common-core-metadata-schema/) - The schema used to describe datasets and APIs, including data published or listed at agency.gov/data.
 
-2-6 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The United States Government standard definition for open licenses.
+2-6 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The standard definition for open licenses.
 
 
 #3. Implementation Guidance
