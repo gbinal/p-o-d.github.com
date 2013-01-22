@@ -6,8 +6,6 @@ filename: catalog.md
 published: false
 ---
 
-(I think this is the right content...)
-
 /Data Requirements
 ------------------
 
