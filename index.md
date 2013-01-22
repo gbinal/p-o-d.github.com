@@ -34,8 +34,20 @@ This section is a list of definitions and principles used to guide the policy.
 2-6 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The United States Government standard definition for open licenses.
 
 
+#3. Implementation Guidance
+----------------
+Best practices for coordinating the implementation of the Open Data Policy.  
 
-#3. Solutions 
+5-1 Business Case for Implementation - NEED LINK
+
+5-2 Implementation Timeline and Checklist - NEED LINK
+
+5-3 Agency Use Cases - NEED LINK
+
+5-4 Frequently Asked Questions - NEED LINK
+
+
+#4. Solutions 
 -------------
 This section is a list of ready to use solutions or tools that will help agencies jump start their open efforts.  Some of these are real implementable coded solutions, some are more descriptive.  In either case these were developed to significantly reduce the barrier to implementing open data at your agency.  We made these with the intent of being able to a) taking the tool off the shelf and implementing and b) by placing them on GitHub encouraging a community to form up make these tools better, add tools, and add value to our collective open efforts.
 
@@ -50,7 +62,7 @@ This section is a list of ready to use solutions or tools that will help agencie
 3-5 [PDF Filler](https://github.com/project-open-data/pdf-filler) - PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empower web developers to use browser-based forms and modern web standards to facilitate the collection of information.
 
 
-#4. Tools / Checklists
+#5. Resources / Checklists
 ----------------------
 This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
 
@@ -71,18 +83,6 @@ This section contains programatic tools, resources and or checklists to help pro
 * Instructions for RDFa/XML vs. JSON preference - NEED LINK
 
 4-6 Open Licenses - NEED LINK
-
-#5. Implementation Guidance
-----------------
-Best practices for coordinating the implementation of the Open Data Policy.  
-
-5-1 Business Case for Implementation - NEED LINK
-
-5-2 Implementation Timeline and Checklist - NEED LINK
-
-5-3 Agency Use Cases - NEED LINK
-
-5-4 Frequently Asked Questions - NEED LINK
 
 
 #6. Case Studies
