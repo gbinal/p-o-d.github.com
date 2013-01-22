@@ -45,7 +45,7 @@ Implementation guidance for open data practices.
 
 3-4 Use Cases - NEED LINK? & sentence
 
-3-5 [Open Data Catalog](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at agency.gov/data page.
+3-5 [Public Data Listing](http://project-open-data.github.com/open-data-catalog) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.
 
 3-6 [Frequently Asked Questions](http://project-open-data.github.com/faq) - NEED sentence
 
@@ -82,9 +82,9 @@ This section contains programatic tools, resources and or checklists to help pro
 
 5-3 [Chief Data Officer Position Description](http://project-open-data.github.com/cdo-description/) - Sample language for a Chief Data Officer position description.
 
-5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
+5-4 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
-5-7 [Data Privacy and Security]() - Resources for strengthening data release safeguards.
+5-5 [Data Privacy and Security]() - Resources for strengthening data release safeguards.
 
 #6. Case Studies
 ----------------
