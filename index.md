@@ -15,7 +15,7 @@ From financial statistics to agriculture production and from human health to air
 
 Despite this progress, vast amounts of government data are still locked in internal data stores. When data is released, it is often published in closed formats that limit data discoverability and accessibility.  More critically, open data practices have not been institutionalized in many Federal agencies even as the stores of government data continue to grow.  Too often, agencies build systems that are not architected to maximize interoperability and support open data needs.  To further unleash the power of government data, it is imperative to establish a government-wide open data policy that institutionalizes and operationalizes open data practices.  In doing so, the Federal Government can achieve several important objectives including spurring the economy, increasing transparency, improving service to customers, and saving taxpayer dollars through increased efficiencies.
 
-This Appendix was purposefully developed as GitHub pages so that real collaboration and input could help us make our open data policy better.  Please suggest enhancements by editing the content here.  We fully intent to make this a living collaboration for continued open data.
+This Appendix was purposefully developed as GitHub pages so that real collaboration and input could help us make our open data policy better.  Please suggest enhancements by editing the content here.  We fully intend to make this a living collaboration for continued open data.
 
 
 #2. Definitions
