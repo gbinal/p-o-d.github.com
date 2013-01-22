@@ -76,12 +76,7 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 ----------------------
 This section contains programatic tools, resources and or checklists to help programs determine open data requirements.
 
-5-1 Metadata Resources - NEED LINK
-* --The below to include within the page, once made
-* Sample Datasets - 
-* Schema Maps - 
-* Schema Translation Tools - 
-* Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
+5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED SENTENCE
 
 5-2 Open License Examples - NEED LINK
 
