@@ -82,7 +82,7 @@ This section contains programatic tools, resources and/or checklists to help pro
 
 5-4 [Open License Examples](http://project-open-data.github.com/license-examples/) - NEED Content and sentence
 
-5-5 [Chief Data Officer Material](http://project-open-data.github.com/cdo-description/) - Sample language for a Chief Data Officer position description.
+5-5 [Chief Data Officer Material](http://project-open-data.github.com/cdo/) - Sample language for a Chief Data Officer position description.
 
 5-6 [API Basics](http://project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
