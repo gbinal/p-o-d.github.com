@@ -3,15 +3,10 @@ layout: default
 title: Slash Data Catalog Requirements
 permalink: /catalog/
 filename: catalog.md
+published: false
 ---
 
 (I think this is the right content...)
-
-
----
-permalink: /index.html
-layout: home
----
 
 /Data Requirements
 ------------------
