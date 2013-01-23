@@ -6,22 +6,27 @@ filename: faq.md
 published: false
 ---
 
-
-
-
-
-### Purpose
-
-* What is the value to the government to place metadata at agency.gov/data?
- * Having the metadata available at the agency level provides agencies with a self-managed publishing capability.  In addition, having the metadata in a machine-readable format opens the possibility that major search engines will index these metadata in a manner similar to site maps and allow the public to discover public data across the government using a search tool of their choice.
-
-
 ### Acquisition
-
 
 * What resources are available to help agencies incorporate the policy requirements into their acquisition processes?
  * Sample acquisition language may be found at {LINK}
 
+### Information Systems
+
+* Who is in charge of Project Open Data?
+ * The White House owns Project Open Data, and will directly manage a select set of repos while a program management office (PMO) in the General Services Administration (GSA) will delegate management of other individual repos on behalf of the White House, as well as provide daily oversight and user support for the Project.
+
+* Who can participate in Project Open Data?
+ * Anyone – Federal employees, contractors, developers, the general public – can view and contribute to Project Open Data. (Set up a GitHub user account to get started).
+
+* Can I create a new page (i.e., repo) within Project Open Data?
+ * Creation of a new repo within Project Open Data is controlled by the project PMO. If you would like to create a new repo, please (insert instructions).
+
+* How can I see whether my suggested change (i.e., pull request) was accepted?
+ * (insert answer)
+
+* How long will I have to wait to get a response to my suggested change (i.e., pull request)?
+ * Release cycles vary from repo to repo. Check out the readme file of the repo where you submitted a pull request to see how often code pushes and updates are done. 
 
 ### Information Systems
 
@@ -37,7 +42,6 @@ published: false
 
 * Does PDF meet the “machine readable and open format” requirement?
  * While ISO 32000 is an open standard, the Portable Document Format (PDF) does not achieve the same level of openess as CSV, XML, JSON and other generic formats.
- 
 
 ### Metadata
 
@@ -56,19 +60,19 @@ published: false
  * Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, pubishing additional metadata that makes your data more usefull to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
  
 
-
 ### Security, Privacy and Data Quality
 
 * Who is reponsible for insuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agencies requirements for security and privacy and quality?
  * Each agency is responsible for ALL data made public.
  
- 
 * How can I contact the Data.gov staff for assistance in conducting mosaic effect reviews?
- * For general questions about Data.gov, please contact http://www.data.gov/contact-us .
- For specific information about the mosaic effect, please contact the Data.gov PMO at GSA.
+ * For general questions about Data.gov, please contact http://www.data.gov/contact-us . For specific information about the mosaic effect, please contact the Data.gov PMO at GSA.
 
 
 ### Public Data Listing
+
+* What is the value to the government to place metadata at agency.gov/data?
+ * Having the metadata available at the agency level provides agencies with a self-managed publishing capability.  In addition, having the metadata in a machine-readable format opens the possibility that major search engines will index these metadata in a manner similar to site maps and allow the public to discover public data across the government using a search tool of their choice.
 
 * How will agency.gov/open, /developer, and /data pages work together?
  * The agency.gov/open page contains informational regards an agencies contributions to Open Government, while the /developer and /data pertains to APIs and Open Data. All three pages contribute to an open and transparent government in the United States.
@@ -99,6 +103,3 @@ published: false
 
 ### Timeline
 How long do agencies have to implement the policy?
-
-
-
