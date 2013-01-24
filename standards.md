@@ -6,10 +6,6 @@ filename: standards.md
 published: false
 ---
 
-
-Open Standards
-=========================
-
 Open Standards are those developed through an open, collaborative, and transparent process-- whether or not intellectual property is involved-- and are made readily available and accessible to all on fair, reasonable, and nondiscriminatory terms and conditions. Open standards enable data, products and services to be used by anyone, at any time, with minimal limitations or use restrictions.  Whenever possible, these standards are best developed by private sector standards organizations and are not dominated by, or under the control of, a single organization or group of organizations 
 
 More specifically, a standard is open if it is developed according to the following principles :
