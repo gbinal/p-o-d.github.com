@@ -24,11 +24,11 @@ This section is a list of definitions and principles used to guide the project.
 
 2-1 [Open Data Principles](http://project-open-data.github.com/principles/) - The set of open data principles.
 
-2-2 [Open Standards](http://project-open-data.github.com/open-standards/) - The definition for open standards.  NEEDS Content
+2-2 [Open Standards](http://project-open-data.github.com/open-standards/) - The definition for open standards. 
 
 2-3 [Open Data Glossary](http://project-open-data.github.com/glossary/) - The glossary of open data terms.
 
-2-4 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The definition for open licenses.  NEEDS Content
+2-4 [Open Licenses](http://project-open-data.github.com/open-licenses/) - The definition for open licenses. 
 
 2-5 [Common Core Metadata](http://project-open-data.github.com/schema/) - The schema used to describe datasets and APIs, and published data at agency.gov/data.   NEEDS Content
 
