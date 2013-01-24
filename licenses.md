@@ -5,12 +5,11 @@ permalink: /open-licenses/
 filename: licenses.md
 ---
 
-
 Open licenses grant permission to access, re-use and redistribute a work with few or no restrictions. A license is open if it satisfies the following conditions :
 
 **Reuse**
 
-The license must allow for modifications and derivative works and must allow them to be distributed under the terms of the original work. The rights attached to the work must not depend on the work being part of a particular package. If the work is extracted from that package and used or distributed within the terms of the workâ€™s license, all parties to whom the work is redistributed should have the same rights as those that are granted in conjunction with the original package.
+The license must allow for modifications and derivative works and must allow them to be distributed under the terms of the original work. The rights attached to the work must not depend on the work being part of a particular package. If the work is extracted from that package and used or distributed within the terms of the work's license, all parties to whom the work is redistributed should have the same rights as those that are granted in conjunction with the original package.
 
 **Redistribution**
 
