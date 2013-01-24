@@ -88,6 +88,11 @@ published: false
   
 * How should I manage this /data file?
  * A wide variety of tools are available to manage a data catalog, be it public facing or for internal data managements.  Managing the records of metadata in the file can be managed by databases, spreadsheets, or even text editors.  Data management systems should be able to export the metadata either in the desired format or simply mapped with tools.
+ 
+* What formats are required/recommended for the agency.gov/data file?
+ * There are several syntaxes that may be used when publishing the data file.  The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation).  It is recommended that agencies also create a data.html file and use RDFa-Lite to mark-up the metadata using the schema located at {link}.  The RDFa-Lite file will be easily consumed by major search engines and applications and make you data easier to find by the public.  A third alternative for populating your metadata file is XML (eXtensible Markup Language).  Agencies are encouraged to maintain all three version of the metadata file.  Tools are available to transform any instance of the file into the alternative formats.
+ 
+ 
 
 ### Agency participation with Open Data
 
