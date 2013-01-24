@@ -83,6 +83,13 @@ published: false
 * Are redirects allowed for /data pages?
  * Yes, redirects are useful for agencies who need alternatives for their Content Management Systems (CMSs).
  
+* What options exist for hosting the /data.json file specifically at agency.gov/data.json?  
+1. For websites that are composed of static html, simiply host the data.json file at the designated location.  
+2. ...
+3. ...
+4. ...
+5. ...
+ 
 * How do I get started building this /data file?
  * Datagov will (when possible) help agencies get started by creating a /data file for each agency containing the metadata in the correct syntax.  The agency will then begin to manage that file for future publishing of datasets.
   
