@@ -6,8 +6,6 @@ filename: epa-case-study.md
 published: false
 ---
 
-
-
 Central Data Exchange  
 Building an Open and Interoperable Platform for Environmental Data Sharing  
 November 2, 2012  
