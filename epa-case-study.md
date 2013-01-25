@@ -26,7 +26,7 @@ The Environmental Council of the States (ECOS) and EPA decided to meet these cha
 
 One of the cornerstones of making data exchange technology deliver information in a usable context is the establishment of open data standards across all trading partners.  Data is interoperable when it can be correctly interpreted as it moves from system to system or organization to organization.  EPA helps to make its data interoperable by implementing open data standards and through the registration of its data assets.  
 
-Data standards are documented agreements on representations, format, and definitions of common data.  These standards are fundamental to the seamless and unambiguous exchange of data - they help improve the ability of partners (internal and external) to exchange data efficiently and accurately, and assist secondary users of data to understand, interpret, and use data appropriately.  To date, EPA and its partner States and Tribes have developed 25 data standards (www.epa.gov/datastandards).
+Data standards are documented agreements on representations, format, and definitions of common data.  These standards are fundamental to the seamless and unambiguous exchange of data - they help improve the ability of partners (internal and external) to exchange data efficiently and accurately, and assist secondary users of data to understand, interpret, and use data appropriately.  To date, EPA and its partner States and Tribes have developed [25 data standards](http://www.epa.gov/datastandards).
 
 In addition to data standards, EPA adopted SOA and focused on shared information technology services to prevent the traditional stove-piped approach of Program Offices having to build similar services on their own.  Sharing services like quality assurance, user authentication, querying, data submission, and many others, eliminate a large portion of the development resources needed to build a data flow and in turn result in reduced cost for developing and maintaining that flow.  This shift in paradigm results in the development of services that interoperate with other services, following the same open standards, as opposed to building isolated “applications” which poses more challenges with interoperability.
 
@@ -65,9 +65,9 @@ Through the implementation of the Exchange Network and CDX, EPA has learned seve
 * Provide the necessary user-friendly tools for implementing open data policies into the hands of the subject matter experts so others can focus on the technology.
 
 ### Related Information
-* www.exchangenetwork.net
-* www.epa.gov/cdx
-* www.epa.gov/exchangenetwork
-* www.epa.gov/datastandards
+* [www.exchangenetwork.net](http://www.exchangenetwork.net)
+* [www.epa.gov/cdx](http://www.epa.gov/cdx)
+* [www.epa.gov/exchangenetwork](http://www.epa.gov/exchangenetwork)
+* [www.epa.gov/datastandards](http://www.epa.gov/datastandards)
 
 
