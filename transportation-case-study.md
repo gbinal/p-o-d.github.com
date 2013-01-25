@@ -3,14 +3,16 @@ layout: default
 title: Department of Transportation Enterprise Data Inventory
 permalink: /transportation-case-study/
 filename: transportation-case-study.md
+published: false
 ---
 
-Open Data at DOT
-A Case Study for Maturing Data Release Practices to Drive Innovation and Increase Accountability
-January 8, 2013
-Department of Transportation
-Office of the Chief Information Officer
-[Kristen Baldwin](mailto:kristen.baldwin@dot.gov?subject=Open%20Data%20Case%20Study), Associate Chief Information Officer for IT Policy Oversight
+Open Data at DOT  
+A Case Study for Maturing Data Release Practices to Drive Innovation and Increase Accountability  
+January 8, 2013  
+Department of Transportation  
+Office of the Chief Information Officer  
+[Kristen Baldwin](mailto:kristen.baldwin@dot.gov?subject=Open%20Data%20Case%20Study), Associate Chief Information Officer for IT Policy Oversight  
+
 --------------------
 
 ## Executive Summary
