@@ -67,7 +67,7 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 
 4-7 [JSON Validator](https://github.com/project-open-data/json-validator) - Validation tool to confirm the formatting of agency.gov/data catalog files. -  *[Hosted](http://project-open-data.github.com/json-validator/)*
 
-4-8 [API Sandbox](https://github.com/project-open-data/api-sandbox) - Interactive API documentation systems.  
+4-8 [API Sandbox](http://project-open-data.github.com/api-sandbox) - Interactive API documentation systems.  
 
 
 #5. Resources
