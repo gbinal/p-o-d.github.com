@@ -9,15 +9,15 @@ published: false
 ### Acquisition
 
 * What resources are available to help agencies incorporate the policy requirements into their acquisition processes?  
-  * Sample acquisition language may be found at {LINK}
+> Sample acquisition language may be found at {LINK}
 
 ### Information Systems
 
 * Who is in charge of Project Open Data?  
-  * The White House owns Project Open Data, and will directly manage a select set of repos while a program management office (PMO) in the General Services Administration (GSA) will delegate management of other individual repos on behalf of the White House, as well as provide daily oversight and user support for the Project.
+> The White House owns Project Open Data, and will directly manage a select set of repos while a program management office (PMO) in the General Services Administration (GSA) will delegate management of other individual repos on behalf of the White House, as well as provide daily oversight and user support for the Project.
 
 * Who can participate in Project Open Data?  
-  * Anyone – Federal employees, contractors, developers, the general public – can view and contribute to Project Open Data. (Set up a GitHub user account to get started).
+> Anyone – Federal employees, contractors, developers, the general public – can view and contribute to Project Open Data. (Set up a GitHub user account to get started).
 
 * Can I create a new page (i.e., repo) within Project Open Data?
  * Creation of a new repo within Project Open Data is controlled by the project PMO. If you would like to create a new repo, please (insert instructions).
