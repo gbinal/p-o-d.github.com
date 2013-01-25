@@ -11,7 +11,8 @@ A Case Study for Maturing Data Release Practices to Drive Innovation and Increas
 January 8, 2013  
 Department of Transportation  
 Office of the Chief Information Officer  
-[Kristen Baldwin](mailto:kristen.baldwin@dot.gov?subject=Open%20Data%20Case%20Study), Associate Chief Information Officer for IT Policy Oversight  
+[Kristen Baldwin](mailto:kristen.baldwin@dot.gov?subject=Open%20Data%20Case%20Study), Associate Chief Information Officer for IT Policy Oversight
+(202) 366-9201  
 
 --------------------
 
