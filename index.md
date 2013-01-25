@@ -72,7 +72,7 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 
 #5. Resources
 ----------------------
-This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.
+This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.  Each of resources here are actionable items which help reduce the barrier to openning data at your agency.  Help us make everyone have an easier time openning their data by adding more resources like these.
 
 5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED content and sentence
 
