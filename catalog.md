@@ -16,7 +16,7 @@ Why this effort
 
 The data agencies collect and curate is a national treasure. Data from the national weather service and the global positioning system have each given rise to countless products and entire industries, yet much more government data exists, waiting to be tapped of its potential. 
 
-To this end, the digital strategy [requires](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#existing-data action item 2.2) agency to catalog and tag their data to make it more easily discoverable to private-sector developers and entrepreneurs.
+To this end, the digital strategy action item 2.2 [requires](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#existing-data) agencies to catalog and tag their data to make it more easily discoverable to private-sector developers and entrepreneurs.
 
 Through this effort, agencies will begin to tag their data, using common standards, in hopes of building a comprehensive [folksononmy](http://en.wikipedia.org/wiki/Folksonomy) to make government data more easily discoverable. 
 
@@ -44,7 +44,7 @@ The JSON representation of the catalog should track directly to the RDFa version
 Generating Machine-Readable Reporting Files
 -------------------------------------------
 
-Agencies must follow the provided [specification](http://project-open-data.github.com/data-catalog/).  We hope to build an .xml or .json generator for easy entry.  Alternatively you can build one and post for general use.
+Agencies must follow the provided [specification](http://project-open-data.github.com/data-catalog/).  We have built a [catalog generator](https://github.com/project-open-data/catalog-generator) to assit you in building your catalog and generating .xml, .json, or rdfaLite files.  
 
 Presentation
 ------------
@@ -60,4 +60,4 @@ The page must be populated from the machine readable catalog file (e.g. data.xml
 Supplemental Information
 ------------------------
 
-Agencies are encouraged to supplement this requirement  with other information, outreach and tools (e.g. blog posts, github tools, customer engagement tools etc).  Components, bureaus and programs are als encouraged to highlight their work implementing the Policy through their own channels.  
+Agencies are encouraged to supplement this requirement  with other information, outreach and tools (e.g. blog posts, github tools, customer engagement tools etc).  Components, bureaus and programs are als encouraged to highlight their work implementing the Policy through their own channels.
