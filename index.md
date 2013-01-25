@@ -67,12 +67,12 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 
 4-7 [JSON Validator](https://github.com/project-open-data/json-validator) - Validation tool to confirm the formatting of agency.gov/data catalog files. -  *[Hosted](http://project-open-data.github.com/json-validator/)*
 
-4-8 [API](https://github.com/project-open-data/iodocs) [Sandbox](https://github.com/project-open-data/swagger-core) - Two interactive API documentation systems.  
+4-8 [API Sandbox](https://github.com/project-open-data/json-validator) - Interactive API documentation systems.  
 
 
 #5. Resources
 ----------------------
-This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.  Each of resources here are actionable items which help reduce the barrier to openning data at your agency.  Help us make everyone have an easier time openning their data by adding more resources like these.
+This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.
 
 5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED content and sentence
 
