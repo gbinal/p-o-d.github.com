@@ -68,4 +68,6 @@ Through the implementation of the Exchange Network and CDX, EPA has learned seve
 * [www.epa.gov/exchangenetwork](http://www.epa.gov/exchangenetwork)
 * [www.epa.gov/datastandards](http://www.epa.gov/datastandards)
 
+## Disclaimer
 
+References to the product and/or service names of the hardware and/or software products used in this case study do not constitute an endorsement of such hardware and/or software products.
