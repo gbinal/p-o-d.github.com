@@ -74,7 +74,8 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 ----------------------
 This section contains programatic tools, resources and/or checklists to help programs determine open data requirements.
 
-5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - NEED content and sentence
+5-1 [Metadata Resources](http://project-open-data.github.com/metadata-resources/) - 
+Resources to provide guidance and assistance for each aspect of creating and maintaining agency.gov/data catalog files.  
 
 5-2 [Business Case for Open Data](http://project-open-data.github.com/business-case/) - NEED Content & sentence
 
