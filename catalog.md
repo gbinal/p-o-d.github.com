@@ -30,7 +30,7 @@ All information deemed 'machine-readable' required in this policy must be availa
 Implementing
 ------------
 
-To fulfill the requirements of this memorandum, agencies should begin to [describe datasets using the schema.org vocabulary](http://blog.schema.org/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
+To fulfill the requirements of this memorandum, agencies should begin to [describe datasets using the vocabulary at ](http://FIXLINK/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
 
 ### JSON
 
@@ -55,7 +55,7 @@ Agencies must have present a table/list of each dataset in the /data page.  The 
 * Dataset description
 * URL to the dataset (endpoint)
 
-The page must be populated from the machine readable catalog file (e.g. data.xml or data.json) following the [specification](http://project-open-data.github.com/data-catalog/) described above.  Agencies are encouraged to add functionality to assit end user discoverability.  Additional functions might be sorting, filtering or paging to help make a more digestible list.  Agencies are also encouraged to add more to the standard schema which might further assist end user discoverability and usability (e.g. thumbnails).
+The page must be populated from the machine readable catalog file (e.g. data.xml or data.json) following the [specification](http://project-open-data.github.com/data-catalog/) described above.  Agencies are encouraged to add functionality to assist end user discoverability.  Additional functions might be sorting, filtering or paging to help make a more digestible list.  Agencies are also encouraged to add more to the standard schema which might further assist end user discoverability and usability (e.g. thumbnails).
 
 Supplemental Information
 ------------------------
