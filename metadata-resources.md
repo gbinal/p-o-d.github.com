@@ -6,23 +6,16 @@ filename: metadata-resources.md
 published: false
 ---
 
-<table border="1" width="60%">
-<b>
-<tr>
-<td>
-<ul>
+<table width="60%">
+<b><tr><td><ul>
 <li><a href="http://project-open-data.github.com/metadata-resources/#template">Template Data Files</a></li>
 <li><a href="http://project-open-data.github.com/metadata-resources/#sample">Sample Data Files</a></li>
 <li><a href="http://project-open-data.github.com/metadata-resources/#guidance">Schema Guidance</a></li>
-</ul>
-</td>
-</tr>
-<tr>
+</ul></td>
 <td><ul>
 <li><a href="http://project-open-data.github.com/metadata-resources/#maps">Schema Maps</a></li>
-<li><a href="http://project-open-data.github.com/metadata-resources/#generator">How to use the Catalog Generator</a></li></ul></td>
-</tr>
-</b>
+<li><a href="http://project-open-data.github.com/metadata-resources/#generator">How to use the Catalog Generator</a></li>
+</ul></td></tr></b>
 </table>
 
 
