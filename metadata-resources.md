@@ -6,6 +6,11 @@ filename: metadata-resources.md
 published: false
 ---
 
+* [Template Data Files](http://project-open-data.github.com/metadata-resources/#template)
+* [Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)
+
+
+
 * Sample Datasets - 
 * Schema Maps - 
 * Schema Translation Tools - 
@@ -35,3 +40,16 @@ metadata  maps
 translation tools
 (do we need more RDFa/XML vs. JSON guidance)
 (implementation guidance for low, medium, and advanced agencies?)
+
+
+
+## Template Data Files<a id="template"></a>
+* JSON
+* XML
+* RDFa Lite
+
+
+## Sample Data Files<a id="sample"></a>
+* JSON
+* XML
+* RDFa Lite
