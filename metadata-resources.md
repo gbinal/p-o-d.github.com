@@ -18,7 +18,7 @@ published: false
 <li><a href=""></a></li>
 </ul></td></tr></b>
 </table>
-====================
+-------------------
 
 * Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
 
