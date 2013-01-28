@@ -23,7 +23,7 @@ published: false
 * Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
 
 Potential elements:
-Scheme about how to get what is needed with metadata
+
 guide to implementation
 
 Use cases for generating catalog files (include socrata export)
@@ -38,31 +38,44 @@ changes to pages
 
 
 
-### Template Data Files<a id="template"></a>
+### Template Data Files<a id="template"/>
 * [CSV]()
 * [JSON]()
 * [XML]()
 * [RDFa Lite]()
 
 
-### Sample Data Files<a id="sample"></a>
+### Sample Data Files<a id="sample"/>
 * [CSV]()
 * [JSON]()
 * [XML]()
 * [RDFa Lite]()
 
-### Schema Guidance<a id="guidance"></a>
+### Schema Guidance<a id="guidance"/>
 
 catalogs/norms for each item in schema
 
-### Schema Maps<a id="maps"></a>
+### Schema Maps<a id="maps"/>
 
 A breakdown of the data.json schema as [mapped to other related schemas]().  
 
-### How to use the Catalog Generator<a id="generator"></a>
+### How to use the Catalog Generator<a id="generator"/>
 
 Generating a data file from scratch
 
 Translating a data file from another schema
 
+Translating a data file from another file format 
+
  ...and other paths
+ 
+ 
+ ### Use Cases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
