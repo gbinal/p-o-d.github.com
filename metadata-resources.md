@@ -6,29 +6,16 @@ filename: metadata-resources.md
 published: false
 ---
 
-
-|:------------:|:------------:|:------------:|
-| **[Template Data Files](http://project-open-data.github.com/metadata-resources/#template)** | **[Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)** | **[Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)** |
-| **[Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)** | **[How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)** | **** |
-
-| [Template Data Files](http://project-open-data.github.com/metadata-resources/#template) | [Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample) | [Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance) |
-|:------------:|:------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
-
-
-<table border="1">
+<table border="1" width="60%">
 <tr>
-<td>row 1, cell 1</td>
-<td>row 1, cell 2</td>
+<td>**[Template Data Files](http://project-open-data.github.com/metadata-resources/#template)**</td>
+<td>**[Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)**</td>
+<td>**[Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)**</td>
 </tr>
 <tr>
-<td>row 2, cell 1</td>
-<td>row 2, cell 2</td>
+<td>**[Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)**</td>
+<td>**[How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)**</td>
+<td></td>
 </tr>
 </table>
 
