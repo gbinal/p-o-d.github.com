@@ -8,13 +8,13 @@ published: false
 
 <table border="1" width="60%">
 <tr>
-<td>**[Template Data Files](http://project-open-data.github.com/metadata-resources/#template)**</td>
-<td>**[Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)**</td>
-<td>**[Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)**</td>
+<td><b>[Template Data Files](http://project-open-data.github.com/metadata-resources/#template)</b></td>
+<td><b>[Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)</b></td>
+<td><b>[Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)</b></td>
 </tr>
 <tr>
-<td>**[Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)**</td>
-<td>**[How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)**</td>
+<td><b>[Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)</b></td>
+<td><b>[How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)</b></td>
 <td></td>
 </tr>
 </table>
