@@ -11,8 +11,8 @@ published: false
 | **[Template Data Files](http://project-open-data.github.com/metadata-resources/#template)** | **[Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)** | **[Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)** |
 | **[Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)** | **[How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)** | **** |
 
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
+| [Template Data Files](http://project-open-data.github.com/metadata-resources/#template) | [Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample) | [Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance) |
+|:------------:|:------------:|:------------:|
 | This       |        This |     This     |
 | column     |      column |    column    |
 | will       |        will |     will     |
