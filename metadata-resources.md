@@ -14,6 +14,18 @@ published: false
 * 
 
 
+
+| First Header  | Second Header | Third Header         |
+| :------------ | :-----------: | -------------------: |
+| First row     | Data          | Very long data entry |
+| Second row    | **Cell**      | *Cell*               |
+| Third row     | Cell that spans across two columns  ||
+[Table caption, works as a reference][section-mmd-tables-table1] 
+
+
+
+
+
 * Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
 
 Potential elements:
@@ -60,4 +72,3 @@ Generating a data file from scratch
 Translating a data file from another schema
 
  ...and other paths
-
