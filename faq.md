@@ -81,7 +81,7 @@ published: false
 > In the near term, Data.gov will continue it's current dataset publishing process.  As agencies deploy agency.gov/data page, the publishing process will become a harvesting of metadata from the agencies web site.
 
 * Are redirects allowed for /data pages?
-> Yes, redirects are useful for agencies who need alternatives for their Content Management Systems (CMSs).
+> No, the files should be located at agency.gov/data webspace.  Each agency should populate files named agency.gov/data.json, agency.gov/data.html and agency.gov/data.xml .
  
 * What options exist for hosting the /data.json file specifically at agency.gov/data.json?  
 > 1. For websites that are composed of static html, simiply host the data.json file at the designated location.  
