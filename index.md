@@ -80,7 +80,7 @@ This section contains programatic tools, resources and/or checklists to help pro
 
 5-3 [General Workflows for Open Data Projects](http://project-open-data.github.com/future-case-study/) - A comprehensive overview of the steps involved in open data projects and their associated benefits.  
 
-5-4 [Open License Examples](http://project-open-data.github.com/license-examples/) - NEED Content and sentence
+5-4 [Open License Examples](http://project-open-data.github.com/license-examples/) - Potential licenses for data and content.  
 
 5-5 [Chief Data Officer Material](http://project-open-data.github.com/cdo/) - Sample language for a Chief Data Officer position description.
 
