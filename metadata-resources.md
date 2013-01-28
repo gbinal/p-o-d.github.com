@@ -6,23 +6,10 @@ filename: metadata-resources.md
 published: false
 ---
 
-* [Template Data Files](http://project-open-data.github.com/metadata-resources/#template)
-* [Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)
-* [Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)
-* [Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)
-* [How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)
-* 
 
 
-
-| First Header  | Second Header | Third Header         |
-| :------------ | :-----------: | -------------------: |
-| First row     | Data          | Very long data entry |
-| Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  ||
-[Table caption, works as a reference][section-mmd-tables-table1] 
-
-
+| **[Template Data Files](http://project-open-data.github.com/metadata-resources/#template)**  | **[Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)** | **[Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)**         |
+| **[Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)** | **[How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)** | **** |
 
 
 
