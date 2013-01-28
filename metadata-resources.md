@@ -7,16 +7,17 @@ published: false
 ---
 
 <table border="1" width="60%">
+<b>
 <tr>
 <td>
-<b><ul>
+<ul>
 <li><a href="http://project-open-data.github.com/metadata-resources/#template">Template Data Files</a></li>
-<li><td><a href="http://project-open-data.github.com/metadata-resources/#sample">Sample Data Files</a></li>
-<li><td><a href="http://project-open-data.github.com/metadata-resources/#guidance">Schema Guidance</a></li></td>
+<li><a href="http://project-open-data.github.com/metadata-resources/#sample">Sample Data Files</a></li>
+<li><a href="http://project-open-data.github.com/metadata-resources/#guidance">Schema Guidance</a></li></td>
 </tr>
 <tr>
-<ul>
-<li><td><a href="http://project-open-data.github.com/metadata-resources/#maps">Schema Maps</a></li>
+<td><ul>
+<li><a href="http://project-open-data.github.com/metadata-resources/#maps">Schema Maps</a></li>
 <li><a href="http://project-open-data.github.com/metadata-resources/#generator">How to use the Catalog Generator</a></li></td>
 </tr>
 </b>
