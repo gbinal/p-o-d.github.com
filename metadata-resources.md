@@ -38,28 +38,28 @@ changes to pages
 
 
 
-### Template Data Files<a id="template" />[]()
+### Template Data Files<a id="template" />[ ]()
 * [CSV]()
 * [JSON]()
 * [XML]()
 * [RDFa Lite]()
 
 
-### Sample Data Files<a id="sample" />[]()
+### Sample Data Files<a id="sample" />[ ]()
 * [CSV]()
 * [JSON]()
 * [XML]()
 * [RDFa Lite]()
 
-### Schema Guidance<a id="guidance" />[]()
+### Schema Guidance<a id="guidance" />[ ]()
 
 catalogs/norms for each item in schema
 
-### Schema Maps<a id="maps" />[]()
+### Schema Maps<a id="maps" />[ ]()
 
 A breakdown of the data.json schema as [mapped to other related schemas]().  
 
-### How to use the Catalog Generator<a id="generator" />[]()
+### How to use the Catalog Generator<a id="generator" />[ ]()
 
 Generating a data file from scratch
 
