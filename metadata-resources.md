@@ -21,6 +21,11 @@ published: false
 | aligned    |     aligned |   aligned    |
 
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
 
 
 * Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
