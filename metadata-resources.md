@@ -8,48 +8,56 @@ published: false
 
 * [Template Data Files](http://project-open-data.github.com/metadata-resources/#template)
 * [Sample Data Files](http://project-open-data.github.com/metadata-resources/#sample)
+* [Schema Guidance](http://project-open-data.github.com/metadata-resources/#guidance)
+* [Schema Maps](http://project-open-data.github.com/metadata-resources/#maps)
+* [How to use the Catalog Generator](http://project-open-data.github.com/metadata-resources/#generator)
+* 
 
 
-
-* Sample Datasets - 
-* Schema Maps - 
-* Schema Translation Tools - 
 * Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
-
-
 
 Potential elements:
 Scheme about how to get what is needed with metadata
-templates and examples
-json, xml, and RDFa lite
-internal and external versions
 guide to implementation
-how to use the generator and other paths
 
 Use cases for generating catalog files (include socrata export)
 CKAN use cases
 how to import from csv, json
 how to export to json, csv
 
-catalogs/norms for each item in schema
-
 column with recommended domain lists (and other things they should use)
-
 changes to pages 
-metadata  maps
-translation tools
 (do we need more RDFa/XML vs. JSON guidance)
 (implementation guidance for low, medium, and advanced agencies?)
 
 
 
-## Template Data Files<a id="template"></a>
-* JSON
-* XML
-* RDFa Lite
+### Template Data Files<a id="template"></a>
+* [CSV]()
+* [JSON]()
+* [XML]()
+* [RDFa Lite]()
 
 
-## Sample Data Files<a id="sample"></a>
-* JSON
-* XML
-* RDFa Lite
+### Sample Data Files<a id="sample"></a>
+* [CSV]()
+* [JSON]()
+* [XML]()
+* [RDFa Lite]()
+
+### Schema Guidance<a id="guidance"></a>
+
+catalogs/norms for each item in schema
+
+### Schema Maps<a id="maps"></a>
+
+A breakdown of the data.json schema as [mapped to other related schemas]().  
+
+### How to use the Catalog Generator<a id="generator"></a>
+
+Generating a data file from scratch
+
+Translating a data file from another schema
+
+ ...and other paths
+
