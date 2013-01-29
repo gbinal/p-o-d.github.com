@@ -35,7 +35,7 @@ published: false
 
 ### Metadata Field  Guidance
 
-catalogs/norms for each item in schema
+catalogs/norms for each item in schema... (Under construction)
 
 ### Schema Maps
 
