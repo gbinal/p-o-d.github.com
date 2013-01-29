@@ -20,46 +20,38 @@ published: false
 </table>
 -------------------
 
-* Instructions for RDFa/XML vs. JSON preference - (duplicative; already on the schema repo page)
+
 
 Potential elements:
 
-guide to implementation
 
 Use cases for generating catalog files (include socrata export)
 CKAN use cases
 how to import from csv, json
 how to export to json, csv
 
-column with recommended domain lists (and other things they should use)
-changes to pages 
-(do we need more RDFa/XML vs. JSON guidance)
-(implementation guidance for low, medium, and advanced agencies?)
-
-
-
-### Template Data Files<a id="template" />[ ]()
+### Template Data Files
 * [CSV]()
 * [JSON]()
 * [XML]()
 * [RDFa Lite]()
 
 
-### Sample Data Files<a id="sample" />[ ]()
+### Sample Data Files
 * [CSV]()
 * [JSON]()
 * [XML]()
 * [RDFa Lite]()
 
-### Schema Guidance<a id="guidance" />[ ]()
+### Metadata Field  Guidance
 
 catalogs/norms for each item in schema
 
-### Schema Maps<a id="maps" />[ ]()
+### Schema Maps
 
 A breakdown of the data.json schema as [mapped to other related schemas]().  
 
-### How to use the Catalog Generator<a id="generator" />[ ]()
+### How to use the Catalog Generator
 
 Generating a data file from scratch
 
