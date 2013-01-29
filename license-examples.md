@@ -7,7 +7,7 @@ filename: license-examples.md
 
 ## Generally
 
-US Government Work... data procured from third party should be licencensed... In general, licenses should comply with [the open knowledge definition](http://opendefinition.org/okd/).
+Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection under 17 U.S.C. § 105. When purchasing data or content from third-party vendors, however care must be taken to ensure the information is not hindered by a restrictive, non-open license. In general, such licenses should comply with [the open knowledge definition](http://opendefinition.org/okd/) of an open license. Several examples of common open licenses are listed below:
 
 ## Content Licenses
 * [Creative Commons BY, BY-SA, or CC0](http://creativecommons.org/choose/)
@@ -19,4 +19,5 @@ US Government Work... data procured from third party should be licencensed... In
 * [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/)
 * [Creative Commons CC0](http://creativecommons.org/choose/)
 
+## More Information
 *[Extended list of comformant licenses](http://opendefinition.org/licenses/)*
