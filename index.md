@@ -3,7 +3,6 @@ permalink: /index/
 layout: hero
 filename: index.md
 title: Project Open Data
-description: Description
 published: false
 ---
 
