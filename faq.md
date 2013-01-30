@@ -14,11 +14,11 @@ Technology moves much faster than policy ever could.  Often when writing policy 
 
 ### How does it solve that problem?
 
-This Appendix is meant to be a living document so that collaboration in the open data ecosystem is fostered and the continual update of technology pieces that affect update can happen on a more rapid pace.
+This Project is meant to be a living document so that collaboration in the open data ecosystem is fostered and the continual update of technology pieces that affect update can happen on a more rapid pace.
 
 ### Where do I come in?
 
-Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here.   
+Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here, or add tools that helps anyone open data (See 'How can I contribute'). 
 
 ### How can I contribute?
 
