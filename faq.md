@@ -6,6 +6,12 @@ filename: faq.md
 published: false
 ---
 
+* auto-gen TOC:
+{:toc}
+
+
+
+
 ## Project Open Data
 
 ### What problem does this solve?
