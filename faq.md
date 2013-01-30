@@ -6,11 +6,8 @@ filename: faq.md
 published: false
 ---
 
-* auto-gen TOC:
-{:toc}
 
-
-
+--toc
 
 ## Project Open Data
 
