@@ -15,7 +15,7 @@ published: false
 <td><ul>
 <li><a href="#maps">Schema Maps</a></li>
 <li><a href="#use-cases">Use Cases</a></li>
-</ul></td><div></div></tr></b>
+</ul></td><br></tr></b>
 </table>
 -------------------
 
