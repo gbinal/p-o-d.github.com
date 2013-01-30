@@ -50,21 +50,23 @@ The project [as originally published](#) constitutes a work of the United States
 
 In order to better facilitate collaboration, the content of this project is licensed under the [creative commons 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php). 
 
+### Who can participate in Project Open Data?  
+
+Anyone – Federal employees, contractors, developers, the general public – can view and contribute to Project Open Data.
+
 ### Are my interactions to this project subject to any special privacy considerations?
 
 Comments, pull requests and any other messages received through this repository may be subject to the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html) and may be archived. Learn more at http://WhiteHouse.gov/privacy
 
 ### Who is in charge of Project Open Data?  
 
-The White House owns Project Open Data, and will directly manage a select set of repos while a program management office (PMO) in the General Services Administration (GSA) will delegate management of other individual repos on behalf of the White House, as well as provide daily oversight and user support for the Project.
+Ultimately? You. While the White House founded and continues to oversee the project, Project Open Data is a collaborative work — commonly known as "open source" — and is supported by the efforts of an entire community. See the "how to contribute" section above to learn more.
 
-### Who can participate in Project Open Data?  
+At the onset, the General Services Administration is here to provide daily oversight and support, but over time, it is our vision that contributors both inside and outside of government can be empowered to take on additional leadership roles.
 
-Anyone – Federal employees, contractors, developers, the general public – can view and contribute to Project Open Data. (Set up a GitHub user account to get started).
+### Can I create a new page?
 
-### Can I create a new page (i.e., repo) within Project Open Data?
-
-Creation of a new repo within Project Open Data is controlled by the project PMO. If you would like to create a new repo, please (insert instructions).
+Yes! Simply follow the "advanced" instructions above to submit a pull request.
 
 ### How can I see whether my suggested change (i.e., pull request) was accepted?
 
