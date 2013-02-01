@@ -20,7 +20,7 @@ This Project is meant to be a living document so that collaboration in the open 
 
 ### Where do I come in?
 
-Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here, or add tools that helps anyone open data (See 'How can I contribute'). 
+Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute'). 
 
 ### How can I contribute?
 
@@ -100,13 +100,13 @@ CHECK TO SEE IF THE POLICY LANGUAGE CHANGED
 
 ### Does PDF meet the “machine readable and open format” requirement?
 
-While ISO 32000 is an open standard, the Portable Document Format (PDF) does not achieve the same level of openess as CSV, XML, JSON and other generic formats.
+While ISO 32000 is an open standard, the Portable Document Format (PDF) does not achieve the same level of openness as CSV, XML, JSON and other generic formats.
 
 ## Metadata
 
 ### What is the relationship of the metadata standard (specifically) to NIEM, ISE, FGDC, and other existing (especially official) government data standards?
 
-The core metadata schema at {LINK} is based on existing vocabularies and easily mapped to NIEM, Information Sharing Enviroment, and FGDC.
+The core metadata schema at {LINK} is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
 
 ### What is a "persistent identifier"?
 
@@ -114,24 +114,26 @@ A persistent identifier is a unique label assigned to digital objects or data fi
 
 ### Who established the core metadata schema?
 
-The core metadata schema was the result of recommendations from a governmenwide Metadata Working Group at Data.gov combined with research of existing public schemas for data catalogs.  Most of the elements trace their roots to the Dublin Core Library.
+The core metadata schema was the result of recommendations from a government-wide Metadata Working Group at Data.gov combined with research of existing public schemas for data catalogs.  Most of the elements trace their roots to the Dublin Core Library.
  
 ### How can I recommend changes and improvements to the metadata schema?
 
-### Can I extend the metadata schema beyond the terms specified at {LINK} ?
+(insert answer) 
 
-Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, pubishing additional metadata that makes your data more usefull to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
+### Can I extend the metadata schema beyond the terms specified at {LINK}?
+
+Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, publishing additional metadata that makes your data more useful to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
  
 
 ## Security, Privacy and Data Quality
 
-### Who is reponsible for insuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agencies requirements for security and privacy and quality?
+### Who is responsible for insuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agency's requirements for security and privacy and quality?
 
 Each agency is responsible for ALL data made public.
  
 ### How can I contact the Data.gov staff for assistance in conducting mosaic effect reviews?
 
-For general questions about Data.gov, please contact http://www.data.gov/contact-us . For specific information about the mosaic effect, please contact the Data.gov PMO at GSA.
+For general questions about Data.gov, please contact http://www.data.gov/contact-us. For specific information about the mosaic effect, please contact the Data.gov PMO at GSA.
 
 
 ## Public Data Listing
@@ -146,15 +148,15 @@ The agency.gov/open page contains informational regards an agencies contribution
 
 ### What is the relationship of the /data page and public data listing to Data.gov and how will this impact current Data.gov processes?
 
-In the near term, Data.gov will continue it's current dataset publishing process.  As agencies deploy agency.gov/data page, the publishing process will become a harvesting of metadata from the agencies web site.
+In the near term, Data.gov will continue its current dataset publishing process.  As agencies deploy agency.gov/data page, the publishing process will become a harvesting of metadata from the agencies web site.
 
 ### Are redirects allowed for /data pages?
 
-No, the files should be located at agency.gov/data webspace.  Each agency should populate files named agency.gov/data.json, agency.gov/data.html and agency.gov/data.xml .
+No, the files should be located at agency.gov/data web space.  Each agency should populate files named agency.gov/data.json, agency.gov/data.html and agency.gov/data.xml .
  
 ### What options exist for hosting the /data.json file specifically at agency.gov/data.json?  
 
-1. For websites that are composed of static html, simiply host the data.json file at the designated location.  
+1. For websites that are composed of static html, simply host the data.json file at the designated location.  
 2. ...
 3. ...
 4. ...
@@ -162,7 +164,7 @@ No, the files should be located at agency.gov/data webspace.  Each agency should
  
 ### How do I get started building this /data file?
 
-Datagov will (when possible) help agencies get started by creating a /data file for each agency containing the metadata in the correct syntax.  The agency will then begin to manage that file for future publishing of datasets.
+Data.gov will (when possible) help agencies get started by creating a /data file for each agency containing the metadata in the correct syntax.  The agency will then begin to manage that file for future publishing of datasets.
   
 ### How should I manage this /data file?
 
@@ -174,7 +176,7 @@ There are several syntaxes that may be used when publishing the data file.  The 
 
 ## Agency participation with Open Data
 
-### What are some of the ways that agencies can become more involved with Open Data
+### What are some of the ways that agencies can become more involved with Open Data?
 
 Having a contact point at the agency who can answer questions and received comments about published data is extremely important to making your data more open and valuable to the public.  This contact point can be centralized at the agency level, but having someone close to the source of the data who understands it well enough to help the public take full advantage of available data is extremely valuable.
 
@@ -186,5 +188,9 @@ Having a contact point at the agency who can answer questions and received comme
 
 ### Which agencies are required to implement this policy?
 
+(insert answer)
+
 ## Timeline
 How long do agencies have to implement the policy?
+
+(insert answer)
