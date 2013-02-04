@@ -21,7 +21,7 @@ The White House developed Project Open Data, this collection of code, tools, and
 --------------
 This section is a list of definitions and principles used to guide the project.
 
-2-1 [Open Data Principles](http://project-open-data.github.com/principles/) - The set of open data principles.
+2-1 [Open Data Principles](http://project-open-data.github.com/principles/) - The set of open data principles..
 
 2-2 [Open Standards](http://project-open-data.github.com/open-standards/) - The definition for open standards. 
 
