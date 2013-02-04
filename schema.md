@@ -38,7 +38,7 @@ Links to downloadable examples of metadata files developed in both of these form
 -----------------------------
 The following "common core" fields are required and used to describe each dataset:
 
-(*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate.*)
+(*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate. [Consult the schema maps to find the equivalent Data.gov fields](/data-dot-gov-map/).*)
 
 {.table .table-striped}
 Field               | Definition                                                                                                                                     | Data.gov Equivalent  |JSON            | RDFa Lite
@@ -69,7 +69,7 @@ Temporal	          | The range of temporal applicability of a dataset (i.e., a s
 
 Beyond Common Core -- Extending the Schema
 ------------------------------------------
-"Extensional" and/or domain specific metadata can easily be added using other vocabularies to embedded HTML or XML markup even if it is not a term (entity/property) that will get indexed by the major search engines â€“ it could still be indexed by other custom search engines and by Data.gov.  Agencies are encouraged to extend their metadata descriptions using elements from the "Expanded Fields" list shown below, or from any well-known vocabulary (including Dublin Core, FGDC, ISO 19115, NIEM, and a growing number of vocabularies published at [vocab.data.gov](http://vocab.data.gov)) as long as they are properly assigned.
+"Extensional" and/or domain specific metadata can easily be added using other vocabularies to embedded HTML or XML markup even if it is not a term (entity/property) that will get indexed by the major search engines - it could still be indexed by other custom search engines and by Data.gov.  Agencies are encouraged to extend their metadata descriptions using elements from the "Expanded Fields" list shown below, or from any well-known vocabulary (including Dublin Core, FGDC, ISO 19115, NIEM, and a growing number of vocabularies published at [vocab.data.gov](http://vocab.data.gov)) as long as they are properly assigned.
 
 Expanded Fields
 ---------------
