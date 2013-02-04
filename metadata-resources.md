@@ -39,7 +39,7 @@ catalogs/norms for each item in schema... (Under construction)
 
 ### Schema Maps
 
-A breakdown of the data.json schema as [mapped to other related schemas]().  
+A breakdown of the data.json schema as [mapped to its pre-existing Data.gov equivalent](data-dot-gov-map)
 
 ### Use Cases  
   
