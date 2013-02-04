@@ -1,13 +1,13 @@
 #document settings
 title: Project Open Data
 description: Document Description
-url: http://project-open-data.github.com/
+url: http://gsa-ocsit.github.com/project-open-data.github.com/
 repo_name: project-open-data.github.com
-branch: master
+branch: gh-pages
 
 #global settings, no need to change these
-root_url: http://project-open-data.github.com
-org_name: project-open-data
+root_url: http://gsa-ocsit.github.com/project-open-data.github.com/
+org_name: gsa-ocsit
 prose_url: http://project-open-data.github.com/contribute/
 
 # default build settings for running locally, no need to edit
