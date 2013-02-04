@@ -6,6 +6,112 @@ filename: data-dot-gov-map.md
 published: true
 ---
 
+
+This repository contains guidance to support the use of standard metadata schema to list agency datasets and APIs as hosted at agency.gov/data.  
+
+Standard Metadata Vocabulary
+----------------------------
+Metadata are selected fields or elements which describe data. The challenge is to define the standard metadata fields and the names of those fields so that the consumer of the data has sufficient information to process and understand the data. The more information that can be conveyed in a standardized regular format, the more valuable data becomes. Metadata can range from basic to advanced â€“ from allowing one to discover the mere fact that a certain data asset exists and is about a general subject all the way to providing detailed semantic information that enables a high degree of machine readability. Making the metadata machine readable greatly increases its openness and utility.
+
+Establishing a common vocabulary is the key to any communication, including communication between machines.  [Schema.org](http://www.schema.org) is a hierarchical vocabulary that is being developed through a collaboration of the major search engines and serves as the basis for the **common core metadata** required in this memorandum. The standard consists of a number of schemas (hierarchical vocabulary terms) that represent things that are most often looked for on the web and encapsulates many of the early lessons learned from vocabulary development.  
+
+
+What to Document -- Datasets and APIs
+-------------------------------------
+
+APIs or Application Programming Interfaces are allow developers (both internal to the agency and the public) to dynamically query a dataset. For example, a dataset [of farmers markets](https://explore.data.gov/Agriculture/Farmers-Markets-Geographic-Data/wfna-38ey) may be made available for download as a single file (e.g., a CSV), or may be made available to developers as an API, such that a developer could provide the agency with a zipcode, and retrieve a list of farmers markets in that area.
+
+The catalog file should include *both* datasets and APIs. Agencies can use the dcat:webService, dcat:download, and dcat:distribution properties to distinguish between datasets and dynamic APIs (see below for more information on Common Core and Extensional metadata elements).
+
+
+Metadata File Formats --  RDFa and JSON
+---------------------------------------
+The Implemention Guidance available as a part of Project Open Data describes Agency requirements for the development of metadata as per the Open Data Policy.  A quick primer on these two file formats follows:
+
+[RDFa Lite](http://www.w3.org/TR/rdfa-lite/) is a minimal subset of RDFa, the Resource Description Framework in attributes, consisting of a few attributes that may be used to express machine-readable data in Web documents like HTML and XML. While it is not a complete solution for advanced data markup tasks, it allows users to publish metadata in a way that is immediately understandable by search engines and other applications built to leverage the growing "web of data."  
+
+[JSON](http://www.json.org) is a lightweight data-exchange format that is very easy to read, parse and generate.  Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange.  JSON is built on two structures: (1) a collection of name/value pairs; and (2) an ordered list of values.  
+
+Links to downloadable examples of metadata files developed in both of these formats can be found at the bottom of this page.  Tools to help agencies produce and maintain their data inventories are available [Coming Soon](.)
+
+
+"Common Core" Required Fields
+-----------------------------
+The following "common core" fields are required and used to describe each dataset:
+
+(*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate.*)
+
+{.table .table-striped}
+Field               | Definition                                                                                                                                     | Data.gov Equivalent  |JSON            | RDFa Lite
+-------             | ---------------                                                                                                                                | -------------------  | --------------  | ------- 
+Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | Title                | title           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)
+Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | Description          | description     | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description)
+Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API.             | Data Dictionary      | dataDictionary  | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)
+URL                 | URL to dataset or API.  This is either the direct download link for the dataset or the service endpoint for the API.                           | Access point         | accessURL       | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)
+Format              | The file format or API type of the distribution                                                                                                | Media Format         | format          | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)
+Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | Keywords             | keywords        | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)
+Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                        | Date updated         | modified        | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)
+Publisher           | The publishing agency.  Must use the controlled vocabulary [Coming Soon](http://vocab.data.gov) when choosing your agency name.                | Agency Name          | organization    | [foaf:Organization](http://xmlns.com/foaf/spec/#term_Organization)
+Contact Name        | Contact person's name (first, then last) for the asset	                                                                                       | Contact Name         | person	         | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)
+Contact Email	      | Contact person's email address			           	                                                                                               | Contact Email Address| mbox		         | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)
+Public              | Whether the dataset or API is available to the public (true/false)                                                                             | n/a                  | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)
+
+
+"Common Core" Required if Applicable Fields
+-------------------------------------------
+The following fields must be used to describe each dataset if they are applicable:
+
+{.table .table-striped}
+Field               | Definition                                                                                                                                     | Data.gov Equivalent  |JSON            | RDFa Lite
+-------             | ---------------                                                                                                                                | -------------------  | --------------  | ------- 
+License             | The license dataset or API is published with.  See [Open Licenses](http://project-open-data.github.com/open-licenses/) for more information.   | Dataset license agreement URL | license         | [dcterms:license](http://www.w3.org/TR/vocab-dcat/#property--license-1)
+Spatial  	          | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place from the [GeoNames](http://www.geonames.org) vocabulary (e.g., "Michigan").                     | Geographic scope     | spatial 	       | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage)
+Temporal	          | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data)                                                                                              | Period of Coverage   | temporal	       | [dcterms:temporal](http://www.w3.org/TR/vocab-dcat/#property--temporal-coverage)
+
+Beyond Common Core -- Extending the Schema
+------------------------------------------
+"Extensional" and/or domain specific metadata can easily be added using other vocabularies to embedded HTML or XML markup even if it is not a term (entity/property) that will get indexed by the major search engines â€“ it could still be indexed by other custom search engines and by Data.gov.  Agencies are encouraged to extend their metadata descriptions using elements from the "Expanded Fields" list shown below, or from any well-known vocabulary (including Dublin Core, FGDC, ISO 19115, NIEM, and a growing number of vocabularies published at [vocab.data.gov](http://vocab.data.gov)) as long as they are properly assigned.
+
+Expanded Fields
+---------------
+Agencies our encourage to use the following expanded fields when appropriate. Agencies may freely augment these fields with their own.
+
+{.table .table-striped}
+Field               | Definition                                                                                                                                    | Data.gov Equivalent   | JSON                  | RDFa Lite
+------              | ------                                                                                                                                        | -------------------   | ----                  | --------
+Release Date        | Date of formal issuance                                                                                                                       | Date Released         | issued                | [dct:issued](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#issued)
+Frequency           | Frequency with which dataset is published                                                                                                     | Frequency             | accrualPeriodicity    | [dct:accrualPeriodicity](http://purl.org/dc/terms/accrualPeriodicity)
+Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database                                                 | User Generated ID     | identifier            | [dcterms:identifier](http://www.w3.org/TR/vocab-dcat/#property--identifier)
+Language            | The language of the dataset                                                                                                                   | n/a                   | language              | [dcat:language](http://www.w3.org/TR/vocab-dcat/#property--language-1)
+Granularity         | Level of granularity of the dataset.  Typically geographical or temporal.                                                                     | Geographic Granularity  | granularity           | [dcat:granularity](http://www.w3.org/TR/vocab-dcat/#property--granularity)
+Data Quality        | Describe the quality of the data                                                                                                              | Data Quality          | dataQuality           | [dcat:dataQuality](http://www.w3.org/TR/vocab-dcat/#property--data-quality)
+Category            | Main thematic category of the dataset.  Could include [ISO Topic Categories](http://gcmd.nasa.gov/User/difguide/iso_topics.html)              | Subject Area          | theme                 | [dcat:theme](http://www.w3.org/TR/vocab-dcat/#property--theme-category)
+Related Documents   | Related documents such as developer documentation                                                                                             | Reference for Technical Documentation | references            | [dcterms:references](http://purl.org/dc/terms/references)
+Distribution        | Connects a dataset to available distributions                                                                                                 | Dataset Group Name    | distribution          | [dcat:distribution](http://www.w3.org/ns/dcat#distribution)
+Size                | The size of the downloadable dataset                                                                                                          | File Size             | size                  | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size)
+Download URL        | URL providing direct access to the downloadable distribution of a dataset                                                                     | Access Point          | download              | [dcat:download](http://www.w3.org/TR/vocab-dcat/#class--download)
+Homepage URL        | For presentation of results in Data.gov only: directs user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface |n/a	| homepage	            | [foaf:homepage](http://xmlns.com/foaf/spec/#term_homepage)
+Endpoint            | Endpoint of web service to access dataset                                                                                                     | Access Point          | WebService            | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice)
+RSS Feed            | URL for an RSS feed that provides access to the dataset                                                                                       | Access Point          | Feed                  | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)
+
+
+Additional Information
+----------------------
+* [Schema.org](http://schema.org)
+* [DCAT](http://www.w3.org/TR/vocab-dcat/)
+* [vocab.data.gov](http://vocab.data.gov)
+
+
+Examples (coming soon)
+--------
+* [JSON](examples/catalog.json)
+* [XML](examples/xml/)
+
+
+
+===============================================
+
+
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            | RDFa Lite  | Data.gov Equivalent  
 -------             | ---------------                                                                                                                                | -------------------  | --------------  | ------- 
