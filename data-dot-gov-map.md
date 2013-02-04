@@ -59,17 +59,5 @@ Endpoint            | Endpoint of web service to access dataset                 
 RSS Feed            | URL for an RSS feed that provides access to the dataset                                                                                       | Feed                  | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)  | Access Point          
 
 
-Additional Information
-----------------------
-* [Schema.org](http://schema.org)
-* [DCAT](http://www.w3.org/TR/vocab-dcat/)
-* [vocab.data.gov](http://vocab.data.gov)
-
-
-Examples (coming soon)
---------
-* [JSON](examples/catalog.json)
-* [XML](examples/xml/)
-
 
 
