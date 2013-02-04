@@ -41,20 +41,21 @@ The following "common core" fields are required and used to describe each datase
 
 (*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate.*)
 
+
 {.table .table-striped}
-Field               | Definition                                                                                                                                     | Data.gov Equivalent  |JSON            | RDFa Lite
+Field               | Definition                                                                                                                                     |JSON            | RDFa Lite  | Data.gov Equivalent  
 -------             | ---------------                                                                                                                                | -------------------  | --------------  | ------- 
-Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | Title                | title           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)
-Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | Description          | description     | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description)
-Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API.             | Data Dictionary      | dataDictionary  | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)
-URL                 | URL to dataset or API.  This is either the direct download link for the dataset or the service endpoint for the API.                           | Access point         | accessURL       | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)
-Format              | The file format or API type of the distribution                                                                                                | Media Format         | format          | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)
-Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | Keywords             | keywords        | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)
-Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                        | Date updated         | modified        | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)
-Publisher           | The publishing agency.  Must use the controlled vocabulary [Coming Soon](http://vocab.data.gov) when choosing your agency name.                | Agency Name          | organization    | [foaf:Organization](http://xmlns.com/foaf/spec/#term_Organization)
-Contact Name        | Contact person's name (first, then last) for the asset	                                                                                       | Contact Name         | person	         | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)
-Contact Email	      | Contact person's email address			           	                                                                                               | Contact Email Address| mbox		         | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)
-Public              | Whether the dataset or API is available to the public (true/false)                                                                             | n/a                  | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)
+Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | title           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)  | Title                
+Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | description     | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description)  | Description          
+Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API.             | dataDictionary  | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)  | Data Dictionary      
+URL                 | URL to dataset or API.  This is either the direct download link for the dataset or the service endpoint for the API.                           | accessURL       | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)  | Access point         
+Format              | The file format or API type of the distribution                                                                                                | format          | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)  | Media Format         
+Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keywords        | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)  | Keywords             
+Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                        | modified        | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)  | Date updated         
+Publisher           | The publishing agency.  Must use the controlled vocabulary [Coming Soon](http://vocab.data.gov) when choosing your agency name.                | organization    | [foaf:Organization](http://xmlns.com/foaf/spec/#term_Organization)  | Agency Name          
+Contact Name        | Contact person's name (first, then last) for the asset                                                                                         | person           | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)  | Contact Name         
+Contact Email	      | Contact person's email address			           	                                                                                               | mbox		         | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)  | Contact Email Address
+Public              | Whether the dataset or API is available to the public (true/false)                                                                             | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)  | n/a                  
 
 
 "Common Core" Required if Applicable Fields
@@ -111,21 +112,6 @@ Examples (coming soon)
 
 ===============================================
 
-
-{.table .table-striped}
-Field               | Definition                                                                                                                                     |JSON            | RDFa Lite  | Data.gov Equivalent  
--------             | ---------------                                                                                                                                | -------------------  | --------------  | ------- 
-Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | title           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)  | Title                
-Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | description     | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description)  | Description          
-Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API.             | dataDictionary  | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)  | Data Dictionary      
-URL                 | URL to dataset or API.  This is either the direct download link for the dataset or the service endpoint for the API.                           | accessURL       | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)  | Access point         
-Format              | The file format or API type of the distribution                                                                                                | format          | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)  | Media Format         
-Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keywords        | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)  | Keywords             
-Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                        | modified        | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)  | Date updated         
-Publisher           | The publishing agency.  Must use the controlled vocabulary [Coming Soon](http://vocab.data.gov) when choosing your agency name.                | organization    | [foaf:Organization](http://xmlns.com/foaf/spec/#term_Organization)  | Agency Name          
-Contact Name        | Contact person's name (first, then last) for the asset                                                                                         | person	         | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)  | Contact Name         
-Contact Email	      | Contact person's email address			           	                                                                                               | mbox		         | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)  | Contact Email Address
-Public              | Whether the dataset or API is available to the public (true/false)                                                                             | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)  | n/a                  
 
 
 "Common Core" Required if Applicable Fields
