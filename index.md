@@ -36,7 +36,7 @@ This section is a list of definitions and principles used to guide the project.
 ----------------
 Implementation guidance for open data practices.  
 
-3-1 U.S. Government Policy on Open Data - NEED LINK & sentence
+3-1 [U.S. Government Policy on Open Data](http://project-open-data.github.com/policy-memo/) - Full text of the memorandum.  
 
 3-2 [Implementation Guide](/implementation-guide/) - NEED Content & sentence
 
