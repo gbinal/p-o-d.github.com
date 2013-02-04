@@ -3,7 +3,7 @@ layout: default
 title: Common Core Metadata Schema
 permalink: /schema/
 filename: schema.md
-published: false
+published: true
 ---
 
 This repository contains guidance to support the use of standard metadata schema to list agency datasets and APIs as hosted at agency.gov/data.  
