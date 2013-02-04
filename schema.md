@@ -10,7 +10,7 @@ This repository contains guidance to support the use of standard metadata schema
 
 Standard Metadata Vocabulary
 ----------------------------
-Metadata are selected fields or elements which describe data. The challenge is to define the standard metadata fields and the names of those fields so that the consumer of the data has sufficient information to process and understand the data. The more information that can be conveyed in a standardized regular format, the more valuable data becomes. Metadata can range from basic to advanced â€“ from allowing one to discover the mere fact that a certain data asset exists and is about a general subject all the way to providing detailed semantic information that enables a high degree of machine readability. Making the metadata machine readable greatly increases its openness and utility.
+Metadata are selected fields or elements which describe data. The challenge is to define the standard metadata fields and the names of those fields so that the consumer of the data has sufficient information to process and understand the data. The more information that can be conveyed in a standardized regular format, the more valuable data becomes. Metadata can range from basic to advanced, from allowing one to discover the mere fact that a certain data asset exists and is about a general subject all the way to providing detailed semantic information that enables a high degree of machine readability. Making the metadata machine readable greatly increases its openness and utility.
 
 Establishing a common vocabulary is the key to any communication, including communication between machines.  [Schema.org](http://www.schema.org) is a hierarchical vocabulary that is being developed through a collaboration of the major search engines and serves as the basis for the **common core metadata** required in this memorandum. The standard consists of a number of schemas (hierarchical vocabulary terms) that represent things that are most often looked for on the web and encapsulates many of the early lessons learned from vocabulary development.  
 
@@ -31,14 +31,14 @@ The Implemention Guidance available as a part of Project Open Data describes Age
 
 [JSON](http://www.json.org) is a lightweight data-exchange format that is very easy to read, parse and generate.  Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange.  JSON is built on two structures: (1) a collection of name/value pairs; and (2) an ordered list of values.  
 
-Links to downloadable examples of metadata files developed in both of these formats can be found at the bottom of this page.  Tools to help agencies produce and maintain their data inventories are available [Coming Soon](.)
+Links to downloadable examples of metadata files developed in both of these formats can be found at the bottom of this page.  Tools to help agencies produce and maintain their data inventories are available at [Labs.Data.go](http://labs.data.gov).
 
 
 "Common Core" Required Fields
 -----------------------------
-The following "common core" fields are required and used to describe each dataset:
+The following "common core" fields are required, to be used to describe each entry:
 
-(*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate. [Consult the schema maps to find the equivalent Data.gov fields](/data-dot-gov-map/).*)
+(*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate. [Consult the schema maps to find the equivalent Data.gov fields](data-dot-gov-map).*)
 
 {.table .table-striped}
 Field               | Definition                                                                                                                                     | Data.gov Equivalent  |JSON            | RDFa Lite
