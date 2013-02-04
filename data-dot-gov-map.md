@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Schema Mapped to Data.gov Equivalent
-permalink: /data-dot-gov-map/
-filename: data-dot-gov-map.md
+permalink: /data-dot-gov-maps/
+filename: data-dot-gov-maps.md
 published: true
 ---
-
-
 
 "Common Core" Required Fields
 -----------------------------
