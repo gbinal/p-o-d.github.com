@@ -10,19 +10,19 @@ published: true
 -----------------------------
 
 {.table .table-striped}
-Field               |JSON            | RDFa Lite  | | *Data.gov Equivalent*  
--------             | -------------------  | --------------  | | ------- 
-Title               | title           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)  | | *Title*                
-Description         | description     | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description)  | | *Description*          
-Documentation URL   | dataDictionary  | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)  | | *Data Dictionary*      
-URL                 | accessURL       | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)  | | *Access point*         
-Format              | format          | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)  | | *Media Format*         
-Tags                | keywords        | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)  | | *Keywords*             
-Last Update         | modified        | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)  | | *Date updated*         
-Publisher           | organization    | [foaf:Organization](http://xmlns.com/foaf/spec/#term_Organization)  | | *Agency Name*          
-Contact Name        | person           | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)  | | *Contact Name*         
-Contact Email       | mbox  	         | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)  | | *Contact Email Address*
-Public              | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)  | | *n/a*                  
+Field               | *Data.gov Equivalent*  
+-------             | ------- 
+Title               | *Title*                
+Description         | *Description*          
+Documentation URL   | *Data Dictionary*      
+URL                 | *Access point*         
+Format              | *Media Format*         
+Tags                | *Keywords*             
+Last Update         | *Date updated*         
+Publisher           | *Agency Name*          
+Contact Name        | *Contact Name*         
+Contact Email       | *Contact Email Address*
+Public              | *n/a*                  
 
 
 "Common Core" Required if Applicable Fields
@@ -32,7 +32,7 @@ Public              | public          | [xsd:boolean](http://www.w3.org/TR/xmlsc
 Field               |JSON            | RDFa Lite  | *Data.gov Equivalent*  
 -------             | -------------------  | --------------  | ------- 
 License             | license         | [dcterms:license](http://www.w3.org/TR/vocab-dcat/#property--license-1)  | *Dataset license agreement URL* 
-Spatial  	    | spatial 	       | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage)  | *Geographic scope*     
+Spatial        | spatial 	       | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage)  | *Geographic scope*     
 Temporal	    | temporal	       | [dcterms:temporal](http://www.w3.org/TR/vocab-dcat/#property--temporal-coverage)  | *Period of Coverage*   
 
 Expanded Fields
