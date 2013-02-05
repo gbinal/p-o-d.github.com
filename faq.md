@@ -28,20 +28,20 @@ This project constitutes a collaborative work ("open source"). Federal employees
 
 #### Easy
 
-1. Click the "Improve this content" button in the top right corner of any page
-2. Make changes as you would normally
+1. Click the "Improve this content" button in the top right corner of any page.
+2. Make changes as you would normally.
 3. Click "Submit".
 4. You change should appear once approved.
 
-*Note: You may need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one*
+*Note: You may need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
 
 #### Advanced
 
-1. Configure git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/) (or [GitHub for Windows](http://windows.github.com/)) and optionally [Mou](http://mouapp.com/)1
-2. [Fork](https://help.github.com/articles/fork-a-repo) the project
+1. Configure git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/)/[GitHub for Windows](http://windows.github.com/) and optionally [Mou](http://mouapp.com/).
+2. [Fork](https://help.github.com/articles/fork-a-repo) the project.
 3. Make changes as you would normally using the tools installed in step #1.
-4. Push the changes back to your fork
-5. Submitting a pull request to this repository
+4. Push the changes back to your fork.
+5. Submitting a pull request to this repository.
 6. You change should appear once approved.
 
 *Note: All contributors retain the original copyright to their contribution, but by contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the license(s) under which this project is distributed.*
@@ -94,8 +94,8 @@ CHECK TO SEE IF THE POLICY LANGUAGE CHANGED
  
 ### When will additional guidance on IRM strategic plans be released?
 
-CHECK TO SEE IF THE POLICY LANGUAGE CHANGED
- 
+Guidance on IRM strategic plans will be released in early 2013.
+
 ## Machine Readable and Open Formats
 
 ### Does PDF meet the “machine readable and open format” requirement?
@@ -106,7 +106,7 @@ While ISO 32000 is an open standard, the Portable Document Format (PDF) does not
 
 ### What is the relationship of the metadata standard (specifically) to NIEM, ISE, FGDC, and other existing (especially official) government data standards?
 
-The core metadata schema at {LINK} is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
+The [core metadata schema](http://project-open-data.github.com/schema/) is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
 
 ### What is a "persistent identifier"?
 
@@ -118,9 +118,9 @@ The core metadata schema was the result of recommendations from a government-wid
  
 ### How can I recommend changes and improvements to the metadata schema?
 
-(insert answer) 
+Submit a pull request for the core metadata schema. 
 
-### Can I extend the metadata schema beyond the terms specified at {LINK}?
+### Can I extend the metadata schema beyond the terms specified in the [core metadata schema](http://project-open-data.github.com/schema/)?
 
 Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, publishing additional metadata that makes your data more useful to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
  
@@ -138,7 +138,7 @@ For general questions about Data.gov, please contact http://www.data.gov/contact
 
 ## Public Data Listing
 
-### What is the value to the government to place metadata at agency.gov/data?
+### What is the value to the government in placing metadata at agency.gov/data?
 
 Having the metadata available at the agency level provides agencies with a self-managed publishing capability.  In addition, having the metadata in a machine-readable format opens the possibility that major search engines will index these metadata in a manner similar to site maps and allow the public to discover public data across the government using a search tool of their choice.
 
@@ -148,7 +148,7 @@ The agency.gov/open page contains informational regards an agencies contribution
 
 ### What is the relationship of the /data page and public data listing to Data.gov and how will this impact current Data.gov processes?
 
-In the near term, Data.gov will continue its current dataset publishing process.  As agencies deploy agency.gov/data page, the publishing process will become a harvesting of metadata from the agencies web site.
+In the near term, Data.gov will continue its current dataset publishing process.  As agencies deploy agency.gov/data pages, the publishing process will become a harvesting of metadata from the agencies web site.
 
 ### Are redirects allowed for /data pages?
 
@@ -157,10 +157,10 @@ No, the files should be located at agency.gov/data web space.  Each agency shoul
 ### What options exist for hosting the /data.json file specifically at agency.gov/data.json?  
 
 1. For websites that are composed of static html, simply host the data.json file at the designated location.  
-2. ...
-3. ...
-4. ...
-5. ...
+2. If needed, one may also host the file by using /data.json/index.html to provide the same functionality.  
+3. Sites that utilize Wordpress may modify and employ the opensourced [Datafiles Wordpress Plugin](https://github.com/GSA/datafiles-wordpress-plugin).  
+4. Sites that utilize Drupal may modify and employ the opensourced [Digital Strategy Drupal Module](https://github.com/FCC/digital_strategy).  
+
  
 ### How do I get started building this /data file?
 
@@ -168,11 +168,11 @@ Data.gov will (when possible) help agencies get started by creating a /data file
   
 ### How should I manage this /data file?
 
-A wide variety of tools are available to manage a data catalog, be it public facing or for internal data managements.  Managing the records of metadata in the file can be managed by databases, spreadsheets, or even text editors.  Data management systems should be able to export the metadata either in the desired format or simply mapped with tools.
+A wide variety of tools are available to manage a data catalog, be it public facing or for internal data managements.  Managing the records of metadata in the file can be managed by databases, spreadsheets, or even text editors.  Data management systems should be able to export the metadata either in the desired format or in one which may be simply mapped with [tools](http://labs.data.gov).
  
 ### What formats are required/recommended for the agency.gov/data file?
 
-There are several syntaxes that may be used when publishing the data file.  The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation).  It is recommended that agencies also create a data.html file and use RDFa-Lite (Resource Description Framework) to mark-up the metadata using the schema located at {link}.  The RDFa-Lite file will be easily consumed by major search engines and applications and make you data easier to find by the public.  A third alternative for populating your metadata file is XML (eXtensible Markup Language).  Agencies are encouraged to maintain all three version of the metadata file.  Tools are available to transform any instance of the file into the alternative formats.
+There are several syntaxes that may be used when publishing the data file.  The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation).  It is recommended that agencies also create a data.html file and use RDFa-Lite (Resource Description Framework) to mark-up the metadata using the [core metadata schema](http://project-open-data.github.com/schema/).  The RDFa-Lite file can be easily consumed by major search engines and applications and make you data easier to find by the public.  A third alternative for populating your metadata file is XML (eXtensible Markup Language).  Agencies are encouraged to maintain all three version of the metadata file.  [Tools](http://labs.data.gov) are available to transform any instance of the file into the alternative formats.
 
 ## Agency participation with Open Data
 
@@ -184,13 +184,13 @@ Having a contact point at the agency who can answer questions and received comme
 
 ### How should agencies prioritize making improvements to existing systems and data?
 
-...Agencies should also ensure continuity of access to the data by involving primary users in the changes.
+Agencies should regularly add to and improve the entries in their data catalog, as well as also ensuring continuity of access to the data by involving primary users in the changes.
 
 ### Which agencies are required to implement this policy?
 
-(insert answer)
+All executive agencies.  
 
 ## Timeline
 How long do agencies have to implement the policy?
 
-(insert answer)
+Agencies are required to implement the data policy within six months. 
