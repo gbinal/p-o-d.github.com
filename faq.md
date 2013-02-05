@@ -6,8 +6,6 @@ filename: faq.md
 published: false
 ---
 
-
-
 ## Project Open Data
 
 ### What problem does this solve?
@@ -191,6 +189,7 @@ Agencies should regularly add to and improve the entries in their data catalog, 
 All executive agencies.  
 
 ## Timeline
-How long do agencies have to implement the policy?
 
-Agencies are required to implement the data policy within six months. 
+### How long do agencies have to implement the policy?
+
+Agencies are required to implement the data policy within six months.
