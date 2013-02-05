@@ -25,18 +25,20 @@ Each agency will describe their existing datasets as they see fit using the belo
 Machine-Readable Format
 -----------------------
 
-All information deemed 'machine-readable' required in this policy must be available in the following formats: JSON, RDFa-Lite and XML.  See this [specification](http://project-open-data.github.com/data-catalog/) for the required schema.  Agencies must post their files at /data.json, /data.html and/or data.xml.  Additionally, the web page which reads and formats these files must be posted at /data/index.html (or data.html).  The files should be updated a minimum of monthly.  It is our intent that future publications of data.gov will simply crawl for agency.gov/data/data.json, data.html (or data.xml) to populate data.gov.
+All information deemed 'machine-readable' required in this policy must be available in the following formats: JSON, RDFa-Lite and XML.  See this [specification](http://project-open-data.github.com/schema/) for the required schema.  Agencies must post their files at /data.json and as a /data.html or data.xml.  Additionally, the web page which reads and formats these files must be posted at /data/index.html (or data.html).  The files should be updated a minimum of monthly.  It is our intent that future publications of data.gov will simply crawl for agency.gov/data.json to populate data.gov.
 
 Implementing
 ------------
 
-To fulfill the requirements of this memorandum, agencies should begin to [describe datasets using the vocabulary at ](http://FIXLINK/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
+To fulfill the requirements of this memorandum, agencies should begin to describe datasets using the vocabulary of the [core metadata schema](http://project-open-data.github.com/schema/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
 
 ### JSON
 
 JSON is a lightweight and simple way to represent machine-readable data. It is quickly becoming the *de facto* standard for shuttling data across the internet, fueled primarily by the rise of mobile and APIs. Most if not all modern programing languages can interpret and produce JSON out of the box. 
 
-The JSON representation of the catalog should track directly to the RDFa version, with the exception that JSON keys should not contain the domain prefix (e.g., `dct:title` becomes `title` and `dct:description` becomes simply `description`). Catalogs should be composed of an array of JSON objects, and all fields other than keywords should be a string (where keywords is an array of strings).### RDFa Lite
+The JSON representation of the catalog should track directly to the RDFa version, with the exception that JSON keys should not contain the domain prefix (e.g., `dct:title` becomes `title` and `dct:description` becomes simply `description`). Catalogs should be composed of an array of JSON objects, and all fields other than keywords should be a string (where keywords is an array of strings).
+
+### RDFa Lite
 
 [RDFa Lite](http://www.w3.org/TR/rdfa-lite/) is a subset of RDFa (Resource Description Framework in Attribute) that provides a common syntax for expressing metadata on websites in a way that computers can understand and begin to formulate knowledge about those data about your organization. RDFa Lite embeds itself in existing, standard HTML pages. For example, if previously a dataset was described as `<h2>Name of Dataset</h2>`, RDFa would extend that markup as  `<h2 property="dct:title">Name of Dataset</h2>` (notice the additional of the property field). This additional metadata is not visible when the page is rendered, and does not affect the page layout or content. It simply provides an additional level of description for search engines, crawlers, and other programatic consumers of your site's content.  It is acceptable for the RDFa-Lite file to contain only the machine readable metadata, but agencies may wish to add human readable content to display the metadata to the public if they so desire.
 
@@ -44,7 +46,7 @@ The JSON representation of the catalog should track directly to the RDFa version
 Generating Machine-Readable Reporting Files
 -------------------------------------------
 
-Agencies must follow the provided [specification](http://project-open-data.github.com/data-catalog/).  We have built a [catalog generator](https://github.com/project-open-data/catalog-generator) to assit you in building your catalog and generating .xml, .json, or RDFa Lite files.  
+Agencies must follow the provided [specification](http://project-open-data.github.com/schema/).  We have built a [catalog generator](https://github.com/project-open-data/catalog-generator) to assist you in building your catalog and generating .xml, .json, or RDFa Lite files.  
 
 Presentation
 ------------
