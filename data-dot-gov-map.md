@@ -13,7 +13,7 @@ published: true
 
 {.table .table-striped}
 Field               | *Data.gov Equivalent*  
--------             | ------- 
+------              | --------
 Title               | *Title*                
 Description         | *Description*          
 Documentation URL   | *Data Dictionary*      
@@ -32,11 +32,11 @@ Public              | *n/a*
 
 {.table .table-striped}
 Field               | *Data.gov Equivalent*  
--------             | ------- 
+------              | --------
 Endpoint            | *Access Point*          
 License             | *Dataset license agreement URL* 
-Spatial  	    | *Geographic scope*     
-Temporal	    | *Period of Coverage*   
+Spatial       	    | *Geographic scope*     
+Temporal	          | *Period of Coverage*   
 
 Expanded Fields
 ---------------
