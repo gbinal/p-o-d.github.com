@@ -104,7 +104,7 @@ While ISO 32000 is an open standard, the Portable Document Format (PDF) does not
 
 ### What is the relationship of the metadata standard (specifically) to NIEM, ISE, FGDC, and other existing (especially official) government data standards?
 
-The [core metadata schema](http://project-open-data.github.com/schema/) is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
+The [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
 
 ### What is a "persistent identifier"?
 
@@ -118,7 +118,7 @@ The core metadata schema was the result of recommendations from a government-wid
 
 Submit a pull request for the core metadata schema. 
 
-### Can I extend the metadata schema beyond the terms specified in the [core metadata schema](http://project-open-data.github.com/schema/)?
+### Can I extend the metadata schema beyond the terms specified in the [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)?
 
 Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, publishing additional metadata that makes your data more useful to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
  
