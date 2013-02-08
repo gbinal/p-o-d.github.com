@@ -15,7 +15,7 @@ published: false
 <td><ul>
 <li><a href="#schema_maps">Schema Maps</a></li>
 <li><a href="#use_cases">Use Cases</a></li>
-<li><a href="#faq">FAQ</a></li>
+
 </ul></td></tr></b>
 </table>
 -------------------
@@ -62,5 +62,3 @@ Agencies may also manage their data catalogs through various database solutions 
 E) Convert from CSV or JSON to XML or RDFa lite.  
 
 In order to generate appropriately formatted .xml or RDFa lite files, simply import an appropriately formatted .csv or .json file into the [Catalog Generator](http://project-open-data.github.com/catalog-generator/), ensure that the metadata fields line up, and re-export the file.  
-
-### FAQ
