@@ -8,7 +8,7 @@ published: false
 
 #1. Background
 -------------
-Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](http://gsa-ocsit.github.com/project-open-data.github.com/principles/) not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
+Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](http://gsa-ocsit.github.com/project-open-data.github.com/principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
 
 For example, when the U.S. Government released weather and GPS data to the public, it fueled an industry that today is valued at over $90 billion. Now, weather and mapping tools are ubiquitous and help everyday Americans [navigate their lives](http://gsa-ocsit.github.com/project-open-data.github.com/business-case/). 
 
