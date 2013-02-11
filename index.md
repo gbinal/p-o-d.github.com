@@ -73,13 +73,15 @@ This section contains programatic tools, resources, and/or checklists to help pr
 5-1 [Metadata Resources](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/) - 
 Resources to provide guidance and assistance for each aspect of creating and maintaining agency.gov/data catalog files.  
 
-5-2 [General Workflows for Open Data Projects](http://gsa-ocsit.github.com/project-open-data.github.com/future-case-study/) - A comprehensive overview of the steps involved in open data projects and their associated benefits.  
+5-2 [Business Case for Open Data](http://gsa-ocsit.github.com/project-open-data.github.com/business-case/) - Overview of the benefits associated with open data.  
 
-5-3 [Open License Examples](http://gsa-ocsit.github.com/project-open-data.github.com/license-examples/) - Potential licenses for data and content.  
+5-3 [General Workflows for Open Data Projects](http://gsa-ocsit.github.com/project-open-data.github.com/future-case-study/) - A comprehensive overview of the steps involved in open data projects and their associated benefits.  
 
-5-4 [Chief Data Officer Material](http://gsa-ocsit.github.com/project-open-data.github.com/cdo/) - Sample language for a Chief Data Officer position description.
+5-4 [Open License Examples](http://gsa-ocsit.github.com/project-open-data.github.com/license-examples/) - Potential licenses for data and content.  
 
-5-5 [API Basics](http://gsa-ocsit.github.com/project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
+5-5 [Chief Data Officer Material](http://gsa-ocsit.github.com/project-open-data.github.com/cdo/) - Sample language for a Chief Data Officer position description.
+
+5-6 [API Basics](http://gsa-ocsit.github.com/project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
 
 #6. Case Studies
