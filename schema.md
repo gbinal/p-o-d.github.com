@@ -101,5 +101,6 @@ Additional Information
 
 Examples (coming soon)
 --------
-* [JSON](examples/catalog.json)
-* [XML](examples/xml/)
+* [JSON](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/)
+* [RDFa Lite](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/)
+* [XML](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/)
