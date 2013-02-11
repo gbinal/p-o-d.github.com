@@ -7,7 +7,8 @@ published: true
 ---
 
 
-## Create and maintain an enterprise data inventory [Due by 8/5/13]
+## Create and maintain an enterprise data inventory
+*[Due by 8/5/13]*
 
 Maintain a complete listing of all datasets owned, managed, collected, and/or created by your agency, described in a common format.
 
@@ -26,7 +27,8 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 * In addition to the core required metadata, work with your agency to develop an expanded set of metadata fields that make sense for your vertical.
 * Your agency can and should use this central inventory listing as an internal search tool to increase awareness of data collections already in existence and to prevent duplicative research efforts. For example, a search of this inventory may reveal that the combination of two existing datasets could produce the results sought by a proposed new collection.
 
-## Create and maintain a public data inventory [Due by 8/5/13]
+## Create and maintain a public data inventory
+*[Due by 8/5/13]*
 
 Maintain a publicly accessible listing of all datasets maintained by your agency, sans any non-public datasets, for harvesting by a central Data.gov search engine and the public at-large.
 
@@ -55,7 +57,8 @@ Publish your agency’s enterprise data inventory, with the aforementioned datas
 
 [Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)
 
-## Engage with customers to help facilitate and prioritize data release [Due by 8/5/13]
+## Engage with customers to help facilitate and prioritize data release
+*[Due by 8/5/13]*
 
 ### Minimum Required for Compliance
 
@@ -72,7 +75,8 @@ Create a process to solicit feedback from customers about existing and potential
 * The required set of common metadata includes fields for a contact name (“person”) and an email address (“mbox”). Listing specific, accurate information in these fields for each dataset ensures that customers can give direct feedback on a dataset to the person who is most likely to be able to act on that feedback.
 * If you enable customers to leave comments on datasets, ensure someone at your agency monitors these comments and responds in a timely manner. When new visitors see outdated, unanswered comments, they are less likely to provide feedback.
 
-## Clarify Roles and Responsibilities [Due by 8/5/13]
+## Clarify Roles and Responsibilities
+*[Due by 8/5/13]*
 
 ### Minimum Required for Compliance
 
