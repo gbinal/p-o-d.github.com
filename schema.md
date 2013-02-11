@@ -63,7 +63,7 @@ The following fields must be used to describe each dataset if they are applicabl
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            | RDFa Lite
 -------             | ---------------                                                                                                                                | --------------  | ------- 
-Endpoint            | Endpoint of web service to access dataset                                                                                                     | WebService            | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice)
+Endpoint            | Endpoint of web service to access dataset                                                                                                     | webService            | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice)
 License             | The license dataset or API is published with.  See [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) for more information.   | license         | [dcterms:license](http://www.w3.org/TR/vocab-dcat/#property--license-1)
 Spatial  	    | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place from the [GeoNames](http://www.geonames.org) vocabulary (e.g., "Michigan").                     | spatial 	       | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage)
 Temporal	    | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data)                                    | temporal	       | [dcterms:temporal](http://www.w3.org/TR/vocab-dcat/#property--temporal-coverage)
@@ -89,7 +89,7 @@ Related Documents   | Related documents such as developer documentation         
 Distribution        | Connects a dataset to available distributions                                                                                                 | distribution          | [dcat:distribution](http://www.w3.org/ns/dcat#distribution)
 Size                | The size of the downloadable dataset                                                                                                          | size                  | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size)
 Homepage URL        | For presentation of results in Data.gov only: directs user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface | homepage	            | [foaf:homepage](http://xmlns.com/foaf/spec/#term_homepage)
-RSS Feed            | URL for an RSS feed that provides access to the dataset                                                                                       | Feed                  | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)
+RSS Feed            | URL for an RSS feed that provides access to the dataset                                                                                       | feed                  | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)
 
 
 Additional Information
