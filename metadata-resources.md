@@ -66,7 +66,7 @@ Common file formats include: .csv, .xls, .xlsx, .tsv, .json, .xml.
 **Tags**  
 Should be separated by commas.  
 
-**Last Update**
+**Last Update**  
 Dates should be formatted as MM/DD/YYYY.  
 
 **Publisher**  
@@ -75,33 +75,20 @@ Departments and multi-unit agencies may use this field to describe which subordi
 **Unique Identifier**  
 This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining  unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  
 
-**Endpoint**  
+**Endpoint**    
 This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
 
-**Release Date**
+**Release Date**  
 Dates should be formatted as MM/DD/YYYY.  
 
-**Frequency**
+**Frequency**  
 Examples may include: daily, weekly, yearly, 3 months, irregular. 
 
-**Related Documents**
+**Related Documents**  
 Multiple URLs should be separated by commas.  
 
-**Size**
+**Size**  
 Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Use Cases  
