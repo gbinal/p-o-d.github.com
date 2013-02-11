@@ -86,7 +86,7 @@ Resources to provide guidance and assistance for each aspect of creating and mai
 ----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-1 [Department of Labor API Program](http://gsa-ocsit.github.com/project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and in particular building the case for an ecosystem of users by developing SDKs.
+6-1 [Department of Labor API Program](http://gsa-ocsit.github.com/project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and, in particular, building the case for an ecosystem of users by developing SDKs.
 
 6-2 [Department of Transportation Enterprise Data Inventory](http://gsa-ocsit.github.com/project-open-data.github.com/transportation-case-study/) - A review of DOT's strategy and policy when creating a robust data inventory program.  
 
