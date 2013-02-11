@@ -68,25 +68,9 @@ At the onset, the General Services Administration is here to provide daily overs
 
 Yes! Simply follow the "advanced" instructions above to submit a pull request.
 
-### How can I see whether my suggested change (i.e., pull request) was accepted?
-
-(insert answer)
-
 ### How long will I have to wait to get a response to my suggested change (i.e., pull request)?
 
 Release cycles vary from repo to repo. Check out the readme file of the repo where you submitted a pull request to see how often code pushes and updates are done. 
-
-## Acquisition
-
-### What resources are available to help agencies incorporate the policy requirements into their acquisition processes?  
-
-Sample acquisition language may be found at {LINK}
-
-## Information Systems
-
-### How can agencies meet the requirement that new systems must "facilitate extraction of data in multiple formats and for a range of uses as internal and external needs change, including potential uses not accounted for in the original design"?
-
-CHECK TO SEE IF THE POLICY LANGUAGE CHANGED
  
 ## IRM Strategic Plans
  
