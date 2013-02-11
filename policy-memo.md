@@ -6,4 +6,4 @@ filename: policy-memo.md
 published: true
 ---
 
-(On hold)
+(On hold for policy release...)
