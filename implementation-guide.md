@@ -40,10 +40,10 @@ Publish your agency’s enterprise data inventory, with the aforementioned datas
 
 ### Tools
 
-* Don’t have a DMS? Use the hosted Catalog Generator to create your data.json file via basic data entry.
-* Is your data inventory stored in a CSV (Excel file)? Use the [CSVtoJSON tool](http://labs.data.gov/csv-to-api/) to automatically convert it into a compliant data.json file.
-* Is your data inventory stored in CKAN? Use the Data.gov extension (coming soon).
-* Not sure if your data.json file meets the requirements? Paste your file into the [JSON Validator](https://github.com/project-open-data/json-validator) to receive real-time feedback.
+* **Don’t have a DMS?** Use the hosted Catalog Generator to create your data.json file via basic data entry.
+* **Is your data inventory stored in a CSV (Excel file)?** Use the [CSVtoJSON tool](http://labs.data.gov/csv-to-api/) to automatically convert it into a compliant data.json file.
+* **Is your data inventory stored in CKAN?** Use the Data.gov extension (coming soon).
+* **Not sure if your data.json file meets the requirements?** Paste your file into the [JSON Validator](https://github.com/project-open-data/json-validator) to receive real-time feedback.
 
 ### Best Practices and Examples
 
@@ -68,7 +68,7 @@ Create a process to solicit feedback from customers about existing and potential
 
 ### Tools
 
-* Have WordPress? Use the [Data Kickstart plugin](https://github.com/project-open-data/kickstart) to provide an instant voting interface based on your existing data.json file, allowing customers to vote up or down datasets and to leave comments on specific datasets.
+* **Have WordPress?** Use the [Data Kickstart plugin](https://github.com/project-open-data/kickstart) to provide an instant voting interface based on your existing data.json file, allowing customers to vote up or down datasets and to leave comments on specific datasets.
 
 ### Best Practices and Examples
 
@@ -129,9 +129,9 @@ Collect or create information (data) in a way that supports downstream informati
 
 ### Tools
 
-* Is your data file a CSV? Use the CSV-to-API generator to automatically create a basic read-only REST API for your CSV data.
-* Is your data stored in a database? Use the Database-to-API generator to automatically create a basic read-only REST API for accessing the database data.
-* Do you have spatial data? Use the Spatial Search to improve the searchability of your data.
+* **Is your data file a CSV?** Use the CSV-to-API generator to automatically create a basic read-only REST API for your CSV data.
+* **Is your data stored in a database?** Use the Database-to-API generator to automatically create a basic read-only REST API for accessing the database data.
+* **Do you have spatial data?** Use the Spatial Search to improve the searchability of your data.
 
 ### Best Practices and Examples
 
@@ -154,9 +154,9 @@ Collect or create information (data) in a way that supports downstream informati
 
 ### Tools
 
-* Is your data file a CSV? Use the CSV-to-API generator to automatically create a basic read-only REST API for your CSV data.
-* Is your data stored in a database? Use the Database-to-API generator to automatically create a basic read-only REST API for accessing the database data.
-* Do you have spatial data? Use the Spatial Search to improve the searchability of your data.
+* **Is your data file a CSV?** Use the CSV-to-API generator to automatically create a basic read-only REST API for your CSV data.
+* **Is your data stored in a database?** Use the Database-to-API generator to automatically create a basic read-only REST API for accessing the database data.
+* **Do you have spatial data?** Use the Spatial Search to improve the searchability of your data.
 
 ### Best Practices and Examples
 
