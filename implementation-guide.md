@@ -103,11 +103,6 @@ Review and update your existing IRM Strategic Plan to describe how your agency h
 * Collecting data in a machine-readable, standards-compliant way
 * Publishing data in open formats
 * Privacy analysis, with a presumption of openness
-* ...
-
-### Best Practices and Examples
-
-None yet! Let us know if you have updated IRM language to share with other agencies.
 
 ### Light Reading
 
