@@ -14,7 +14,7 @@ For example, when the U.S. Government released weather and GPS data to the publi
 
 The ultimate value of data can often not be predicted. That’s why the U.S. Government released a policy (link to policy) that instructs agencies to manage their data, and information more generally, as an asset from the start and, wherever possible, release it to the public in a way that makes it open, discoverable, and usable. 
 
-The White House developed Project Open Data, this collection of code, tools, and case studies, to help agencies adopt the open data policy and unlock the potential of government data. Project Open Data will evolve over time as a community resource to facilitate broader adoption of open data practices in government. Anyone – government employees, contractors, developers, the general public – can view and contribute. So dive right in and help to build a better world through the power of open data. 
+The White House developed Project Open Data – this collection of code, tools, and case studies – to help agencies adopt the open data policy and unlock the potential of government data. Project Open Data will evolve over time as a community resource to facilitate broader adoption of open data practices in government. Anyone – government employees, contractors, developers, the general public – can view and contribute. So dive right in and help to build a better world through the power of open data. 
 
 
 #2. Definitions
