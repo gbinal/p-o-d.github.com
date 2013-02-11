@@ -75,34 +75,20 @@ Departments and multi-unit agencies may use this field to describe which subordi
 **Unique Identifier**  
 This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining  unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  
 
-**Public**  
-
 **Endpoint**  
 This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
 
-**License**
-
-**Spatial**
-
-**Temporal**
-
 **Release Date**
+Dates should be formatted as MM/DD/YYYY.  
 
 **Frequency**
-
-**Granularity**
-
-**Data Quality**
-
-**Category**
+Examples may include: daily, weekly, yearly, 3 months, irregular. 
 
 **Related Documents**
-
-**Distribution**
+Multiple URLs should be separated by commas.  
 
 **Size**
-
-**Homepage URL**
+Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
 
 
 
