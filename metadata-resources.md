@@ -21,25 +21,102 @@ published: false
 -------------------
 
 ### Template Data Files
-* [CSV]()
-* [JSON]()
-* [XML]()
-* [RDFa Lite]()
- 
+
+<table width="60%">
+<b><tr><td><ul>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.json">JSON</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.xml">XML</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.html">RDFa Lite</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.csv">CSV</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.json">JSON (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.xml">XML (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.html">RDFa Lite (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.csv">CSV (Extended)</a></li>
+</ul></td></tr></b>
+</table>
 
 ### Sample Data Files
-* [CSV]()
-* [JSON]()
-* [XML]()
-* [RDFa Lite]()
 
-### Metadata Field  Guidance
-
-catalogs/norms for each item in schema... (Under construction)
+<table width="60%">
+<b><tr><td><ul>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.json">JSON</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.xml">XML</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.html">RDFa Lite</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.csv">CSV</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.json">JSON (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.xml">XML (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.html">RDFa Lite (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.csv">CSV (Extended)</a></li>
+</ul></td></tr></b>
+</table>
 
 ### Schema Maps
 
-A breakdown of the data.json schema as [mapped to its pre-existing Data.gov equivalent](data-dot-gov-map)
+A breakdown of the data.json schema as [mapped to its pre-existing Data.gov equivalent](data-dot-gov-map).
+
+### Further Metadata Field Guidance
+
+**Format**  
+Common file formats include: .csv, .xls, .xlsx, .tsv, .json, .xml.  
+
+**Tags**  
+Should be separated by commas.  
+
+**Last Update**
+Dates should be formatted as MM/DD/YYYY.  
+
+**Publisher**  
+Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.  
+
+**Unique Identifier**  
+This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining  unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  
+
+**Public**  
+
+**Endpoint**  
+This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
+
+**License**
+
+**Spatial**
+
+**Temporal**
+
+**Release Date**
+
+**Frequency**
+
+**Granularity**
+
+**Data Quality**
+
+**Category**
+
+**Related Documents**
+
+**Distribution**
+
+**Size**
+
+**Homepage URL**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Use Cases  
   
@@ -61,4 +138,4 @@ Agencies may also manage their data catalogs through various database solutions 
 
 E) Convert from CSV or JSON to XML or RDFa lite.  
 
-In order to generate appropriately formatted .xml or RDFa lite files, simply import an appropriately formatted .csv or .json file into the [Catalog Generator](http://project-open-data.github.com/catalog-generator/), ensure that the metadata fields line up, and re-export the file.  
+In order to generate appropriately formatted .xml or RDFa lite files, simply import an appropriately formatted .csv or .json file into the [Catalog Generator](http://project-open-data.github.com/catalog-generator/), ensure that the metadata fields line up, and re-export the file.
