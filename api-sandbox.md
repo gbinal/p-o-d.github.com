@@ -9,5 +9,5 @@ By providing rich and interactive documentation, API producers strongly enhance 
 
 Two free, opensource options include:
 
-* [I/O Docs](https://github.com/project-open-data/iodocs))
+* [I/O Docs](https://github.com/project-open-data/iodocs)
 * [Swagger](https://github.com/project-open-data/swagger-core)
