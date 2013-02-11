@@ -36,7 +36,7 @@ Maintain a publicly accessible listing of all datasets maintained by your agency
 
 Document any datasets or metadata in your enterprise data inventory that your agency does not believe can be made publicly available, in consultation with your Office of General Counsel or its equivalent.
 
-Publish your agency’s enterprise data inventory, with the aforementioned datasets removed, to a file located at [agency].gov/data.json and described using (at minimum) the common metadata listed at LINK. While you could manually create this file in a text editor, it is recommended that you use one of the tools provided to generate this file automatically from your existing DMS or enterprise inventory file.
+Publish your agency’s enterprise data inventory, with the aforementioned datasets removed, to a file located at [agency].gov/data.json and described using (at minimum) the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). While you could manually create this file in a text editor, it is recommended that you use one of the tools provided to generate this file automatically from your existing DMS or enterprise inventory file.
 
 ### Tools
 
@@ -122,15 +122,15 @@ Collect or create information (data) in a way that supports downstream informati
 
 ### Minimum Required for Compliance
 
-☐ Collect data electronically whenever possible.
-☐ Choose or build a data collection tool that:
-☐ Exports data in a machine-readable format. Consult this list for suggested machine-readable formats.
-☐ Uses existing open data standards, if available.
-☐ Apply an open license, in consultation with best practices, to information as it is collected or created so that if data are made public there are no restrictions on the use or re-use of these data.
-☐ Collect the minimum amount of data needed to achieve your stated goals, in order to avoid having to remove additional personally-identifiable information later in the collection or release process.
-☐ Review information for privacy, confidentiality pledge, security, and other restrictions to release.
-☐ Post the data files in an Internet-accessible location, listing this location in the dataset’s data inventory entry.
-☐ Where appropriate, provide access to the data via an API.
+* Collect data electronically whenever possible.
+* Choose or build a data collection tool that:
+* Exports data in a machine-readable format. Consult this list for suggested machine-readable formats.
+* Uses existing open data standards, if available.
+* Apply an open license, in consultation with best practices, to information as it is collected or created so that if data are made public there are no restrictions on the use or re-use of these data.
+* Collect the minimum amount of data needed to achieve your stated goals, in order to avoid having to remove additional personally-identifiable information later in the collection or release process.
+* Review information for privacy, confidentiality pledge, security, and other restrictions to release.
+* Post the data files in an Internet-accessible location, listing this location in the dataset’s data inventory entry.
+* Where appropriate, provide access to the data via an API.
 
 ### Tools
 
@@ -149,13 +149,13 @@ Collect or create information (data) in a way that supports downstream informati
 * [Controlled Unclassified Information requirements]()
 * [Mosaic Effect Wikipedia article]()
 
-☐ Release an Existing Data Collection as Open Data
+## Release an Existing Data Collection as Open Data
 
 ### Minimum Required for Compliance
 
-☐ Review information for privacy, confidentiality pledge, security, and other restrictions to release.
-☐ Make the data available in a machine-readable format. See LINK for a list of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
-☐ Post the data files in an Internet-accessible location, listing this location the dataset’s entry in your agency inventory listing.
+* Review information for privacy, confidentiality pledge, security, and other restrictions to release.
+* Make the data available in a machine-readable format. See LINK for a list of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
+* Post the data files in an Internet-accessible location, listing this location the dataset’s entry in your agency inventory listing.
 
 ### Tools
 
@@ -167,15 +167,16 @@ Collect or create information (data) in a way that supports downstream informati
 
 * Let us know about your machine-readable, API-accessible data so we can highlight it here.
 
-☐ Create a New (or Significantly Modify an Existing) Information System
+## Create a New (or Significantly Modify an Existing) Information System
+
 New, or significantly modified, information systems need to support interoperability and information accessibility.
 
 ### Minimum Required for Compliance
 
-☐ Ensure the system can export data in a machine-readable format.
-☐ Ensure data is separated from the application layer of the system to maximize future export and/or reuse of the data.
-☐ Store and export data using open data standards whenever possible, including the core metadata required by this Memorandum.
-☐ Document all data schemas and dictionaries used by the system.
+* Ensure the system can export data in a machine-readable format.
+* Ensure data is separated from the application layer of the system to maximize future export and/or reuse of the data.
+* Store and export data using open data standards whenever possible, including the core metadata required by this Memorandum.
+* Document all data schemas and dictionaries used by the system.
 
 ### Best Practices and Examples
 
