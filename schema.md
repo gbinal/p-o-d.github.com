@@ -31,7 +31,7 @@ The Implemention Guidance available as a part of Project Open Data describes Age
 
 [JSON](http://www.json.org) is a lightweight data-exchange format that is very easy to read, parse and generate.  Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange.  JSON is built on two structures: (1) a collection of name/value pairs; and (2) an ordered list of values.  
 
-Links to downloadable examples of metadata files developed in both of these formats can be found at the bottom of this page.  Tools to help agencies produce and maintain their data inventories are available at [Labs.Data.gov](http://labs.data.gov).
+Links to downloadable examples of metadata files developed in both of these formats can be found at the bottom of this page.  Tools to help agencies produce and maintain their data inventories are [available on GitHub](http://www.github.com/project-open-data) and hosted at [Labs.Data.gov](http://labs.data.gov).
 
 
 "Common Core" Required Fields
