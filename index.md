@@ -38,7 +38,7 @@ Implementation guidance for open data practices.
 
 3-1 [U.S. Government Policy on Open Data](http://gsa-ocsit.github.com/project-open-data.github.com/policy-memo/) - Full text of the memorandum.  
 
-3-2 [Implementation Guide](http://gsa-ocsit.github.com/project-open-data.github.com/implementation-guide/) - NEED Content & sentence
+3-2 [Implementation Guide](http://gsa-ocsit.github.com/project-open-data.github.com/implementation-guide/) - Detailed descriptions and guidance for each step of implementing the the policy. 
 
 3-3 [Public Data Listing](http://gsa-ocsit.github.com/project-open-data.github.com/catalog) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.  
 
