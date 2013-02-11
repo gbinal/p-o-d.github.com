@@ -55,7 +55,7 @@ Publish your agency’s enterprise data inventory, with the aforementioned datas
 
 ### Light Reading
 
-[Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)
+* [Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)
 
 ## Engage with customers to help facilitate and prioritize data release
 *[Due by 8/5/13]*
