@@ -83,6 +83,11 @@ Resources to provide guidance and assistance for each aspect of creating and mai
 
 5-6 [API Basics](http://gsa-ocsit.github.com/project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
+5-7 [Data Release Safeguard Checklist](http://www.data.gov/sites/default/files/attachments/Privacy%20and%20Security%20Checklist.pdf) - Checklist to enable the safe and secure release of data.
+
+5-8 [Digital PII Checklist](http://gsa-ocsit.github.com/project-open-data.github.com/digital-pii-checklist/) - Tool to assist agencies identify personally identifiable information in data.  
+
+
 
 #6. Case Studies
 ----------------
