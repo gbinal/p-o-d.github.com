@@ -10,15 +10,15 @@ published: true
 
 ### What problem does this solve?
 
-Technology moves much faster than policy ever could.  Often when writing policy for technology, agencies are stuck w/ outdated methods as soon as they publish new policies.
+Technology moves much faster than policy ever could. Often when writing policy for technology, agencies are stuck with outdated methods as soon as they publish new policies.
 
 ### How does it solve that problem?
 
-This Project is meant to be a living document so that collaboration in the open data ecosystem is fostered and the continual update of technology pieces that affect update can happen on a more rapid pace.
+This project is meant to be a living document, so that collaboration in the open data ecosystem is fostered, and the continual update of technology pieces that affect update can happen at a more rapid pace.
 
 ### Where do I come in?
 
-Help the United States Government make its Open Data policy better by collaborating.  Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute'). 
+Help the United States Government make its open data policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute?'). 
 
 ### How can I contribute?
 
@@ -39,8 +39,8 @@ This project constitutes a collaborative work ("open source"). Federal employees
 2. [Fork](https://help.github.com/articles/fork-a-repo) the project.
 3. Make changes as you would normally using the tools installed in step #1.
 4. Push the changes back to your fork.
-5. Submitting a pull request to this repository.
-6. You change should appear once approved.
+5. Submit a pull request to this repository.
+6. You change should appear once it's approved.
 
 *Note: All contributors retain the original copyright to their contribution, but by contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the license(s) under which this project is distributed.*
 
@@ -56,7 +56,7 @@ Anyone – Federal employees, contractors, developers, the general public – ca
 
 ### Are my interactions to this project subject to any special privacy considerations?
 
-Comments, pull requests and any other messages received through this repository may be subject to the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html) and may be archived. Learn more at http://WhiteHouse.gov/privacy
+Comments, pull requests, and any other messages received through this repository may be subject to the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html), and may be archived. Learn more at http://WhiteHouse.gov/privacy
 
 ### Who is in charge of Project Open Data?  
 
@@ -82,7 +82,7 @@ Guidance on IRM strategic plans will be released in early 2013.
 
 ### Does PDF meet the “machine readable and open format” requirement?
 
-While ISO 32000 is an open standard, the Portable Document Format (PDF) does not achieve the same level of openness as CSV, XML, JSON and other generic formats.
+While ISO 32000 is an open standard, the Portable Document Format (PDF) does not achieve the same level of openness as CSV, XML, JSON, and other generic formats.
 
 ## Metadata
 
@@ -122,13 +122,13 @@ For general questions about Data.gov, please contact http://www.data.gov/contact
 
 ### What is the value to the government in placing metadata at agency.gov/data?
 
-Having the metadata available at the agency level provides agencies with a self-managed publishing capability.  In addition, having the metadata in a machine-readable format opens the possibility that major search engines will index these metadata in a manner similar to site maps and allow the public to discover public data across the government using a search tool of their choice.
+Having the metadata available at the agency level provides agencies with a self-managed publishing capability. In addition, having the metadata in a machine-readable format opens the possibility that major search engines will index these metadata in a manner similar to site maps and allow the public to discover public data across the government using a search tool of their choice.
 
 ### How will agency.gov/open, /developer, and /data pages work together?
 
 The agency.gov/open page contains informational regards an agencies contributions to Open Government, while the /developer and /data pertains to APIs and Open Data. All three pages contribute to an open and transparent government in the United States.
 
-### What is the relationship of the /data page and public data listing to Data.gov and how will this impact current Data.gov processes?
+### What is the relationship of the /data page and public data listing to Data.gov, and how will this impact current Data.gov processes?
 
 In the near term, Data.gov will continue its current dataset publishing process.  As agencies deploy agency.gov/data pages, the publishing process will become a harvesting of metadata from the agencies web site.
 
@@ -138,10 +138,10 @@ No, the files should be located at agency.gov/data web space.  Each agency shoul
  
 ### What options exist for hosting the /data.json file specifically at agency.gov/data.json?  
 
-1. For websites that are composed of static html, simply host the data.json file at the designated location.  
+1. For websites that are composed of static HTML, simply host the data.json file at the designated location.  
 2. If needed, one may also host the file by using /data.json/index.html to provide the same functionality.  
-3. Sites that utilize Wordpress may modify and employ the opensourced [Datafiles Wordpress Plugin](https://github.com/GSA/datafiles-wordpress-plugin).  
-4. Sites that utilize Drupal may modify and employ the opensourced [Digital Strategy Drupal Module](https://github.com/FCC/digital_strategy).  
+3. Sites that utilize WordPress may modify and employ the open-sourced [Datafiles Wordpress Plugin](https://github.com/GSA/datafiles-wordpress-plugin).  
+4. Sites that utilize Drupal may modify and employ the open-sourced [Digital Strategy Drupal Module](https://github.com/FCC/digital_strategy).  
 
  
 ### How do I get started building this /data file?
@@ -150,23 +150,23 @@ Data.gov will (when possible) help agencies get started by creating a /data file
   
 ### How should I manage this /data file?
 
-A wide variety of tools are available to manage a data catalog, be it public facing or for internal data managements.  Managing the records of metadata in the file can be managed by databases, spreadsheets, or even text editors.  Data management systems should be able to export the metadata either in the desired format or in one which may be simply mapped with [tools](http://labs.data.gov).
+A wide variety of tools are available to manage a data catalog, whether public-facing or for internal data managements. The records of metadata in the file can be managed by databases, spreadsheets, or even text editors. Data management systems should be able to export the metadata either in the desired format or in one which may be simply mapped with [tools](http://labs.data.gov).
  
 ### What formats are required/recommended for the agency.gov/data file?
 
-There are several syntaxes that may be used when publishing the data file.  The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation).  It is recommended that agencies also create a data.html file and use RDFa-Lite (Resource Description Framework) to mark-up the metadata using the [core metadata schema](http://project-open-data.github.com/schema/).  The RDFa-Lite file can be easily consumed by major search engines and applications and make you data easier to find by the public.  A third alternative for populating your metadata file is XML (eXtensible Markup Language).  Agencies are encouraged to maintain all three version of the metadata file.  [Tools](http://labs.data.gov) are available to transform any instance of the file into the alternative formats.
+There are several syntaxes that may be used when publishing the data file. The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation). It is recommended that agencies also create a data.html file and use RDFa Lite (Resource Description Framework) to mark-up the metadata using the [core metadata schema](http://project-open-data.github.com/schema/). The RDFa Lite file can be easily consumed by major search engines and applications and make you data easier to find by the public. A third alternative for populating your metadata file is XML (eXtensible Markup Language). Agencies are encouraged to maintain all three version of the metadata file. [Tools](http://labs.data.gov) are available to transform any instance of the file into the alternative formats.
 
 ## Agency participation with Open Data
 
 ### What are some of the ways that agencies can become more involved with Open Data?
 
-Having a contact point at the agency who can answer questions and received comments about published data is extremely important to making your data more open and valuable to the public.  This contact point can be centralized at the agency level, but having someone close to the source of the data who understands it well enough to help the public take full advantage of available data is extremely valuable.
+Having a contact point at the agency who can answer questions and receive comments about published data is extremely important to making your data more open and valuable to the public. This contact point can be centralized at the agency level, but it's extremely value to have someone close to the source of the data who understands it well enough to help the public take full advantage of it..
 
 ## Scope 
 
 ### How should agencies prioritize making improvements to existing systems and data?
 
-Agencies should regularly add to and improve the entries in their data catalog, as well as also ensuring continuity of access to the data by involving primary users in the changes.
+Agencies should regularly add to and improve the entries in their data catalog, as well as ensure continuity of access to the data by involving primary users in the changes.
 
 ### Which agencies are required to implement this policy?
 
