@@ -8,41 +8,41 @@ published: false
 
 #1. Background
 -------------
-Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](http://gsa-ocsit.github.com/project-open-data.github.com/principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
+Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
 
-For example, when the U.S. Government released weather and GPS data to the public, it fueled an industry that today is valued at over $90 billion. Now, weather and mapping tools are ubiquitous and help everyday Americans [navigate their lives](http://gsa-ocsit.github.com/project-open-data.github.com/business-case/). 
+For example, when the U.S. Government released weather and GPS data to the public, it fueled an industry that today is valued at over $90 billion. Now, weather and mapping tools are ubiquitous and help everyday Americans [navigate their lives](business-case/). 
 
 The ultimate value of data can often not be predicted. That’s why the U.S. Government released a policy (link to policy) that instructs agencies to manage their data, and information more generally, as an asset from the start and, wherever possible, release it to the public in a way that makes it open, discoverable, and usable. 
 
-The White House developed Project Open Data – this collection of code, tools, and case studies – to help agencies adopt the open data policy and unlock the potential of government data. Project Open Data will evolve over time as a community resource to facilitate broader adoption of open data practices in government. Anyone – government employees, contractors, developers, the general public – can view and contribute. So dive right in and [help to build a better world through the power of open data](http://gsa-ocsit.github.com/project-open-data.github.com/governance/). 
+The White House developed Project Open Data – this collection of code, tools, and case studies – to help agencies adopt the open data policy and unlock the potential of government data. Project Open Data will evolve over time as a community resource to facilitate broader adoption of open data practices in government. Anyone – government employees, contractors, developers, the general public – can view and contribute. So dive right in and [help to build a better world through the power of open data](governance/). 
 
 
 #2. Definitions
 --------------
 This section is a list of definitions and principles used to guide the project.
 
-2-1 [Open Data Principles](http://gsa-ocsit.github.com/project-open-data.github.com/principles/) - The set of open data principles.
+2-1 [Open Data Principles](principles/) - The set of open data principles.
 
-2-2 [Open Standards](http://gsa-ocsit.github.com/project-open-data.github.com/open-standards/) - The definition for open standards. 
+2-2 [Open Standards](open-standards/) - The definition for open standards. 
 
-2-3 [Open Data Glossary](http://gsa-ocsit.github.com/project-open-data.github.com/glossary/) - The glossary of open data terms.
+2-3 [Open Data Glossary](glossary/) - The glossary of open data terms.
 
-2-4 [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) - The definition for open licenses. 
+2-4 [Open Licenses](open-licenses/) - The definition for open licenses. 
 
-2-5 [Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data.  
+2-5 [Common Core Metadata](schema/) - The schema used to describe datasets, APIs, and published data at agency.gov/data.  
 
 
 #3. Implementation Guidance
 ----------------
 Implementation guidance for open data practices.  
 
-3-1 [U.S. Government Policy on Open Data](http://gsa-ocsit.github.com/project-open-data.github.com/policy-memo/) - Full text of the memorandum.  
+3-1 [U.S. Government Policy on Open Data](policy-memo/) - Full text of the memorandum.  
 
-3-2 [Implementation Guide](http://gsa-ocsit.github.com/project-open-data.github.com/implementation-guide/) - Detailed descriptions and guidance for each step of implementing the the policy. 
+3-2 [Implementation Guide](implementation-guide/) - Detailed descriptions and guidance for each step of implementing the the policy. 
 
-3-3 [Public Data Listing](http://gsa-ocsit.github.com/project-open-data.github.com/catalog) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.  
+3-3 [Public Data Listing](catalog) - The specific guidance for publishing the Open Data Catalog at the agency.gov/data page.  
 
-3-4 [Frequently Asked Questions](http://gsa-ocsit.github.com/project-open-data.github.com/faq) - A growing list of common questions and answers to facilitate adoption of open data projects.  
+3-4 [Frequently Asked Questions](faq) - A growing list of common questions and answers to facilitate adoption of open data projects.  
 
 
 #4. Tools 
@@ -70,22 +70,22 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 ----------------------
 This section contains programatic tools, resources, and/or checklists to help programs determine open data requirements.
 
-5-1 [Metadata Resources](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/) - 
+5-1 [Metadata Resources](metadata-resources/) - 
 Resources to provide guidance and assistance for each aspect of creating and maintaining agency.gov/data catalog files.  
 
-5-2 [Business Case for Open Data](http://gsa-ocsit.github.com/project-open-data.github.com/business-case/) - Overview of the benefits associated with open data.  
+5-2 [Business Case for Open Data](business-case/) - Overview of the benefits associated with open data.  
 
-5-3 [General Workflows for Open Data Projects](http://gsa-ocsit.github.com/project-open-data.github.com/future-case-study/) - A comprehensive overview of the steps involved in open data projects and their associated benefits.  
+5-3 [General Workflows for Open Data Projects](future-case-study/) - A comprehensive overview of the steps involved in open data projects and their associated benefits.  
 
-5-4 [Open License Examples](http://gsa-ocsit.github.com/project-open-data.github.com/license-examples/) - Potential licenses for data and content.  
+5-4 [Open License Examples](license-examples/) - Potential licenses for data and content.  
 
-5-5 [Chief Data Officer Material](http://gsa-ocsit.github.com/project-open-data.github.com/cdo/) - Sample language for a Chief Data Officer position description.
+5-5 [Chief Data Officer Material](cdo/) - Sample language for a Chief Data Officer position description.
 
-5-6 [API Basics](http://gsa-ocsit.github.com/project-open-data.github.com/api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
+5-6 [API Basics](api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
 
 5-7 [Data Release Safeguard Checklist](http://www.data.gov/sites/default/files/attachments/Privacy%20and%20Security%20Checklist.pdf) - Checklist to enable the safe and secure release of data.
 
-5-8 [Digital PII Checklist](http://gsa-ocsit.github.com/project-open-data.github.com/digital-pii-checklist/) - Tool to assist agencies identify personally identifiable information in data.  
+5-8 [Digital PII Checklist](digital-pii-checklist/) - Tool to assist agencies identify personally identifiable information in data.  
 
 
 
@@ -93,13 +93,13 @@ Resources to provide guidance and assistance for each aspect of creating and mai
 ----------------
 Case studies of novel or best practices from agencies who are leading in open data help others understand the challenges and opportunities for success.
 
-6-1 [Department of Labor API Program](http://gsa-ocsit.github.com/project-open-data.github.com/labor-case-study/) - A department perspective on developing APIs for general use and, in particular, building the case for an ecosystem of users by developing SDKs.
+6-1 [Department of Labor API Program](labor-case-study/) - A department perspective on developing APIs for general use and, in particular, building the case for an ecosystem of users by developing SDKs.
 
-6-2 [Department of Transportation Enterprise Data Inventory](http://gsa-ocsit.github.com/project-open-data.github.com/transportation-case-study/) - A review of DOT's strategy and policy when creating a robust data inventory program.  
+6-2 [Department of Transportation Enterprise Data Inventory](transportation-case-study/) - A review of DOT's strategy and policy when creating a robust data inventory program.  
 
-6-3 [Disaster Assistance Program Coordination](http://gsa-ocsit.github.com/project-open-data.github.com/fema-case-study/) - The coordinated campaign led by FEMA has integrated a successful data exchange among 16 agencies to coordinate an important public service.  
+6-3 [Disaster Assistance Program Coordination](fema-case-study/) - The coordinated campaign led by FEMA has integrated a successful data exchange among 16 agencies to coordinate an important public service.  
 
-6-4 [Environmental Protection Agency Central Data Exchange](http://gsa-ocsit.github.com/project-open-data.github.com/epa-case-study/) - The agency's data exchange provides a model for programs that seek to coordinate the flow of data among industry, state, local, and tribal entities.  
+6-4 [Environmental Protection Agency Central Data Exchange](epa-case-study/) - The agency's data exchange provides a model for programs that seek to coordinate the flow of data among industry, state, local, and tribal entities.  
 
 6-5 [FederalRegister.gov API](https://www.federalregister.gov/uploads/2012/11/FR2-API-Case-Study1.pdf) - A core government program update that has grown into an important public service.
 
