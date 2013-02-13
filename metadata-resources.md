@@ -60,32 +60,32 @@ A breakdown of the data.json schema as [mapped to its pre-existing Data.gov equi
 
 ### Further Metadata Field Guidance
 
-**Title**  
+**Title**  Cardinality: (1,1)  
+
 Acronyms should be avoided.  
 
-Cardinality: (1,1)  
 
-**Description**  
+**Description**  Cardinality: (1,1)  
 
-Cardinality: (1,1)  
 
-**Documentation URL**  
 
-Cardinality: (1,1)  
+**Documentation URL**  Cardinality: (1,1)  
 
-**Download URL**  
 
-Cardinality: (1,n)  
 
-**Format**  
+**Download URL**  Cardinality: (1,n)  
+
+
+
+**Format**  Cardinality: (1,n)  
+
 Express this field using file extensions (e.g., CSV, XLS, XLSX, TSV, JSON, XML).  Separate multiple entries with commas or by using the Distribution field (see below).  
 
-Cardinality: (1,n)  
 
-**Tags**  
+**Tags**  Cardinality: (1,n)  
+
 Should be separated by commas.  
 
-Cardinality: (1,n)  
 
 **Last Update**  
 Dates should be formatted as MM/DD/YYYY.  
