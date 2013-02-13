@@ -24,16 +24,16 @@ published: false
 
 <table width="60%">
 <b><tr><td><ul>
-<li><a href="../examples/catalog-template.json">JSON</a></li>
-<li><a href="../examples/catalog-template.xml">XML</a></li>
-<li><a href="../examples/catalog-template.html">RDFa Lite</a></li>
-<li><a href="../examples/catalog-template.csv">CSV</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.json">JSON</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.xml">XML</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.html">RDFa Lite</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.csv">CSV</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../examples/catalog-template-extended.json">JSON (Extended)</a></li>
-<li><a href="../examples/catalog-template-extended.xml">XML (Extended)</a></li>
-<li><a href="../examples/catalog-template-extended.html">RDFa Lite (Extended)</a></li>
-<li><a href="../examples/catalog-template-extended.csv">CSV (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.json">JSON (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.xml">XML (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.html">RDFa Lite (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.csv">CSV (Extended)</a></li>
 </ul></td></tr></b>
 </table>
 
@@ -41,16 +41,16 @@ published: false
 
 <table width="60%">
 <b><tr><td><ul>
-<li><a href="../examples/catalog-sample.json">JSON</a></li>
-<li><a href="../examples/catalog-sample.xml">XML</a></li>
-<li><a href="../examples/catalog-sample.html">RDFa Lite</a></li>
-<li><a href="../examples/catalog-sample.csv">CSV</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.json">JSON</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.xml">XML</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.html">RDFa Lite</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.csv">CSV</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../examples/catalog-sample-extended.json">JSON (Extended)</a></li>
-<li><a href="../examples/catalog-sample-extended.xml">XML (Extended)</a></li>
-<li><a href="../examples/catalog-sample-extended.html">RDFa Lite (Extended)</a></li>
-<li><a href="../examples/catalog-sample-extended.csv">CSV (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.json">JSON (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.xml">XML (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.html">RDFa Lite (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.csv">CSV (Extended)</a></li>
 </ul></td></tr></b>
 </table>
 
@@ -75,10 +75,8 @@ Note: Express this field using file extensions (e.g., CSV, XLS, XLSX, TSV, JSON,
 **Tags** - Cardinality: (1,n)  
 Note: Should be separated by commas.  
 
-
 **Last Update** - Cardinality: (1,1)  
 Note: Dates should be formatted as MM/DD/YYYY.  
-
 
 **Publisher** - Cardinality: (1,1)  
 Note: Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.  
@@ -103,7 +101,7 @@ Note: This field will serve to delineate the web services offered by an agency a
 **Temporal** - Cardinality: (0,1)  
 
 **Release Date** - Cardinality: (0,1)  
-Dates should be formatted as MM/DD/YYYY.  
+Note: Dates should be formatted as MM/DD/YYYY.  
 
 **Frequency** - Cardinality: (0,1)  
 Note: Frequency should be one of the following: hourly, daily, weekly, yearly, other. 
@@ -125,6 +123,7 @@ Note: Multiple URLs should be separated by commas.
 Note: Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
 
 **Homepage URL** - Cardinality: (0,1)  
+Note: This field is not intended for an agency's homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset.  This allows agencies to better specify what a visitor receives after selecting one of the agency's datasets on Data.gov or in third-party mashups.  
 
 **RSS Feed** - Cardinality: (0,n)  
 
