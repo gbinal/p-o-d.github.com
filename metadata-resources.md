@@ -76,57 +76,57 @@ Note: Express this field using file extensions (e.g., CSV, XLS, XLSX, TSV, JSON,
 Note: Should be separated by commas.  
 
 
-**Last Update**  Cardinality: (1,1)  
+**Last Update** - Cardinality: (1,1)  
 Note: Dates should be formatted as MM/DD/YYYY.  
 
 
-**Publisher**  Cardinality: (1,1)  
+**Publisher** - Cardinality: (1,1)  
 Note: Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.  
 
-**Contact Name**  Cardinality: (1,1)  
+**Contact Name** - Cardinality: (1,1)  
 Note: Name should be formatted as Last, First. 
 
-**Contact Email**  Cardinality: (1,1)  
+**Contact Email** - Cardinality: (1,1)  
 
-**Unique Identifier**  Cardinality: (1,1)  
+**Unique Identifier** - Cardinality: (1,1)  
 Note: This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  Characters should be alphanumeric.  
 
-**Public**  Cardinality: (1,1)  
+**Public** - Cardinality: (1,1)  
 
-**Endpoint**    Cardinality: (0,1)  
+**Endpoint** - Cardinality: (0,1)  
 Note: This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
 
-**License**  Cardinality: (0,1)  
+**License** - Cardinality: (0,1)  
 
-**Spatial**  Cardinality: (0,1)  
+**Spatial** - Cardinality: (0,1)  
 
-**Temporal**  Cardinality: (0,1)  
+**Temporal** - Cardinality: (0,1)  
 
-**Release Date**  Cardinality: (0,1)  
+**Release Date** - Cardinality: (0,1)  
 Dates should be formatted as MM/DD/YYYY.  
 
-**Frequency**  Cardinality: (0,1)  
+**Frequency** - Cardinality: (0,1)  
 Note: Frequency should be one of the following: hourly, daily, weekly, yearly, other. 
 
-**Language**  Cardinality: (0,n)  
+**Language** - Cardinality: (0,n)  
 
-**Granularity**  Cardinality: (0,1)  
+**Granularity** - Cardinality: (0,1)  
 
-**Data Quality**  Cardinality: (0,1)  
+**Data Quality** - Cardinality: (0,1)  
 
-**Category**  Cardinality: (0,n)  
+**Category** - Cardinality: (0,n)  
 
-**Related Documents**  Cardinality: (0,n)  
+**Related Documents** - Cardinality: (0,n)  
 Note: Multiple URLs should be separated by commas.  
 
-**Distribution**  Cardinality: (0,n)  
+**Distribution** - Cardinality: (0,n)  
 
-**Size**  Cardinality: (0,n)  
+**Size** - Cardinality: (0,n)  
 Note: Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
 
-**Homepage URL**  Cardinality: (0,1)  
+**Homepage URL** - Cardinality: (0,1)  
 
-**RSS Feed**  Cardinality: (0,n)  
+**RSS Feed** - Cardinality: (0,n)  
 
 
 
