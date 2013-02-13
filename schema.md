@@ -54,7 +54,7 @@ Publisher           | The publishing agency.  Must use the controlled vocabulary
 Contact Name      | Contact person's name for the asset.                                                                                       | person         | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)
 Contact Email	    | Contact person's email address.			           	                                                                             | mbox	       | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)
 Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database.                                                 | identifier            | [dcterms:identifier](http://www.w3.org/TR/vocab-dcat/#property--identifier)
-Public              | Whether the dataset or API is available to the public (true/false).                                                                             | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)
+Public              | Whether the dataset is publically available as a machine-readable download or API (true/false).                                                                             | public          | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)
 
 "Common Core" Required if Applicable Fields
 -------------------------------------------
