@@ -99,7 +99,7 @@ Additional Information
 * [vocab.data.gov](http://vocab.data.gov)
 
 
-Examples (coming soon)
+Examples
 --------
 * [JSON](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/)
 * [RDFa Lite](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/)
