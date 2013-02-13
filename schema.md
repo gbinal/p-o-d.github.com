@@ -88,7 +88,7 @@ Category            | Main thematic category of the dataset.  Could include [ISO
 Related Documents   | Related documents such as developer documentation.                                                                                             | references            | [dcterms:references](http://purl.org/dc/terms/references)
 Distribution        | Connects a dataset to available distributions.                                                                                                 | distribution          | [dcat:distribution](http://www.w3.org/ns/dcat#distribution)
 Size                | The size of the downloadable dataset.                                                                                                          | size                  | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size)
-Homepage URL        | For presentation of results in Data.gov only: directs user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | homepage	            | [foaf:homepage](http://xmlns.com/foaf/spec/#term_homepage)
+Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | homepage	            | [foaf:homepage](http://xmlns.com/foaf/spec/#term_homepage)
 RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                       | feed                  | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)
 
 
