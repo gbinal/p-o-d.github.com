@@ -60,35 +60,137 @@ A breakdown of the data.json schema as [mapped to its pre-existing Data.gov equi
 
 ### Further Metadata Field Guidance
 
+**Title**  
+Acronyms should be avoided.  
+
+Cardinality: (1,1)  
+
+**Description**  
+
+Cardinality: (1,1)  
+
+**Documentation URL**  
+
+Cardinality: (1,1)  
+
+**Download URL**  
+
+Cardinality: (1,n)  
+
 **Format**  
-Common file formats include: CSV, XLS, XLSX, TSV, JSON, and XML.
+Express this field using file extensions (e.g., CSV, XLS, XLSX, TSV, JSON, XML).  Separate multiple entries with commas or by using the Distribution field (see below).  
+
+Cardinality: (1,n)  
 
 **Tags**  
 Should be separated by commas.  
 
+Cardinality: (1,n)  
+
 **Last Update**  
 Dates should be formatted as MM/DD/YYYY.  
+
+Cardinality: (1,1)  
 
 **Publisher**  
 Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.  
 
+Cardinality: (1,1)  
+
+
+**Contact Name**  
+
+Name should be formatted as Last, First. 
+
+Cardinality: (1,1)  
+
+
+**Contact Email**  
+
+Cardinality: (1,1)  
+
 **Unique Identifier**  
-This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  
+This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  Characters should be alphanumeric.  
+
+Cardinality: (1,1)  
+
+**Public**  
+
+
+Cardinality: (1,1)  
 
 **Endpoint**    
 This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
 
+Cardinality: (0,1)  
+
+**License**  
+
+Cardinality: (0,1)  
+
+**Spatial**  
+
+Cardinality: (0,1)  
+
+**Temporal**  
+
+Cardinality: (0,1)  
+
+
+
 **Release Date**  
 Dates should be formatted as MM/DD/YYYY.  
 
+Cardinality: (0,1)  
+
 **Frequency**  
-Examples may include: daily, weekly, yearly, 3 months, irregular. 
+Frequency should be one of the following: hourly, daily, weekly, yearly, other. 
+
+Cardinality: (0,1)  
+
+**Language**  
+
+Cardinality: (0,n)  
+
+**Granularity**  
+
+Cardinality: (0,1)  
+
+**Data Quality**  
+
+
+Cardinality: (0,1)  
+
+
+**Category**  
+
+
+Cardinality: (0,n)  
+
 
 **Related Documents**  
 Multiple URLs should be separated by commas.  
 
+Cardinality: (0,n)  
+
+**Distribution**  
+
+Cardinality: (0,n)  
+
 **Size**  
 Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
+
+
+Cardinality: (0,n)  
+
+**Homepage URL**  
+
+Cardinality: (0,1)  
+
+**RSS Feed**  
+
+Cardinality: (0,n)  
+
 
 
 ### Use Cases  
