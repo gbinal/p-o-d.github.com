@@ -119,9 +119,9 @@ Note: Multiple URLs should be separated by commas.
 
 **Distribution** - Cardinality: (0,n)  
 
-Distribution is a concatination of the following elements: format, download url, endpoint, language, size.  An example of this this model is:  
+Distribution is a concatination, as appropriate, of the following elements: download url, format, endpoint, language, size.  An example of this this model is:  
   
-    “distribution”: [{"accessURL": "http://data.mcc.gov/data.json", “format”:”JSON”},{"accessURL":”http://data.mcc.gov/data.rdf”, “format”:”RDF-a”}]  
+    "distribution": [{"accessURL": "http://data.mcc.gov/example_resource/data.json", "format":"JSON", "size":"22mb"},{"accessURL":"http://data.mcc.gov/example_/data.xml", "format":"XML", "size":"24mb"}]  
   
 **Size** - Cardinality: (0,n)  
 Note: Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
