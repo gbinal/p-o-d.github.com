@@ -101,7 +101,7 @@ Note: This field will serve to delineate the web services offered by an agency a
 **Temporal** - Cardinality: (0,1)  
 
 **Release Date** - Cardinality: (0,1)  
-Note: Dates should be formatted as MM/DD/YYYY.  
+Note: Dates should be formatted according to ISO 8601 date and time format (e.g. YYYY-MM-DD for date, YYYY-MM-DDThh:mm:ssTZD for date and time, etc).  
 
 **Frequency** - Cardinality: (0,1)  
 Note: Frequency should be one of the following: hourly, daily, weekly, yearly, other. 
