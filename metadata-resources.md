@@ -97,8 +97,10 @@ Note: This field will serve to delineate the web services offered by an agency a
 **License** - Cardinality: (0,1)  
 
 **Spatial** - Cardinality: (0,1)  
+Note: This field should contain one of the following types of content: (1) a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude; (2) a latitude / longitude pair (in decimal degrees) representing a point where the dataset is relevant; (3) a geographic feature expressed in [Geography Markup Language using the Simple Features Profile](http://www.ogcnetwork.net/gml-sf); or (4) a geographic feature from the [GeoNames database](www.geonames.org).
 
 **Temporal** - Cardinality: (0,1)  
+Note: This field should contain an interval of time defined by start and end dates.  Dates should be formatted as pairs of {start date, end date} in the format YYYY-MM-DD hh:mm:ss using 24 hour clock time notation (e.g., 2011-02-14 12:00:00,  2013-02-14 12:00:00). 
 
 **Release Date** - Cardinality: (0,1)  
 Note: Dates should be formatted as MM/DD/YYYY.  
