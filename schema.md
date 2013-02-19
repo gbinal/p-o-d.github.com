@@ -25,13 +25,13 @@ The catalog file should list all of an agencies datasets that can be made public
 
 Metadata File Formats --  RDFa and JSON
 ---------------------------------------
-The Implemention Guidance available as a part of Project Open Data describes Agency requirements for the development of metadata as per the Open Data Policy.  A quick primer on these two file formats follows:
-
-[RDFa Lite](http://www.w3.org/TR/rdfa-lite/) is a minimal subset of RDFa, the Resource Description Framework in attributes, consisting of a few attributes that may be used to express machine-readable data in Web documents like HTML and XML. While it is not a complete solution for advanced data markup tasks, it allows users to publish metadata in a way that is immediately understandable by search engines and other applications built to leverage the growing "web of data."  
+The [Implemention Guidance](http://gsa-ocsit.github.com/project-open-data.github.com//implementation-guide/) available as a part of Project Open Data describes Agency requirements for the development of metadata as per the Open Data Policy.  A quick primer on the two file formats involved:
 
 [JSON](http://www.json.org) is a lightweight data-exchange format that is very easy to read, parse and generate.  Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange.  JSON is built on two structures: (1) a collection of name/value pairs; and (2) an ordered list of values.  
 
-Links to downloadable examples of metadata files developed in both of these formats can be found at the bottom of this page.  Tools to help agencies produce and maintain their data inventories are [available on GitHub](http://www.github.com/project-open-data) and hosted at [Labs.Data.gov](http://labs.data.gov).
+[RDFa Lite](http://www.w3.org/TR/rdfa-lite/) is a minimal subset of RDFa, the Resource Description Framework in attributes, consisting of a few attributes that may be used to express machine-readable data in Web documents like HTML and XML. While it is not a complete solution for advanced data markup tasks, it allows users to publish metadata in a way that is immediately understandable by search engines and other applications built to leverage the growing "web of data."  
+
+Links to downloadable examples of metadata files developed in these and other formats in [the metadata resources](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/).  Tools to help agencies produce and maintain their data inventories are [available on GitHub](http://www.github.com/project-open-data) and hosted at [Labs.Data.gov](http://labs.data.gov).
 
 
 "Common Core" Required Fields
