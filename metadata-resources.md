@@ -115,6 +115,7 @@ Note: Frequency should be one of the following: hourly, daily, weekly, yearly, o
 **Data Quality** - Cardinality: (0,1)  
 
 **Category** - Cardinality: (0,n)  
+Note: Could include [ISO Topic Categories](http://gcmd.nasa.gov/User/difguide/iso_topics.html).  
 
 **Related Documents** - Cardinality: (0,n)  
 Note: Multiple URLs should be separated by commas.  
