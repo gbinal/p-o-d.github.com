@@ -34,7 +34,7 @@ To fulfill the requirements of this memorandum, agencies should begin to describ
 
 ### JSON
 
-JSON is a lightweight and simple way to represent machine-readable data. It is quickly becoming the *de facto* standard for shuttling data across the internet, fueled primarily by the rise of mobile and APIs. Most if not all modern programing languages can interpret and produce JSON out of the box. 
+JSON is a lightweight and simple way to represent machine-readable data. It is quickly becoming the *de facto* standard for shuttling data across the internet, fueled primarily by the rise of mobile and APIs. Modern programing languages can interpret and produce JSON out of the box. 
 
 The JSON representation of the catalog should track directly to the RDFa version, with the exception that JSON keys should not contain the domain prefix (e.g., `dct:title` becomes `title` and `dct:description` becomes simply `description`). Catalogs should be composed of an array of JSON objects, and all fields other than keywords should be a string (where keywords is an array of strings).
 
