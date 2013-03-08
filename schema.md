@@ -74,7 +74,7 @@ Beyond Common Core -- Extending the Schema
 
 Expanded Fields
 ---------------
-Agencies our encourage to use the following expanded fields when appropriate. Agencies may freely augment these fields with their own.
+Agencies are encouraged to use the following expanded fields when appropriate. Agencies may freely augment these fields with their own.
 
 {.table .table-striped}
 Field               | Definition                                                                                                                                    | JSON                  | RDFa Lite
