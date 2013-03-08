@@ -36,7 +36,7 @@ Links to downloadable examples of metadata files developed in this and other for
 -----------------------------
 The following "common core" fields are required, to be used to describe each entry:
 
-(*Select the links in RDFa Lite column to learn more about the use of each element, including the range of valid entries where appropriate. [Consult the schema maps to find the equivalent Data.gov fields](http://gsa-ocsit.github.com/project-open-data.github.com/data-dot-gov-map/).*)
+(*Select the question marks to learn more about the use of each element, including the range of valid entries where appropriate. [Consult the schema maps to find the equivalent Data.gov, RDFa Lite, and CKAN fields](http://gsa-ocsit.github.com/project-open-data.github.com/data-dot-gov-map/).*)
 
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            
