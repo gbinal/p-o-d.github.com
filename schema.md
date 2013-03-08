@@ -96,7 +96,7 @@ We sought to be platform-independent and to align as much as possible with exist
 
 To that end, our JSON key names are directly drawn from [DCAT](http://www.w3.org/TR/vocab-dcat/), with one exception. 
 
-We added the new **accessLevel** field to help easily sort datasets into our three existing categories: public, restricted, and private. The addition of this field means an agency can run a simple filter against its enterprise data catalog to generate a public-facing list of datasets that are, or could one day be, made available publicly (or in the case of restricted data, that is made available under certain conditions). This also enables anyone to generate a list of datasets that *could* be made available that have not yet been released by filtering **accessLevel** to *public* and **download** to *blank*.
+We added the new **accessLevel** field to help easily sort datasets into our three existing categories: public, restricted, and private. This field means an agency can run a basic filter against its enterprise data catalog to generate a public-facing list of datasets that are, or *could one day be*, made publicly available (or, in the case of restricted data, available under certain conditions). This field also makes it easy for anyone to generate a list of datasets that *could* be made available but have not yet been released by filtering **accessLevel** to *public* and **download** to *blank*.
 
 Additional Information
 ----------------------
