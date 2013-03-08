@@ -90,6 +90,14 @@ Homepage URL        | Alternative landing page used to redirect user to a contex
 RSS Feed            | URL for an RSS feed that provides access to the dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                       | feed                 
 
 
+Rationale for Metadata Nomenclature
+----------------------
+We sought to be platform-independent and to align as much as possible with existing open standards.
+
+To that end, our JSON key names are directly drawn from [DCAT](http://www.w3.org/TR/vocab-dcat/), with one exception. 
+
+We added the new **accessLevel** field to help easily sort datasets into our three existing categories: public, restricted, and private. The addition of this field means an agency can run a simple filter against its enterprise data catalog to generate a public-facing list of datasets that are, or could one day be, made available publicly (or in the case of restricted data, that is made available under certain conditions). This also enables anyone to generate a list of datasets that *could* be made available that have not yet been released by filtering **accessLevel** to *public* and **download** to *blank*.
+
 Additional Information
 ----------------------
 * [Schema.org](http://schema.org)
