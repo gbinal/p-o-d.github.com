@@ -20,7 +20,7 @@ What to Document -- Datasets and APIs
 
 APIs allow developers (both internal to the agency and the public) to dynamically query a dataset. For example, a dataset [of farmers markets](https://explore.data.gov/Agriculture/Farmers-Markets-Geographic-Data/wfna-38ey) may be made available for download as a single file (e.g., a CSV), or may be made available to developers as an API, such that a developer could provide the agency with a zipcode, and retrieve a list of farmers markets in that area.
 
-The catalog file should list all of an agencies datasets that can be made public, regardless of form - this includes raw datasets and APIs.  Use dcat:webService to indicate which datasets offer dynamic APIs (see below for more information on Common Core and Extensional metadata elements).
+The catalog file should list all of an agencies datasets that can be made public, regardless of form - this includes raw datasets and APIs.  Use **webService** to indicate which datasets offer dynamic APIs (see below for more information on Common Core and Extensional metadata elements).
 
 
 Metadata File Formats --  RDFa and JSON
