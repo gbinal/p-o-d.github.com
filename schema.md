@@ -45,7 +45,7 @@ Title               | Human-readable name of the asset.  Should be in plain Engl
 Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | description     
 Download URL        | URL providing direct access to the downloadable distribution of a dataset.                                                                      | accessURL              
 Format              | The file format or API type of the distribution.                                                                                              | format          
-Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keywords        
+Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keyword        
 Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                         | modified        
 Publisher           | The publishing agency.               | publisher    
 Contact Name      | Contact person's name for the asset.                                                                                       | person         
@@ -104,7 +104,7 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 {.table .table-striped}
 **Field** | **description**
 ----- | -----
-{.info} **Cardinality** | (1,1)
+**Cardinality** | (1,1)
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | This should be human-readable and understandable to an average person.
