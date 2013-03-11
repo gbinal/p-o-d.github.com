@@ -16,7 +16,7 @@ Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*
 -------             | -------                 | -------           | ------- 
 Title               | *Title*                 | *title*           | [dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)    
 Description         | *Description*           | *notes*                | [dcterms:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description) 
-Download URL        | *Access Point*          | *resources[[url]]*                | [dcat:download](http://www.w3.org/TR/vocab-dcat/#class--download)
+Download URL        | *Access Point*          | *resources[[url]]*                | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)
 Format              | *Media Format*          | *resources[[format]]*                | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)      
 Tags                | *Keywords*              | *tags*                | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)    
 Last Update         | *Date updated*          | *revision_timestamp*                | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)
