@@ -92,6 +92,14 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 
 ### Further Metadata Field Guidance
 
+{.table}
+**Title** | 
+----- | -----
+**Cardinality** | Cardinality: (1,1)
+**Accepted Values** | String
+**Usage Notes** | Abbreviations should be avoided
+**Example** | {"title":"White House Visitor Records Requests"}
+
 **Title** - Cardinality: (1,1)  
 Note: Acronyms should be avoided.  
 
