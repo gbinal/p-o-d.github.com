@@ -33,7 +33,7 @@ Public Access Level | *n/a*                   | *n/a*             | *n/a*
 Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*
 -------             | -------                 | -------           | ------- 
 Documentation URL   | *Data Dictionary*       | *n/a*                | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)
-Endpoint            | *Access Point*          | *n/a*                | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice)
+Endpoint            | *Access Point*          | *n/a*                | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice) * 
 License             | *Dataset license agreement URL* | *license_id*        | [dcterms:license](http://www.w3.org/TR/vocab-dcat/#property--license-1)
 Spatial             | *Geographic scope*      | *n/a*                | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage)
 Temporal      	    | *Period of Coverage*    | *n/a*                | [dcterms:temporal](http://www.w3.org/TR/vocab-dcat/#property--temporal-coverage)
@@ -54,6 +54,6 @@ Related Documents   | *Reference for Technical Documentation* | *n/a*           
 Distribution        | *Dataset Group Name*    | *n/a*                | [dcat:distribution](http://www.w3.org/TR/vocab-dcat/#property--dataset-distribution)
 Size                | *File Size*             | *n/a*                | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size)
 Homepage URL        | *n/a*	                  | *url*                | [foaf:homepage](http://www.w3.org/TR/vocab-dcat/#property--homepage)
-RSS Feed            | *Access Point*          | *n/a*                | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)
+RSS Feed            | *Access Point*          | *n/a*                | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed) * 
 
-
+ * When combined with _accessURL_, _format_, and _size_.
