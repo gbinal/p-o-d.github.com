@@ -24,7 +24,7 @@ Publisher           | *Agency Name*           | *owner_org*                | [dc
 Contact Name        | *Contact Name*          | *maintainer*                | [foaf:Person](http://www.w3.org/TR/vocab-dcat/#class--organization-person) | *sdo:Person*
 Contact Email       | *Contact Email Address* | *maintainer_email*                | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox) | *n/a*
 Unique Identifier   | *User Generated ID*     | *id*                | [dcterms:identifier](http://www.w3.org/TR/vocab-dcat/#property--identifier) | *n/a*
-Public Access Level | *n/a*                   | *n/a*             | *n/a* | 
+Public Access Level | *n/a*                   | *n/a*             | *n/a* | *n/a*
 
 "Common Core" Required if Applicable Fields
 -------------------------------------------
