@@ -41,17 +41,17 @@ The following "common core" fields are required, to be used to describe each ent
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            
 -------             | ---------------                                                                                                                                | --------------  
-Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                | title           
-Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps)) | description     
-Download URL        | URL providing direct access to the downloadable distribution of a dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                     | accessURL              
-Format              | The file format or API type of the distribution. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                | format          
-Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))             | keywords        
-Last Update         | Most recent date on which the dataset was changed, updated or modified. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                        | modified        
-Publisher           | The publishing agency. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                | organization    
-Contact Name      | Contact person's name for the asset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                       | person         
-Contact Email	    | Contact person's email address. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))			           	                                                                             | mbox	       
-Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                 | identifier            
-Public Access Level | The degree to which this dataset **could** be made publicly-available, *regardless of whether it has been made available*. Choices: Public (is or *could be* made publicly available), Restricted (available under certain conditions), Private (never able to be made publicly available) ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps)) | accessLevel          
+Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | title           
+Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | description     
+Download URL        | URL providing direct access to the downloadable distribution of a dataset.                                                                      | accessURL              
+Format              | The file format or API type of the distribution.                                                                                              | format          
+Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keywords        
+Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                         | modified        
+Publisher           | The publishing agency.               | organization    
+Contact Name      | Contact person's name for the asset.                                                                                       | person         
+Contact Email	    | Contact person's email address. 			           	                                                                             | mbox	       
+Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database.                                                 | identifier            
+Public Access Level | The degree to which this dataset **could** be made publicly-available, *regardless of whether it has been made available*. Choices: Public (is or *could be* made publicly available), Restricted (available under certain conditions), Private (never able to be made publicly available)  | accessLevel          
 
 "Common Core" Required if Applicable Fields
 -------------------------------------------
@@ -60,11 +60,11 @@ The following fields must be used to describe each dataset if they are applicabl
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            
 -------             | ---------------                                                                                                                                | --------------  
-Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))             | dataDictionary  
-Endpoint            | Endpoint of web service to access dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                     | webService            
-License             | The license dataset or API is published with.  See [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) for more information. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))   | license         
-Spatial  	    | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                     | spatial 	       
-Temporal	    | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data). ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                    | temporal	       
+Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API.              | dataDictionary  
+Endpoint            | Endpoint of web service to access dataset.                                                                                                     | webService            
+License             | The license dataset or API is published with.  See [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) for more information.   | license         
+Spatial  	    | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place.                      | spatial 	       
+Temporal	    | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data).                                     | temporal	       
 
 Beyond Common Core -- Extending the Schema
 ------------------------------------------
@@ -77,17 +77,17 @@ Agencies are encouraged to use the following expanded fields when appropriate. A
 {.table .table-striped}
 Field               | Definition                                                                                                                                    | JSON                 
 ------              | ------                                                                                                                                        | ----                  
-Release Date        | Date of formal issuance. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                                       | issued         
-Frequency           | Frequency with which dataset is published. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                     | accrualPeriodicity    
-Language            | The language of the dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                                   | language              
-Granularity         | Level of granularity of the dataset.  Typically geographical or temporal. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                     | granularity           
-Data Quality        | Whether the dataset meets the agency's Information Quality Guidelines (true/false). ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                              | dataQuality          
-Category            | Main thematic category of the dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))               | theme                 
-Related Documents   | Related documents such as developer documentation. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                             | references            
-Distribution        | Connects a dataset to available distributions. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                 | distribution         
-Size                | The size of the downloadable dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                                          | size                  
-Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps)) | homepage	            
-RSS Feed            | URL for an RSS feed that provides access to the dataset. ([?](http://gsa-ocsit.github.com/project-open-data.github.com/metadata-resources/#schema_maps))                                                                                       | feed                 
+Release Date        | Date of formal issuance.                                                                                                                        | issued         
+Frequency           | Frequency with which dataset is published.                                                                                                    | accrualPeriodicity    
+Language            | The language of the dataset.                                                                                                                    | language              
+Granularity         | Level of granularity of the dataset.  Typically geographical or temporal.                                                                      | granularity           
+Data Quality        | Whether the dataset meets the agency's Information Quality Guidelines (true/false).                                                                                                             | dataQuality          
+Category            | Main thematic category of the dataset.                | theme                 
+Related Documents   | Related documents such as developer documentation.                                                                                            | references            
+Distribution        | Connects a dataset to available distributions.                                                                                                  | distribution         
+Size                | The size of the downloadable dataset.                                                                                                           | size                  
+Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | homepage	            
+RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                        | feed                 
 
 
 Rationale for Metadata Nomenclature
