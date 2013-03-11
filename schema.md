@@ -92,8 +92,8 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 
 ### Further Metadata Field Guidance
 
-{.table}
-**Title** | 
+{.table .table-striped}
+**Title** | -
 ----- | -----
 **Cardinality** | Cardinality: (1,1)
 **Accepted Values** | String
