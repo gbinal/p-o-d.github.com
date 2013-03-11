@@ -151,9 +151,9 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 ----- | -----
 **Cardinality** | (1,1)
 **Required** | Yes, always
-**Accepted Values** | Date (MM/DD/YYYY)
-**Usage Notes** | Dates should be formatted as MM/DD/YYYY. If this file is brand-new, enter the **issued** date here as well.
-**Example** |  {"modified":"01/15/2012"}
+**Accepted Values** | Date (YYYY-MM-DD)
+**Usage Notes** | Dates should be formatted as YYYY-MM-DD. Specify "01" as the day if unknown. If this file is brand-new, enter the **issued** date here as well.
+**Example** |  {"modified":"2012-01-15"}
 
 {.table .table-striped}
 **Field** | **publisher**
@@ -241,9 +241,9 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 ----- | -----
 **Cardinality** | (0,1)
 **Required** | No
-**Accepted Values** | Date (MM/DD/YYYY)
+**Accepted Values** | Date (YYYY-MM-DD)
 **Usage Notes** | -
-**Example** |  {"issued":"01/15/2001"}
+**Example** |  {"issued":"2001-01-15"}
 
 {.table .table-striped}
 **Field** | **accrualPeriodicity**
