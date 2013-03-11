@@ -80,7 +80,7 @@ Field               | Definition                                                
 Release Date        | Date of formal issuance.                                                                                                                        | issued         
 Frequency           | Frequency with which dataset is published.                                                                                                    | accrualPeriodicity    
 Language            | The language of the dataset.                                                                                                                    | language              
-Granularity         | Level of granularity of the dataset.  Typically geographical or temporal.                                                                      | granularity           
+Granularity         | Level of granularity of the dataset.                                                                      | granularity           
 Data Quality        | Whether the dataset meets the agency's Information Quality Guidelines (true/false).                                                                                                             | dataQuality          
 Category            | Main thematic category of the dataset.                | theme                 
 Related Documents   | Related documents such as developer documentation.                                                                                            | references            
@@ -93,86 +93,224 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 ### Further Metadata Field Guidance
 
 {.table .table-striped}
-**Title** | -
+**Field** | **title**
 ----- | -----
-**Cardinality** | Cardinality: (1,1)
+**Cardinality** | (1,1)
+**Required** | Yes, always
 **Accepted Values** | String
-**Usage Notes** | Abbreviations should be avoided
-**Example** | {"title":"White House Visitor Records Requests"}
+**Usage Notes** | Acronyms should be avoided.
+**Example** | {"title":"Types of Vegetables"}
 
-**Title** - Cardinality: (1,1)  
-Note: Acronyms should be avoided.  
+**Field** | **description**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | String
+**Usage Notes** | This should be human-readable and understandable to an average person.
+**Example** | {"description":"This dataset contains a list of vegetables, including nutrition information and seasonality. Includes details on tomatoes, which are really fruit but considered a vegetable in this dataset."}
 
-**Description** - Cardinality: (1,1)  
+**Field** | **dataDictionary**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, if there is corresponding documentation online.
+**Accepted Values** | URL
+**Usage Notes** | -
+**Example** |  {"dataDictionary":"http://www.agency.gov/vegetables/documentation.html"}
 
-**Documentation URL** - Cardinality: (1,1)  
+**Field** | **accessURL**
+----- | -----
+**Cardinality** | (1,n)
+**Required** | Yes, if the file is available for public download.
+**Accepted Values** | URL
+**Usage Notes** | This must be the **direct** download URL. Use **homepage** for landing or disambiguation pages, or **dataDictionary** for documentation pages.
+**Example** |  {"accessURL":"http://www.agency.gov/vegetables/listofvegetables.csv"}
 
-**Download URL** - Cardinality: (1,n)  
+**Field** | **format**
+----- | -----
+**Cardinality** | (1,n)
+**Required** | Yes, if the file is available for public download.
+**Accepted Values** | String
+**Usage Notes** | This must describe the exact file available at **accessURL** using file extensions (e.g., CSV, XLS, XSLX, TSV, JSON, XML). For example, if the download file is a ZIP containing a CSV, the entry here is "ZIP".
+**Example** | {"format":"csv"}
 
-**Format** - Cardinality: (1,n)  
-Note: Express this field using file extensions (e.g., CSV, XLS, XLSX, TSV, JSON, XML).  Separate multiple entries with commas or by using the Distribution field (see below).  
+**Field** | **keyword**
+----- | -----
+**Cardinality** | (1,n)
+**Required** | Yes, always
+**Accepted Values** | String
+**Usage Notes** | Separate keywords with commas.
+**Example** | {"keyword":"squash,vegetables,veggies,greens,leafy,spinach,kale,nutrition,tomatoes,tomatos"}
 
-**Tags** - Cardinality: (1,n)  
-Note: Should be separated by commas.  
+**Field** | **modified**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | Date (MM/DD/YYYY)
+**Usage Notes** | Dates should be formatted as MM/DD/YYYY. If this file is brand-new, enter the **issued** date here as well.
+**Example** |  {"modified":"01/15/2012"}
 
-**Last Update** - Cardinality: (1,1)  
-Note: Dates should be formatted as MM/DD/YYYY.  
+**Field** | **publisher**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | String
+**Usage Notes** | Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.
+**Example** |  {"publisher":"U.S. Department of Education"}
 
-**Publisher** - Cardinality: (1,1)  
-Note: Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.  
+**Field** | **person**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | String
+**Usage Notes** | Name should be formatted as Last, First
+**Example** |  {"person":"Brown, John"}
 
-**Contact Name** - Cardinality: (1,1)  
-Note: Name should be formatted as Last, First. 
+**Field** | **mbox**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | Email address
+**Usage Notes** | -
+**Example** |  {"mbox":"joe@agency.gov"}
 
-**Contact Email** - Cardinality: (1,1)  
+**Field** | **identifier**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | String
+**Usage Notes** | This field allows third parties to maintain a consistent record for datasets even if title or URLs are updated. Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field. However, each identifier **must** be unique across the agency's catalog and remain fixed. Characters should be alphanumeric.
+**Example** |  {"identifier":"1344"}
 
-**Unique Identifier** - Cardinality: (1,1)  
-Note: This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  Characters should be alphanumeric.  
+**Field** | **accessLevel**
+----- | -----
+**Cardinality** | (1,1)
+**Required** | Yes, always
+**Accepted Values** | Must be one of the following: Public, Restricted, Private
+**Usage Notes** | This field refers to degree to which this dataset *could be made available* to the public, regardless of whether it is currently available to the public. For example, if a member of the public can walk into your agency and obtain a dataset, that entry is **public** even if there are no files online. A *restricted* dataset is one only available under certain conditions or to certain audiences (such as researchers who sign a waiver). A private dataset is one that could never be made available to the public for privacy, security, or other reasons as determined by your agency.
+**Example** | {"accessLevel":"public"}
 
-**Public** - Cardinality: (1,1)  
+**Field** | **webService**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | Yes, if the dataset has an API
+**Accepted Values** | URL
+**Usage Notes** | This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.
+**Example** | {"webService":"http://www.agency.gov/vegetables/vegetables.json"}
 
-**Endpoint** - Cardinality: (0,1)  
-Note: This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
+**Field** | **license**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | No
+**Accepted Values** | -
+**Usage Notes** | See list of licenses.
+**Example** |  {"license":""}
 
-**License** - Cardinality: (0,1)  
+**Field** | **spatial**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | Yes, if the dataset is spatial
+**Accepted Values** | See Usage Notes
+**Usage Notes** | This field should contain one of the following types of content: (1) a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude; (2) a latitude / longitude pair (in decimal degrees) representing a point where the dataset is relevant; (3) a geographic feature expressed in [Geography Markup Language using the Simple Features Profile](http://www.ogcnetwork.net/gml-sf); or (4) a geographic feature from the [GeoNames database](www.geonames.org).
+**Example** |  {"spatial":""}
 
-**Spatial** - Cardinality: (0,1)  
-Note: This field should contain one of the following types of content: (1) a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude; (2) a latitude / longitude pair (in decimal degrees) representing a point where the dataset is relevant; (3) a geographic feature expressed in [Geography Markup Language using the Simple Features Profile](http://www.ogcnetwork.net/gml-sf); or (4) a geographic feature from the [GeoNames database](www.geonames.org).
+**Field** | **temporal**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | Yes, if applicable
+**Accepted Values** | See Usage Notes
+**Usage Notes** | This field should contain an interval of time defined by start and end dates.  Dates should be formatted as pairs of {start date, end date} in the format YYYY-MM-DD hh:mm:ss using 24 hour clock time notation (e.g., 2011-02-14 12:00:00,  2013-02-14 12:00:00). 
+**Example** |  {"temporal":"2000-01-15 00:45:00,2010-01-15 00:06:00"}
 
-**Temporal** - Cardinality: (0,1)  
-Note: This field should contain an interval of time defined by start and end dates.  Dates should be formatted as pairs of {start date, end date} in the format YYYY-MM-DD hh:mm:ss using 24 hour clock time notation (e.g., 2011-02-14 12:00:00,  2013-02-14 12:00:00). 
+**Field** | **issued**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | No
+**Accepted Values** | Date (MM/DD/YYYY)
+**Usage Notes** | -
+**Example** |  {"issued":"01/15/2001"}
 
-**Release Date** - Cardinality: (0,1)  
-Note: Dates should be formatted as MM/DD/YYYY.  
+**Field** | **accrualPeriodicity**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | No
+**Accepted Values** | Must be one of the following: hourly, daily, weekly, yearly, other
+**Usage Notes** | -
+**Example** |  {"accrualPeriodicity":"yearly"}
 
-**Frequency** - Cardinality: (0,1)  
-Note: Frequency should be one of the following: hourly, daily, weekly, yearly, other. 
+**Field** | **language**
+----- | -----
+**Cardinality** | (0,n)
+**Required** | No
+**Accepted Values** | String
+**Usage Notes** | -
+**Example** |  {"language":"English"}
 
-**Language** - Cardinality: (0,n)  
+**Field** | **granularity**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | No
+**Accepted Values** | String
+**Usage Notes** | Typically geographical or temporal.
+**Example** |  {"granularity":"vegetables"}
 
-**Granularity** - Cardinality: (0,1)  
+**Field** | **dataQuality**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | No
+**Accepted Values** | Must be one of the following: true, false
+**Usage Notes** | Indicates whether a dataset
+**Example** |  {"dataQuality":"true"}
 
-**Data Quality** - Cardinality: (0,1)  
+**Field** | **category**
+----- | -----
+**Cardinality** | (0,n)
+**Required** | No
+**Accepted Values** | String
+**Usage Notes** | Separate multiple categories with a comma. Could include [ISO Topic Categories](http://www.isotopicmaps.org/).  
+**Example** |  {"category":"vegetables"}
 
-**Category** - Cardinality: (0,n)  
-Note: Could include [ISO Topic Categories](http://gcmd.nasa.gov/User/difguide/iso_topics.html).  
+**Field** | **references**
+----- | -----
+**Cardinality** | (0,n)
+**Required** | No
+**Accepted Values** | URL
+**Usage Notes** | Separate multiple URLs with a comma.
+**Example** |  {"references":"http://www.agency.gov/fruits/fruits.csv,http://www.agency.gov/legumes/legumes.csv"}
 
-**Related Documents** - Cardinality: (0,n)  
-Note: Multiple URLs should be separated by commas.  
-
-**Distribution** - Cardinality: (0,n)  
-
-Distribution is a concatenation, as appropriate, of the following elements: download url, format, endpoint, language, size.  An example of this this model is:  
+**Field** | **distribution**
+----- | -----
+**Cardinality** | (0,n)
+**Required** | No
+**Accepted Values** | See Usage Notes
+**Usage Notes** | Distribution is a concatenation, as appropriate, of the following elements: download url, format, endpoint, language, size.  An example of this this model is:  
   
     "distribution": [{"accessURL": "http://data.mcc.gov/example_resource/data.json", "format":"JSON", "size":"22mb"},{"accessURL":"http://data.mcc.gov/example_/data.xml", "format":"XML", "size":"24mb"}]  
-  
-**Size** - Cardinality: (0,n)  
-Note: Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
 
-**Homepage URL** - Cardinality: (0,1)  
-Note: This field is not intended for an agency's homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset.  This allows agencies to better specify what a visitor receives after selecting one of the agency's datasets on Data.gov or in third-party mashups.  
+**Example** | -
 
-**RSS Feed** - Cardinality: (0,n)  
+**Field** | **size**
+----- | -----
+**Cardinality** | (0,n)
+**Required** | No
+**Accepted Values** | See Usage Notes
+**Usage Notes** | Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb. 
+**Example** |  {"size":"3mb"}
+
+**Field** | **homepage**
+----- | -----
+**Cardinality** | (0,1)
+**Required** | No
+**Accepted Values** | URL
+**Usage Notes** | This field is not intended for an agency's homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset.  This allows agencies to better specify what a visitor receives after selecting one of the agency's datasets on Data.gov or in third-party mashups.
+**Example** |  {"homepage":"http://www.agency.gov/vegetables"}
+
+**Field** | **feed**
+----- | -----
+**Cardinality** | (0,n)
+**Required** | No
+**Accepted Values** | URL
+**Usage Notes** | These RSS feeds will be used to create a cross-agency RSS feed search tool.
+**Example** |  {"feed":"http://www.agency.gov/vegetables/vegetables.rss"}
 
 
 Rationale for Metadata Nomenclature
