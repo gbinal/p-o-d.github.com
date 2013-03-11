@@ -14,14 +14,14 @@ published: true
 {.table .table-striped}
 Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*  
 -------             | -------                 | -------           | ------- 
-Title               | *Title*                 | *title*           | [dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)    
-Description         | *Description*           | *notes*                | [dcterms:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description) 
+Title               | *Title*                 | *title*           | [dcterms:title](http://www.w3.org/TR/vocab-dcat/#property--title-1)    
+Description         | *Description*           | *notes*                | [dcterms:description](http://www.w3.org/TR/vocab-dcat/#property--description-1) 
 Download URL        | *Access Point*          | *resources[[url]]*                | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download)
 Format              | *Media Format*          | *resources[[format]]*                | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)      
 Tags                | *Keywords*              | *tags*                | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)    
 Last Update         | *Date updated*          | *revision_timestamp*                | [dcterms:modified](http://www.w3.org/TR/vocab-dcat/#property--update-modification-date-1)
-Publisher           | *Agency Name*           | *owner_org*                | [foaf:Organization](http://xmlns.com/foaf/spec/#term_Organization)
-Contact Name        | *Contact Name*          | *maintainer*                | [foaf:Person](http://xmlns.com/foaf/spec/#term_Person)
+Publisher           | *Agency Name*           | *owner_org*                | [foaf:Organization](http://www.w3.org/TR/vocab-dcat/#class--organization-person)
+Contact Name        | *Contact Name*          | *maintainer*                | [foaf:Person](http://www.w3.org/TR/vocab-dcat/#class--organization-person)
 Contact Email       | *Contact Email Address* | *maintainer_email*                | [foaf:mbox](http://xmlns.com/foaf/spec/#term_mbox)
 Unique Identifier   | *User Generated ID*     | *id*                | [dcterms:identifier](http://www.w3.org/TR/vocab-dcat/#property--identifier)
 Public Access Level | *n/a*                   | *n/a*             | *n/a*
@@ -44,16 +44,16 @@ Expanded Fields
 {.table .table-striped}
 Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*
 -------             | -------                 | -------           | ------- 
-Release Date        | *Date Released*         | *n/a*                | [dcterms:issued](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#issued)
-Frequency           | *Frequency*             | *n/a*                | [dcterms:accrualPeriodicity](http://purl.org/dc/terms/accrualPeriodicity)   
+Release Date        | *Date Released*         | *n/a*                | [dcterms:issued](http://www.w3.org/TR/vocab-dcat/#property--release-date)
+Frequency           | *Frequency*             | *n/a*                | [dcterms:accrualPeriodicity](http://www.w3.org/TR/vocab-dcat/#property--frequency)   
 Language            | *n/a*                   | *n/a*                | [dcat:language](http://www.w3.org/TR/vocab-dcat/#property--language-1)     
 Granularity         | *Geographic Granularity* | *n/a*                | [dcat:granularity](http://www.w3.org/TR/vocab-dcat/#property--granularity)
 Data Quality        | *Data Quality*          | *n/a*                | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)
 Category            | *Subject Area*          | *groups*                | [dcat:theme](http://www.w3.org/TR/vocab-dcat/#property--theme-category)  
-Related Documents   | *Reference for Technical Documentation* | *n/a*                | [dcterms:references](http://purl.org/dc/terms/references)
-Distribution        | *Dataset Group Name*    | *n/a*                | [dcat:distribution](http://www.w3.org/ns/dcat#distribution)
+Related Documents   | *Reference for Technical Documentation* | *n/a*                | [dcterms:references](http://www.w3.org/TR/vocab-dcat/#property--related-documents)
+Distribution        | *Dataset Group Name*    | *n/a*                | [dcat:distribution](http://www.w3.org/TR/vocab-dcat/#property--dataset-distribution)
 Size                | *File Size*             | *n/a*                | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size)
-Homepage URL        | *n/a*	                  | *url*                | [foaf:homepage](http://xmlns.com/foaf/spec/#term_homepage)
+Homepage URL        | *n/a*	                  | *url*                | [foaf:homepage](http://www.w3.org/TR/vocab-dcat/#property--homepage)
 RSS Feed            | *Access Point*          | *n/a*                | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed)
 
 
