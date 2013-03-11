@@ -47,7 +47,7 @@ Download URL        | URL providing direct access to the downloadable distributi
 Format              | The file format or API type of the distribution.                                                                                              | format          
 Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keywords        
 Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                         | modified        
-Publisher           | The publishing agency.               | organization    
+Publisher           | The publishing agency.               | publisher    
 Contact Name      | Contact person's name for the asset.                                                                                       | person         
 Contact Email	    | Contact person's email address. 			           	                                                                             | mbox	       
 Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database.                                                 | identifier            
