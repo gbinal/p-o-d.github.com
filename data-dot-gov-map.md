@@ -8,11 +8,11 @@ published: true
 
 ====================
 
-"Common Core" Required Fields
+"Common Core" Required Fields Equivalents
 -----------------------------
 
 {.table .table-striped}
-Field               | *Data.gov Equivalent*   | *CKAN Equivalent* | *RDFa Lite Equivalent*  
+Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*  
 -------             | -------                 | -------           | ------- 
 Title               | *Title*                 | *title*           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)    
 Description         | *Description*           | *notes*                | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description) 
@@ -30,7 +30,7 @@ Public Access Level | *n/a*                   | *n/a*             | *n/a*
 -------------------------------------------
 
 {.table .table-striped}
-Field               | *Data.gov Equivalent*   | *CKAN Equivalent* | *RDFa Lite Equivalent*
+Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*
 -------             | -------                 | -------           | ------- 
 Documentation URL   | *Data Dictionary*       | *n/a*                | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary)
 Endpoint            | *Access Point*          | *n/a*                | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice)
@@ -42,7 +42,7 @@ Expanded Fields
 ---------------
 
 {.table .table-striped}
-Field               | *Data.gov Equivalent*   | *CKAN Equivalent* | *RDFa Lite Equivalent*
+Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*
 -------             | -------                 | -------           | ------- 
 Release Date        | *Date Released*         | *n/a*                | [dct:issued](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#issued)
 Frequency           | *Frequency*             | *n/a*                | [dct:accrualPeriodicity](http://purl.org/dc/terms/accrualPeriodicity)   
