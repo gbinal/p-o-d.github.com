@@ -104,7 +104,7 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 {.table .table-striped}
 **Field** | **description**
 ----- | -----
-**Cardinality** | (1,1)
+{.info} **Cardinality** | (1,1)
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | This should be human-readable and understandable to an average person.
