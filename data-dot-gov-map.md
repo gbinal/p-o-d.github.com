@@ -58,4 +58,4 @@ RSS Feed            | *Access Point*          | *n/a*                | [dcat:fee
 
 \*When combined with _accessURL_, _format_, and _size_.
 
-\*\*In DCAT, *foaf:homepage* refers to the catalog homepage, while in Data.gov it refers to the dataset homepage.
+\*\*In DCAT, *foaf:homepage* refers to the catalog homepage, while in the "common core" metadata it refers to the dataset homepage.
