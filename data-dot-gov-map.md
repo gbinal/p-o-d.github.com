@@ -14,8 +14,8 @@ published: true
 {.table .table-striped}
 Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*  
 -------             | -------                 | -------           | ------- 
-Title               | *Title*                 | *title*           | [dct:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)    
-Description         | *Description*           | *notes*                | [dct:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description) 
+Title               | *Title*                 | *title*           | [dcterms:title](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-title)    
+Description         | *Description*           | *notes*                | [dcterms:description](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-description) 
 Download URL        | *Access Point*          | *resources[[url]]*                | [dcat:download](http://www.w3.org/TR/vocab-dcat/#class--download)
 Format              | *Media Format*          | *resources[[format]]*                | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)      
 Tags                | *Keywords*              | *tags*                | [dcat:keyword](http://www.w3.org/TR/vocab-dcat/#property--keyword-tag)    
@@ -44,8 +44,8 @@ Expanded Fields
 {.table .table-striped}
 Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1*
 -------             | -------                 | -------           | ------- 
-Release Date        | *Date Released*         | *n/a*                | [dct:issued](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#issued)
-Frequency           | *Frequency*             | *n/a*                | [dct:accrualPeriodicity](http://purl.org/dc/terms/accrualPeriodicity)   
+Release Date        | *Date Released*         | *n/a*                | [dcterms:issued](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#issued)
+Frequency           | *Frequency*             | *n/a*                | [dcterms:accrualPeriodicity](http://purl.org/dc/terms/accrualPeriodicity)   
 Language            | *n/a*                   | *n/a*                | [dcat:language](http://www.w3.org/TR/vocab-dcat/#property--language-1)     
 Granularity         | *Geographic Granularity* | *n/a*                | [dcat:granularity](http://www.w3.org/TR/vocab-dcat/#property--granularity)
 Data Quality        | *Data Quality*          | *n/a*                | [xsd:boolean](http://www.w3.org/TR/xmlschema-2/#boolean)
