@@ -86,7 +86,7 @@ Category            | Main thematic category of the dataset.                | th
 Related Documents   | Related documents such as developer documentation.                                                                                            | references            
 Distribution        | Connects a dataset to available distributions.                                                                                                  | distribution         
 Size                | The size of the downloadable dataset.                                                                                                           | size                  
-Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | homepage	            
+Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | landingPage	            
 RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                        | feed                 
 
 
@@ -321,13 +321,13 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 **Example** |  {"size":"3mb"}
 
 {.table .table-striped}
-**Field** | **homepage**
+**Field** | **landingPage**
 ----- | -----
 **Cardinality** | (0,1)
 **Required** | No
 **Accepted Values** | URL
 **Usage Notes** | This field is not intended for an agency's homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset.  This allows agencies to better specify what a visitor receives after selecting one of the agency's datasets on Data.gov or in third-party mashups.
-**Example** |  {"homepage":"http://www.agency.gov/vegetables"}
+**Example** |  {"landingPage":"http://www.agency.gov/vegetables"}
 
 {.table .table-striped}
 **Field** | **feed**
