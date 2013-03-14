@@ -87,7 +87,8 @@ Related Documents   | Related documents such as developer documentation.        
 Distribution        | Connects a dataset to available distributions.                                                                                                  | distribution         
 Size                | The size of the downloadable dataset.                                                                                                           | size                  
 Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | landingPage	            
-RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                        | feed                 
+RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                        | feed            
+System of Records   | URL to the System of Records related to this dataset.
 
 
 ### Further Metadata Field Guidance
