@@ -60,7 +60,7 @@ The following fields must be used to describe each dataset if they are applicabl
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            
 -------             | ---------------                                                                                                                                | --------------  
-Documentation URL   | URL to documentation for the dataset or API.  At a minimum, this should include a data dictionary and/or documentation on the API.              | dataDictionary  
+Data Dictionary   | URL to the data dictionary for the dataset or API.  Note that documentation other than a Data Dictionary can be referenced using Documentation as shown in the expanded fields.              | dataDictionary  
 Endpoint            | Endpoint of web service to access dataset.                                                                                                     | webService            
 License             | The license dataset or API is published with.  See [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) for more information.   | license         
 Spatial  	    | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place.                      | spatial 	       
@@ -80,6 +80,7 @@ Field               | Definition                                                
 Release Date        | Date of formal issuance.                                                                                                                        | issued         
 Frequency           | Frequency with which dataset is published.                                                                                                    | accrualPeriodicity    
 Language            | The language of the dataset.                                                                                                                    | language              
+Documentation       | URL to any type of associated documentation for the dataset/API.                                                                                | documentation 
 Granularity         | Level of granularity of the dataset.                                                                      | granularity           
 Data Quality        | Whether the dataset meets the agency's Information Quality Guidelines (true/false).                                                                                                             | dataQuality          
 Category            | Main thematic category of the dataset.                | theme                 
@@ -226,7 +227,7 @@ System of Records   | URL to the System of Records related to this dataset. | sy
 **Required** | Yes, if the dataset is spatial
 **Accepted Values** | See Usage Notes
 **Usage Notes** | This field should contain one of the following types of content: (1) a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude; (2) a latitude / longitude pair (in decimal degrees) representing a point where the dataset is relevant; (3) a geographic feature expressed in [Geography Markup Language using the Simple Features Profile](http://www.ogcnetwork.net/gml-sf); or (4) a geographic feature from the [GeoNames database](www.geonames.org).
-**Example** |  {"spatial":""}
+**Example** |  {"spatial":"Lincoln, Nebraska"}
 
 {.table .table-striped}
 **Field** | **temporal**
@@ -344,9 +345,11 @@ Rationale for Metadata Nomenclature
 ----------------------
 We sought to be platform-independent and to align as much as possible with existing open standards.
 
-To that end, our JSON key names are directly drawn from [DCAT](http://www.w3.org/TR/vocab-dcat/), with two exceptions. 
+To that end, our JSON key names are directly drawn from [DCAT](http://www.w3.org/TR/vocab-dcat/), with three exceptions. 
 
 We added the new **accessLevel** field to help easily sort datasets into our three existing categories: public, restricted, and private. This field means an agency can run a basic filter against its enterprise data catalog to generate a public-facing list of datasets that are, or *could one day be*, made publicly available (or, in the case of restricted data, available under certain conditions). This field also makes it easy for anyone to generate a list of datasets that *could* be made available but have not yet been released by filtering **accessLevel** to *public* and **accessURL** to *blank*.
+
+We added the new **documentation** field to allow users to provide links to documentation for datasets and APIs that are not explicitly "Data Dictionaries" as allowed for using that particular DCAT term.
 
 With respect to [dcat:dataQuality](http://www.w3.org/TR/vocab-dcat/#property--data-quality), we intentionally did **not** use this field and instead chose a boolean. At the time of this memo's release, DCAT had no specific guidance on the use of this field, and we actually do: whether or not the data meets an agency’s Information Quality Guidelines.
 
