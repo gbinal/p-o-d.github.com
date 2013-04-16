@@ -43,8 +43,6 @@ Field               | Definition                                                
 -------             | ---------------                                                                                                                                | --------------  
 Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | title           
 Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | description     
-Download URL        | URL providing direct access to the downloadable distribution of a dataset.                                                                      | accessURL              
-Format              | The file format or API type of the distribution.                                                                                              | format          
 Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keyword        
 Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                         | modified        
 Publisher           | The publishing agency.               | publisher    
@@ -61,7 +59,9 @@ The following fields must be used to describe each dataset if they are applicabl
 Field               | Definition                                                                                                                                     |JSON            
 -------             | ---------------                                                                                                                                | --------------  
 Data Dictionary   | URL to the data dictionary for the dataset or API.  Note that documentation other than a Data Dictionary can be referenced using Related Documents as shown in the expanded fields.              | dataDictionary  
+Download URL        | URL providing direct access to the downloadable distribution of a dataset.                                                                      | accessURL              
 Endpoint            | Endpoint of web service to access dataset.                                                                                                     | webService            
+Format              | The file format or API type of the distribution.                                                                                              | format          
 License             | The license dataset or API is published with.  See [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) for more information.   | license         
 Spatial  	    | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place.                      | spatial 	       
 Temporal	    | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data).                                     | temporal	       
@@ -84,7 +84,6 @@ Granularity         | Level of granularity of the dataset.                      
 Data Quality        | Whether the dataset meets the agency's Information Quality Guidelines (true/false).                                                                                                             | dataQuality          
 Category            | Main thematic category of the dataset.                | theme                 
 Related Documents   | Related documents such as technical information about a dataset, developer documentation, etc.                                                                                            | references            
-Distribution        | Connects a dataset to available distributions.                                                                                                  | distribution         
 Size                | The size of the downloadable dataset.                                                                                                           | size                  
 Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | landingPage	            
 RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                        | feed            
