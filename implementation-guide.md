@@ -108,7 +108,7 @@ Review and update your existing IRM Strategic Plan to describe how your agency h
 * [44 USC 3506 (b)(2)](http://www.gpo.gov/fdsys/granule/USCODE-2011-title44/USCODE-2011-title44-chap35-subchapI-sec3506/content-detail.html)
 * [OMB Circular A-11](http://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc)
 
-<center><h2>Ongoing</h2></center>
+<center><h2><u>Ongoing</u></h2></center>  
 
 ## 6) Start a New Data Creation or Collection as Open Data
 
