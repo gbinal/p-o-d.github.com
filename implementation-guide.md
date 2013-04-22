@@ -6,19 +6,18 @@ filename: implementation-guide.md
 published: true
 ---
 
-
-## Create and maintain an enterprise data inventory
+## 1) Create and maintain an enterprise data inventory
 *[Due by 8/5/13]*
 
 Maintain a complete listing of all datasets owned, managed, collected, and/or created by your agency, described in a common format.
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 Produce a single catalog or list of data managed in a single table, workspace, or other relevant location. Describe each dataset according to the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/).
 
 This listing can be maintained in a Data Management System (DMS) such as the open-source [CKAN](http://www.ckan.org) platform; a single spreadsheet, with each metadata field as its own column; or a custom or proprietary DMS of your choosing.
 
-### Best Practices and Examples
+### B) Best Practices and Examples
 
 * Conduct a Zero Base Review effort of all existing data. Give this effort a very short timeframe and the very specific goal of producing a simple list of all data assets within the agency. Stop at the due date rather than stopping at the 100 percent marker, which is very difficult to reach in a single pass. Repeat at regular intervals.
 * Develop and communicate a clear path for listing newly created or acquired datasets into the enterprise data inventory.
@@ -27,25 +26,25 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 * In addition to the core required metadata, work with your agency to develop an expanded set of metadata fields that make sense for your vertical.
 * Your agency can and should use this central inventory listing as an internal search tool to increase awareness of data collections already in existence and to prevent duplicative research efforts. For example, a search of this inventory may reveal that the combination of two existing datasets could produce the results sought by a proposed new collection.
 
-## Create and maintain a public data inventory
+## 2) Create and maintain a public data inventory
 *[Due by 8/5/13]*
 
 Maintain a publicly accessible listing of all datasets maintained by your agency, sans any non-public datasets, for harvesting by a central Data.gov search engine and the public at-large.
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 Document any datasets or metadata in your enterprise data inventory that your agency does not believe can be made publicly available, in consultation with your Office of General Counsel or its equivalent.
 
 Publish your agency’s enterprise data inventory, with the aforementioned datasets removed, to a file located at [agency].gov/data.json and described using (at minimum) the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). While you could manually create this file in a text editor, it is recommended that you use one of the tools provided to generate this file automatically from your existing DMS or enterprise inventory file.
 
-### Tools
+### B) Tools
 
 * **Don’t have a DMS?** Use the hosted Catalog Generator to create your data.json file via basic data entry.
 * **Is your data inventory stored in a CSV (Excel file)?** Use the [CSVtoJSON tool](http://labs.data.gov/csv-to-api/) to automatically convert it into a compliant data.json file.
 * **Is your data inventory stored in CKAN?** Use the Data.gov extension (coming soon).
 * **Not sure if your data.json file meets the requirements?** Paste your file into the [JSON Validator](https://github.com/project-open-data/json-validator) to receive real-time feedback.
 
-### Best Practices and Examples
+### C) Best Practices and Examples
 
 * Using the [common metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema) to describe your enterprise data inventory makes it very simple to turn this inventory into your public inventory.
 * A detailed and descriptive title, description, and set of keywords for each dataset is the difference between customers finding your data, and no one finding your data. Since agency data catalogs are harvested and searchable on Data.gov, accurate and thorough metadata is the best way to connect customers with your data.
@@ -53,11 +52,11 @@ Publish your agency’s enterprise data inventory, with the aforementioned datas
 * When you include restricted datasets in your public data inventory, include specific information on how customers can request and qualify for access to that dataset.
 * Integrate your public data inventory with a tool for soliciting feedback from customers to avoid duplicative effort. For example, the [Kickstart WordPress plugin](https://github.com/project-open-data/kickstart) can automatically generate a voting and commenting mechanism from your data.json file.
 
-### Light Reading
+### D) Light Reading
 
 * [Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)
 
-## Engage with customers to help facilitate and prioritize data release
+## 3) Engage with customers to help facilitate and prioritize data release
 *[Due by 8/5/13]*
 
 ### Minimum Required for Compliance
@@ -66,19 +65,19 @@ Create a process to solicit feedback from customers about existing and potential
 * Suggestions about additional formats in which to release a particular dataset, such as via an API
 * Suggestions as to which datasets to release next  
 
-### Tools
+### A) Tools
 
 * **Have WordPress?** Use the [Data Kickstart plugin](https://github.com/project-open-data/kickstart) to provide an instant voting interface based on your existing data.json file, allowing customers to vote up or down datasets and to leave comments on specific datasets.
 
-### Best Practices and Examples
+### B) Best Practices and Examples
 
 * The required set of common metadata includes fields for a contact name (“person”) and an email address (“mbox”). Listing specific, accurate information in these fields for each dataset ensures that customers can give direct feedback on a dataset to the person who is most likely to be able to act on that feedback.
 * If you enable customers to leave comments on datasets, ensure someone at your agency monitors these comments and responds in a timely manner. When new visitors see outdated, unanswered comments, they are less likely to provide feedback.
 
-## Clarify Roles and Responsibilities
+## 4) Clarify Roles and Responsibilities
 *[Due by 8/5/13]*
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 Ensure your agency CIO is positioned and authorized to implement the requirements of this Memorandum, as per the Clinger-Cohen Act of 1996.
 
@@ -88,14 +87,14 @@ Update your Senior Agency Official for Privacy (SAOP) responsibilities to includ
 
 If your Senior Agency Official for Privacy is not positioned within the office of the CIO, designate an official within the office of the CIO to liaise with the privacy office.
 
-### Light Reading
+### B) Light Reading
 
 * [The Clinger-Cohen Act of 1996](http://govinfo.library.unt.edu/npr/library/misc/itref.html)
 * [OMB Memorandum M-05-08](http://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-08.pdf)
 
-## Update IRM Strategic Plan
+## 5) Update IRM Strategic Plan
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 Review and update your existing IRM Strategic Plan to describe how your agency has institutionalized and operationalized the requirements of this Memorandum, including:
 * Use of open licenses
@@ -104,18 +103,18 @@ Review and update your existing IRM Strategic Plan to describe how your agency h
 * Publishing data in open formats
 * Privacy analysis, with a presumption of openness
 
-### Light Reading
+### B) Light Reading
 
 * [44 USC 3506 (b)(2)](http://www.gpo.gov/fdsys/granule/USCODE-2011-title44/USCODE-2011-title44-chap35-subchapI-sec3506/content-detail.html)
 * [OMB Circular A-11](http://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc)
 
 # Ongoing
 
-## Start a New Data Creation or Collection as Open Data
+## 6) Start a New Data Creation or Collection as Open Data
 
 Collect or create information (data) in a way that supports downstream information processing and dissemination activities.
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 * Collect data electronically whenever possible.
 * Choose or build a data collection tool that:
@@ -127,58 +126,57 @@ Collect or create information (data) in a way that supports downstream informati
 * Post the data files in an Internet-accessible location, listing this location in the dataset’s data inventory entry.
 * Where appropriate, provide access to the data via an API.
 
-### Tools
+### B) Tools
 
 * **Is your data file a CSV?** Use the CSV-to-API generator to automatically create a basic read-only REST API for your CSV data.
 * **Is your data stored in a database?** Use the Database-to-API generator to automatically create a basic read-only REST API for accessing the database data.
 * **Do you have spatial data?** Use the Spatial Search to improve the searchability of your data.
 
-### Best Practices and Examples
+### C) Best Practices and Examples
 
 * Make sure your machine-readable data is also human-readable. This may mean providing two separate files, but more likely means including a human-readable key and a detailed description.
 * It is much easier to collect data in the way you will eventually distribute and publish it, rather than having to manipulate the data midway through to comply with later requirements.
 
-### Light Reading
+### D) Light Reading
 * [Open Government Directive]()
 * [NIST FIPS Publication 199]()
 * [Controlled Unclassified Information requirements]()
 * [Mosaic Effect Wikipedia article]()
 
-## Release an Existing Data Collection as Open Data
+## 7) Release an Existing Data Collection as Open Data
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 * Review information for privacy, confidentiality pledge, security, and other restrictions to release.
 * Make the data available in a machine-readable format. See LINK for a list of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
 * Post the data files in an Internet-accessible location, listing this location the dataset’s entry in your agency inventory listing.
 
-### Tools
+### B) Tools
 
 * **Is your data file a CSV?** Use the CSV-to-API generator to automatically create a basic read-only REST API for your CSV data.
 * **Is your data stored in a database?** Use the Database-to-API generator to automatically create a basic read-only REST API for accessing the database data.
 * **Do you have spatial data?** Use the Spatial Search to improve the searchability of your data.
 
-### Best Practices and Examples
+### C) Best Practices and Examples
 
 * Let us know about your machine-readable, API-accessible data so we can highlight it here.
 
-## Create a New (or Significantly Modify an Existing) Information System
+## 8) Create a New (or Significantly Modify an Existing) Information System
 
 New, or significantly modified, information systems need to support interoperability and information accessibility.
 
-### Minimum Required for Compliance
+### A) Minimum Required for Compliance
 
 * Ensure the system can export data in a machine-readable format.
 * Ensure data is separated from the application layer of the system to maximize future export and/or reuse of the data.
 * Store and export data using open data standards whenever possible, including the core metadata required by this Memorandum.
 * Document all data schemas and dictionaries used by the system.
 
-### Best Practices and Examples
+### B) Best Practices and Examples
 
 * Brainstorm both the known and potential future uses of the data when designing an information system.
 * The more open and flexible a system is now, the less likely it will need to be replaced or significantly modified in the future. Your agency should weigh upfront system design costs with the long-term potential cost savings and benefits.
 
-### Light Reading
+### C) Light Reading
 
 * [Common Approach to Federal Enterprise Architecture](http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/common_approach_to_federal_ea.pdf)
-
