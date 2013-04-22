@@ -14,23 +14,23 @@ The Open Data Policy requires Agencies to list and describe all agency data that
 Why this effort
 ---------------
 
-The data agencies collect and curate is a national treasure. Data from the national weather service and the global positioning system have each given rise to countless products and entire industries, yet much more government data exists, waiting to be tapped of its potential. 
+The data agencies collect and curate is a national treasure. Data from the National Weather Service and the Global Positioning System have each given rise to countless products and entire industries, yet much more government data exists, waiting to be tapped for its potential. 
 
 To this end, the digital strategy action item 2.2 [requires](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#existing-data) agencies to catalog and tag their data to make it more easily discoverable to private-sector developers and entrepreneurs.
 
-Through this effort, agencies will begin to tag their data, using common standards, in hopes of building a comprehensive [folksononmy](http://en.wikipedia.org/wiki/Folksonomy) to make government data more easily discoverable. 
+Through this effort, agencies will begin to tag their data, using common standards, and in the process, build a comprehensive [folksonomy](http://en.wikipedia.org/wiki/Folksonomy) to make government data more easily discoverable. 
 
-Each agency will describe their existing datasets as they see fit using the below described standard, and will make such metadata available at a consistent URL across agencies. Similar to existing practices already in use on the web, such as `sitemap.xml` or `robots.txt`, this will allow developers, both within the government and the public to programmatically discover government data in a machine-readable way.
+Each agency will describe their existing datasets as they see fit using the below described standard, and will make this metadata available at a consistent URL across agencies. Similar to existing practices already in use on the web, such as `sitemap.xml` or `robots.txt`, this will allow developers, both within the government and the public to programmatically discover government data in a machine-readable way.
 
 Machine-Readable Format
 -----------------------
 
-All information deemed 'machine-readable' required in this policy must be available in the following formats: JSON, RDFa-Lite and XML.  See this [specification](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) for the required schema.  Agencies must post their files at /data.json and as a /data.html or data.xml.  Additionally, the web page which reads and formats these files must be posted at /data/index.html (or data.html).  The files should be updated a minimum of monthly.  It is our intent that future publications of data.gov will simply crawl for agency.gov/data.json to populate data.gov.
+All information deemed 'machine-readable' required in this policy must be described in the JSON file format, with the option of RDFa-Lite and XML as well.  See [this specification](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) for the required schema.  Agencies must post their files at agency.gov/data.json (and optionally at /data.html or data.xml as well).  Additionally, the web page which reads and formats these files must be posted at /data/index.html (or data.html).  The files should be updated a minimum of monthly.  It is our intent that future publications of Data.gov will simply crawl for all agency.gov/data.json to populate Data.gov.
 
 Implementing
 ------------
 
-To fulfill the requirements of this memorandum, agencies should begin to describe datasets using the vocabulary of the [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
+To fulfill the requirements of this memorandum, agencies should begin to describe datasets as a catalog using the vocabulary of the [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
 
 ### JSON
 
@@ -46,7 +46,7 @@ The JSON representation of the catalog should track directly to the RDFa version
 Generating Machine-Readable Reporting Files
 -------------------------------------------
 
-Agencies must follow the provided [specification](http://gsa-ocsit.github.com/project-open-data.github.com/schema/).  We have built a [catalog generator](https://github.com/project-open-data/catalog-generator) to assist you in building your catalog and generating .xml, .json, or RDFa Lite files.  
+Agencies must follow the provided [specification](http://gsa-ocsit.github.com/project-open-data.github.com/schema/).  We have built a [catalog generator](https://github.com/project-open-data/catalog-generator) to assist you in building your catalog and generating .json, .xml, or RDFa Lite files.  
 
 Presentation
 ------------
@@ -62,4 +62,4 @@ The page must be populated from the machine readable catalog file (e.g. data.xml
 Supplemental Information
 ------------------------
 
-Agencies are encouraged to supplement this requirement  with other information, outreach and tools (e.g. blog posts, github tools, customer engagement tools etc).  Components, bureaus and programs are als encouraged to highlight their work implementing the Policy through their own channels.
+Agencies are encouraged to supplement these requirements with other information, outreach and tools (e.g. blog posts, GitHub tools, customer engagement tools etc).  Components, bureaus and programs are also encouraged to highlight their work implementing the Policy through their own channels.
