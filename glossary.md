@@ -3,15 +3,16 @@ layout: default
 title: Glossary
 permalink: /glossary/
 filename: glossary.md
+published: false
 ---
 
-#### API 
+### API 
 
 An application programming interface, which is a set of definitions of the ways one piece of computer software communicates with another. It is a method of achieving abstraction, usually (but not necessarily) between higher-level and lower-level software.
 
 [source](http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/DRM_2_0_Final.pdf)
 
-#### API Analytics
+### API Analytics
 
 Rate limiting will be part of any API platform, without some sort of usage log and analytics showing developers where they stand, the rate limits will cause nothing but frustration.  Clearly show developers where they are at with daily, weekly or monthly API usage and provide proper relief valves allowing them to scale their usage properly. 
 
