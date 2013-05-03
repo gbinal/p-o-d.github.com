@@ -9,14 +9,14 @@ published: false
 /Data Requirements
 ------------------
 
-The Open Data Policy requires Agencies to list and describe all agency data that *can* be made publicly available (i.e. there are no valid restrictions to release) in a publicly available open data catalog with common core metadata.  It further requires the catalog to be human-readable and machine-readable.  This guidance describes to agencies steps for implementing this portion of the policy. 
+The Open Data Policy requires agencies to list and describe all agency data that *can* be made publicly available (i.e. there are no valid restrictions to release) in a publicly available open data catalog with common core metadata.  It further requires the catalog to be human-readable and machine-readable.  This guidance describes to agencies steps for implementing this portion of the policy. 
 
 Why this effort
 ---------------
 
 The data agencies collect and curate is a national treasure. Data from the National Weather Service and the Global Positioning System have each given rise to countless products and entire industries, yet much more government data exists, waiting to be tapped for its potential. 
 
-To this end, the digital strategy action item 2.2 [requires](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#existing-data) agencies to catalog and tag their data to make it more easily discoverable to private-sector developers and entrepreneurs.
+To this end, the Digital Strategy action item 2.2 [requires](http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#existing-data) agencies to catalog and tag their data to make it more easily discoverable to private-sector developers and entrepreneurs.
 
 Through this effort, agencies will begin to tag their data, using common standards, and in the process, build a comprehensive [folksonomy](http://en.wikipedia.org/wiki/Folksonomy) to make government data more easily discoverable. 
 
