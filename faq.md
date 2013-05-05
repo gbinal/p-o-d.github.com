@@ -134,7 +134,7 @@ In the near term, Data.gov will continue its current dataset publishing process.
 
 ### Are redirects allowed for /data pages?
 
-No, the files should be located at agency.gov/data web space.  Each agency should populate files named agency.gov/data.json, agency.gov/data.html and agency.gov/data.xml .
+Yes, redirect from agency.gov/data.json, agency.gov/data.xml and agency.gov/data.html locations is allowed using HTTP status codes 301 or 302. 
  
 ### What options exist for hosting the /data.json file specifically at agency.gov/data.json?  
 
