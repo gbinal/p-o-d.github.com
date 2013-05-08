@@ -16,7 +16,7 @@ Help the United States Government make its Open Data policy better by collaborat
 
 This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing.
 
-For information on how to contribute, please see the [how to contribute](contributing.md)
+For information on how to contribute, please see the [how to contribute](CONTRIBUTING.md)
 
 ## License
 
