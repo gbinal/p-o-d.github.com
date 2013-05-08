@@ -36,6 +36,18 @@ This project constitutes a collaborative work ("open source"). Federal employees
 
 *Note: All contributors retain the original copyright to their contribution, but by contributing to this project, you grant a world-wide, royalty-free, perpetual, irrevocable, non-exclusive, transferable license to all users under the terms of the license(s) under which this project is distributed.*
 
+#### Running Locally
+
+Project Open Data runs on GitHub pages and automatically regenerates as a static site after every change. To duplicate this process and preview changes locally:
+
+1. `git clone https://github.com/project-open-data/project-open-data.github.com.git && cd project-open-data.github`
+2. `script/bootstrap`
+3. (Make your changes)
+4. `script/server`
+5. Open [localhost:4000](http://localhost:4000) in your favorite web browser
+
+*Note:* You'll need [Ruby](http://www.ruby-lang.org/) and the [Bundler package manager](http://gembundler.com/).
+
 ## License
 
 The project [as originally published](#) constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. Subsequent contributions by members of the public, however, retain their original copyright.
