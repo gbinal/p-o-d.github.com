@@ -11,6 +11,5 @@ org_name: gsa-ocsit
 prose_url: http://project-open-data.github.com/contribute/
 
 # default build settings for running locally, no need to edit
-markdown: redcarpet
 pymgemnts: true
 exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md"]
