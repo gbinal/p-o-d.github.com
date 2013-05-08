@@ -6,19 +6,6 @@ filename: metadata-resources.md
 published: false
 ---
 
-<table width="60%">
-<b><tr><td><ul>
-<li><a href="#template_data_files">Template Data Files</a></li>
-<li><a href="#sample_data_files">Sample Data Files</a></li>
-<li><a href="#metadata_field_guidance">Schema Guidance</a></li>
-</ul></td>
-<td><ul>
-<li><a href="#schema_maps">Schema Maps</a></li>
-<li><a href="#use_cases">Use Cases</a></li>
-
-</ul></td></tr></b>
-</table>
--------------------
 
 ### Template Data Files
 
@@ -53,89 +40,6 @@ published: false
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.csv">CSV (Extended)</a></li>
 </ul></td></tr></b>
 </table>
-
-### Schema Maps
-
-A breakdown of the data.json schema as [mapped to its pre-existing Data.gov equivalent](data-dot-gov-map).
-
-### Further Metadata Field Guidance
-
-**Title** - Cardinality: (1,1)  
-Note: Acronyms should be avoided.  
-
-**Description** - Cardinality: (1,1)  
-
-**Documentation URL** - Cardinality: (1,1)  
-
-**Download URL** - Cardinality: (1,n)  
-
-**Format** - Cardinality: (1,n)  
-Note: Express this field using file extensions (e.g., CSV, XLS, XLSX, TSV, JSON, XML).  Separate multiple entries with commas or by using the Distribution field (see below).  
-
-**Tags** - Cardinality: (1,n)  
-Note: Should be separated by commas.  
-
-**Last Update** - Cardinality: (1,1)  
-Note: Dates should be formatted as MM/DD/YYYY.  
-
-**Publisher** - Cardinality: (1,1)  
-Note: Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.  
-
-**Contact Name** - Cardinality: (1,1)  
-Note: Name should be formatted as Last, First. 
-
-**Contact Email** - Cardinality: (1,1)  
-
-**Unique Identifier** - Cardinality: (1,1)  
-Note: This field allows third parties to maintain a consistent record for datasets even if title or urls are updated.  Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field, however the fundamental requirement be that each identifier be unique across the agency's data catalog and remain fixed to the dataset.  Characters should be alphanumeric.  
-
-**Public** - Cardinality: (1,1)  
-
-**Endpoint** - Cardinality: (0,1)  
-Note: This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.  It must be included for each public API offered by the agency.  
-
-**License** - Cardinality: (0,1)  
-
-**Spatial** - Cardinality: (0,1)  
-Note: This field should contain one of the following types of content: (1) a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude; (2) a latitude / longitude pair (in decimal degrees) representing a point where the dataset is relevant; (3) a geographic feature expressed in [Geography Markup Language using the Simple Features Profile](http://www.ogcnetwork.net/gml-sf); or (4) a geographic feature from the [GeoNames database](www.geonames.org).
-
-**Temporal** - Cardinality: (0,1)  
-Note: This field should contain an interval of time defined by start and end dates.  Dates should be formatted as pairs of {start date, end date} in the format YYYY-MM-DD hh:mm:ss using 24 hour clock time notation (e.g., 2011-02-14 12:00:00,  2013-02-14 12:00:00). 
-
-**Release Date** - Cardinality: (0,1)  
-Note: Dates should be formatted as MM/DD/YYYY.  
-
-**Frequency** - Cardinality: (0,1)  
-Note: Frequency should be one of the following: hourly, daily, weekly, yearly, other. 
-
-**Language** - Cardinality: (0,n)  
-
-**Granularity** - Cardinality: (0,1)  
-
-**Data Quality** - Cardinality: (0,1)  
-
-**Category** - Cardinality: (0,n)  
-Note: Could include [ISO Topic Categories](http://gcmd.nasa.gov/User/difguide/iso_topics.html).  
-
-**Related Documents** - Cardinality: (0,n)  
-Note: Multiple URLs should be separated by commas.  
-
-**Distribution** - Cardinality: (0,n)  
-
-Distribution is a concatenation, as appropriate, of the following elements: download url, format, endpoint, language, size.  An example of this this model is:  
-  
-    "distribution": [{"accessURL": "http://data.mcc.gov/example_resource/data.json", "format":"JSON", "size":"22mb"},{"accessURL":"http://data.mcc.gov/example_/data.xml", "format":"XML", "size":"24mb"}]  
-  
-**Size** - Cardinality: (0,n)  
-Note: Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb.  
-
-**Homepage URL** - Cardinality: (0,1)  
-Note: This field is not intended for an agency's homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset.  This allows agencies to better specify what a visitor receives after selecting one of the agency's datasets on Data.gov or in third-party mashups.  
-
-**RSS Feed** - Cardinality: (0,n)  
-
-
-
 
 
 ### Use Cases  
