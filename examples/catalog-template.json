@@ -1,27 +1,78 @@
-[{
-    "title": null,
-    "description": null,
-    "dataDictionary": null,
-    "download": null,
-    "format": null,
-    "keywords": null,
-    "modified": null,
-    "organization": null,
-    "person": null,
-    "mbox": null,
-    "identifier": null,
-    "public": null
-}, {
-    "title": null,
-    "description": null,
-    "dataDictionary": null,
-    "download": null,
-    "format": null,
-    "keywords": null,
-    "modified": null,
-    "organization": null,
-    "person": null,
-    "mbox": null,
-    "identifier": null,
-    "public": null
-}]
+[
+    {
+        "title": "",
+        "description": "", 
+        "keyword": "", 
+        "modified": "YYYY-MM-DD HH:MM:SS",
+        "publisher": "",
+        "person": "FirstName LastName",
+        "mbox": "firstname.lastname@agency.gov",
+        "identifier": "",
+        "accessLevel": "",
+        "dataDictionary": "",
+        "distribution": [
+            {
+                "accessURL": "", 
+                "format": "",
+                "size": ""
+            }
+        ],
+        "webService": "", 
+        "license": "", 
+        "spatial": "", 
+        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS", 
+        "issued": "",
+        "frequency": "",
+        "language": "", 
+        "granularity": "",
+        "dataQuality": "",
+        "theme": "", 
+        "references": "", 
+        "landingPage": "",
+        "feed": "",
+        "systemOfRecords": ""     
+    },
+    {
+        "title": "",
+        "description": "", 
+        "keyword": "", 
+        "modified": "YYYY-MM-DD HH:MM:SS",
+        "publisher": "",
+        "person": "FirstName LastName",
+        "mbox": "firstname.lastname@agency.gov",
+        "identifier": "",
+        "accessLevel": "",
+        "dataDictionary": "",
+        "distribution": [
+            {
+                "accessURL": "", 
+                "format": "",
+                "size": ""
+            },
+            {
+                "accessURL": "", 
+                "format": "",
+                "size": ""
+            },
+            {
+                "accessURL": "", 
+                "format": "",
+                "size": ""
+            }
+        ],
+        "webService": "", 
+        "license": "", 
+        "spatial": "", 
+        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS", 
+        "issued": "",
+        "frequency": "",
+        "language": "", 
+        "granularity": "",
+        "dataQuality": "",
+        "theme": "", 
+        "references": "", 
+        "landingPage": "",
+        "feed": "",
+        "systemOfRecords": ""     
+    }
+]
