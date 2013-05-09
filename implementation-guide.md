@@ -30,13 +30,15 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 ## 2) Create and maintain a public data inventory
 *[Due by 11/9/13]*
 
-Maintain a publicly accessible listing of all datasets maintained by your agency, sans any non-public datasets, for harvesting by a central Data.gov search engine and the public at large.
+Maintain a publicly accessible listing of all datasets maintained by your agency for harvesting by a central Data.gov search engine and the public at large.
+
+While agencies are only required to list datasets with an "Access Level" value of "public," agencies are free to include metadata for other datasets at their discretion. (For example, if the agency intends to also use the catalog as an internal search tool.)
 
 ### A) Minimum Required for Compliance
 
 Document any datasets or metadata in your enterprise data inventory that your agency does not believe can be made publicly available, in consultation with your Office of General Counsel or its equivalent.
 
-Publish your agency’s enterprise data inventory, with the aforementioned datasets removed, to a file located at [agency].gov/data.json and described using (at minimum) the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). While you could manually create this file in a text editor, it is recommended that you use one of the tools provided to generate this file automatically from your existing DMS or enterprise inventory file.
+Publish your agency’s enterprise data inventory, with the aforementioned information removed, to a file located at [agency].gov/data.json and described using (at minimum) the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). While you could manually create this file in a text editor, it is recommended that you use one of the tools provided to generate this file automatically from your existing DMS or enterprise inventory file.
 
 ### B) Tools
 
