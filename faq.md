@@ -71,7 +71,7 @@ Yes! Simply follow the "advanced" instructions above to submit a pull request.
 
 ### How long will I have to wait to get a response to my suggested change (i.e., pull request)?
 
-Release cycles vary from repo to repo. Check out the readme file of the repo where you submitted a pull request to see how often code pushes and updates are done. 
+Release cycles vary from repo to repo. See the README file within the repo where you submitted a pull request to see how often code pushes and updates are done.
  
 ## IRM Strategic Plans
  
