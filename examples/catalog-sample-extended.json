@@ -13,7 +13,8 @@
         "distribution": [
             {
                 "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.csv?accessType=DOWNLOAD", 
-                "format": "csv"
+                "format": "csv",
+                "size": "200mb"
             }, 
             {
                 "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.json?accessType=DOWNLOAD", 
