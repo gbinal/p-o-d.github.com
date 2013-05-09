@@ -6,8 +6,7 @@ filename: labor-case-study.md
 ---
 
 *September 28, 2012  
-U.S. Department of Labor  
-Mike Pulsifer (pulsifer.michael@dol.gov)*  
+Mike Pulsifer, U.S. Department of Labor*  
 
 ## Executive Summary
 
