@@ -155,7 +155,7 @@ An XML schema defines the structure of an XML document. An XML schema defines th
 
 Software Development Kits (SDK) are the next step in providing code for developers, after basic code samples. SDKs are more complete code libraries that usually include authentication and production ready objects, that developers can use after they are more familiar with an API and are ready for integration.
 
-Just like with code samples, SDKs should be provided in as many common programming languages as possible. Code samples will help developers understand an API, while SDKs will actually facilitate their integration of an API into their application. When providing SDKs make sure and consider a software licensing that gives your developers as much flexibility as possible in their commercial products. —*[source](http://apievangelist.com/buildingblocks/software_development_kits.php)*
+Just like with code samples, SDKs should be provided in as many common programming languages as possible. Code samples will help developers understand an API, while SDKs will actually facilitate their integration of an API into their application. When providing SDKs, consider a software licensing that gives your developers as much flexibility as possible in their commercial products. —*[source](http://apievangelist.com/buildingblocks/software_development_kits.php)*
 
 ### Service-Oriented-Architecture 
 
