@@ -26,7 +26,7 @@ Each agency will describe their existing datasets as they see fit using the belo
 Machine-Readable Format
 -----------------------
 
-All information deemed 'machine-readable' required in this policy must be described in the JSON file format, with the option of RDFa-Lite and XML as well.  See [this specification](schema/) for the required schema.  Agencies must post their files at agency.gov/data.json (and optionally at /data.html or data.xml as well).  Additionally, the web page which reads and formats these files must be posted at /data/index.html (or data.html).  The files should be updated a minimum of monthly.  It is our intent that future publications of Data.gov will simply crawl for all agency.gov/data.json to populate Data.gov.
+All information deemed "machine-readable" required in this policy must be described in the JSON file format, with the option of RDFa-Lite and XML as well.  See [this specification](schema/) for the required schema.  Agencies must post their files at agency.gov/data.json (and optionally at /data.html or data.xml as well).  Additionally, the web page which reads and formats these files must be posted at /data/index.html (or data.html).  The files should be updated a minimum of monthly.  It is our intent that future publications of Data.gov will simply crawl for all agency.gov/data.json to populate Data.gov.
 
 Implementing
 ------------
