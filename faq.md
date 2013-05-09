@@ -116,7 +116,7 @@ Yes, if your data management process includes rich metadata specific to the miss
 
 ### Who is responsible for ensuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agency's requirements for security and privacy and quality?
 
-Each agency is responsible for ALL data made public.
+Each agency is responsible for *all* data made public.
  
 ### How can I contact the Data.gov staff for assistance in conducting mosaic effect reviews?
 
