@@ -125,7 +125,7 @@ An open standard for authorization. It allows users to share their private resou
 
 Computer software that is available in source code form: the source code and certain other rights normally reserved for copyright holders are provided under an open-source license that permits users to study, change, improve and at times also to distribute the software.
 
-Open source software is very often developed in a public, collaborative manner. Open-source software is the most prominent example of open-source development and often compared to (technically defined) user-generated content or (legally defined) open content movements. —*[source](http://en.wikipedia.org/wiki/Open-source_software)*
+Open source software is very often developed in a public, collaborative manner. Open source software is the most prominent example of open source development and often compared to (technically defined) user-generated content or (legally defined) open content movements. —*[source](http://en.wikipedia.org/wiki/Open-source_software)*
 
 ### Open Standard 
 
