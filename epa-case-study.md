@@ -5,8 +5,8 @@ permalink: /epa-case-study/
 filename: epa-case-study.md
 ---
 
-*Central Data Exchange - Building an Open and Interoperable Platform for Environmental Data Sharing  
-November 2, 2012  
+*November 2, 2012  
+Central Data Exchange - Building an Open and Interoperable Platform for Environmental Data Sharing  
 U.S. Environmental Protection Agency, Office of Environmental Information, Office of Information Collection  *
 
 ### Executive Summary
