@@ -33,7 +33,7 @@ Basic Auth is easily integrated, however if SSL is not used, the username and pa
 
 A catalog is a collection of datasets or web services.  -*[source](http://www.data.gov/glossary)*
 
-#### Code Library 
+### Code Library 
 
 Working code samples in all the top programming languages are common place in the most successful APIs. Documentation will describe in a general way, how to use an API, but code samples will speak in the specific language of developers.  -*[source](http://apievangelist.com/buildingblocks/code_libraries.php)*
 
