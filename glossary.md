@@ -77,7 +77,7 @@ Errors are an inevitable part of API integration, and providing not only a robus
 
 API errors are directly related to frustration during developer integration, the more friendlier and meaningful they are, the greater the chance a developer will move forward after encountering an error. Put a lot of consideration into your error responses and the documentation that educates developers.  —*[source](http://apievangelist.com/buildingblocks/error_response_codes.php)*
 
-### Github 
+### GitHub 
 
 GitHub is a social coding platform allowing developers to publicly or privately build code repositories and interact with other developers around these repositories--providing the ability to download or fork a repository, as well as contribute back, resulting in a collaborative environment for software development.  —*[source](http://apievangelist.com/buildingblocks/github.php)*
 
