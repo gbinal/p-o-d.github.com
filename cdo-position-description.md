@@ -17,7 +17,7 @@ The Chief Data Officer role shall seek to:
 *	Manage open government data effort including coordinating how we offer APIs and create public data products
 *	Decrease the cost of managing data and increasing the value of the data we have
 *	Improve how the agency collects, uses, manages, and publishes data. 
-*	Lead the agency efforts to track data collections, data purchases, databases, physical data models, and linkages between data sets.
+*	Lead the agency efforts to track data collections, data purchases, databases, physical data models, and linkages between datasets.
 *	Improve data quality and how we measure data quality
 *	Ensure data is available, reliable, consistent, accessible, secure, and timely to support the mission and activities of the agency.
 *	Align and standardizing data models
@@ -38,7 +38,7 @@ The Chief Data Officer role shall seek to:
 *	Manage open government data effort including coordinating how we offer APIs and create public data products
 *	Decrease the cost of managing data and increasing the value of the data we have
 *	Improve how the agency collects, uses, manages, and publishes data. 
-*	Lead the agency efforts to track data collections, data purchases, databases, physical data models, and linkages between data sets.
+*	Lead the agency efforts to track data collections, data purchases, databases, physical data models, and linkages between datasets.
 *	Improve data quality and how we measure data quality
 *	Ensure data is available, reliable, consistent, accessible, secure, and timely to support the mission and activities of the agency.
 *	Align and standardizing data models
@@ -54,7 +54,7 @@ The role of the CDO can be largely be inferred from these recommendations:
 
 1.	Appoint an agency Chief Data Officer and Data Officers or points of contacts in each Division, Bureau, and Office
 2.	Have CDO conduct Zero-based reviews of all data collections
-3.	Maintain a central inventory of the Agency’s data collections and data sets 
+3.	Maintain a central inventory of the Agency’s data collections and datasets 
 4.	Standardize and automate all future data collections 
 5.	Ensure all potentially public information is accessible via the Agency public website
 
@@ -64,7 +64,7 @@ The Agency’s CDO role is to be the agency’s executive business lead, ensurin
 *	Expose data as service to enterprise and public
 *	Add Semantic Layers to power machine learning
 *	Mine the data for new features
-*	Enable identity and geography by data set as a service
+*	Enable identity and geography by dataset as a service
 
 
 The CDO works closely with the CIO, CISO, GIO, and agency leadership to ensure data is being developed as a viable resource for current and future needs both inside and outside of specific IT systems. As the principle Data Steward Data Scientist for the agency, the CDO:
