@@ -3,10 +3,10 @@
         "title": "",
         "description": "", 
         "keyword": "", 
-        "modified": "YYYY-MM-DD HH:MM:SS",
+        "modified": "",
         "publisher": "",
-        "person": "FirstName LastName",
-        "mbox": "firstname.lastname@agency.gov",
+        "person": "",
+        "mbox": "",
         "identifier": "",
         "accessLevel": "",
         "dataDictionary": "",
@@ -20,16 +20,16 @@
         "webService": "", 
         "license": "", 
         "spatial": "", 
-        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS"   
+        "temporal": ""   
     },
     {
         "title": "",
         "description": "", 
         "keyword": "", 
-        "modified": "YYYY-MM-DD HH:MM:SS",
+        "modified": "",
         "publisher": "",
-        "person": "FirstName LastName",
-        "mbox": "firstname.lastname@agency.gov",
+        "person": "",
+        "mbox": "",
         "identifier": "",
         "accessLevel": "",
         "dataDictionary": "",
@@ -53,6 +53,6 @@
         "webService": "", 
         "license": "", 
         "spatial": "", 
-        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS"    
+        "temporal": ""    
     }
 ]
