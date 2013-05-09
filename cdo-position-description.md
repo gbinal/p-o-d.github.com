@@ -85,7 +85,7 @@ As an evangelist, the CDO:
 
 *	Reaches out to industry, academics, other branches of government, and the public to promote and Agency data and data services; travels to events to promote Agency data
 *	Develops collaborations that further development of data products and services that speed communication products and innovations to market 
-*	Participates in inter-agency activities such as the CIO Council and federal legal entity identification standardization/interchange efforts. 
+*	Participates in inter-agency activities such as the CIO Council and Federal legal entity identification standardization/interchange efforts. 
 *	Manages  Open Government Data activities
 
 The CDO is responsible for data reform and modernization--how the agency collects, uses, manages, and shares data--toward the Chairman’s stated goal of “fact-based, data-driven decision-making.” This role includes:
