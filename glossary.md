@@ -175,7 +175,7 @@ Terms of Service provide a legal framework for developers to operate within. The
 
 ### TSV 
 
-A simple text format for a database table. Each record in the table is one line of the text file. Each field value of a record is separated from the next by a tab stop character – it is a form of the more general delimiter-separated values format. —*[source](http://en.wikipedia.org/wiki/Tab-separated_values)*
+A simple text format for a database table. Each record in the table is one line of the text file. Each field value of a record is separated from the next by a tab stop character. It is a form of the more general delimiter-separated values format. —*[source](http://en.wikipedia.org/wiki/Tab-separated_values)*
 
 ### Unstructured Data 
 
