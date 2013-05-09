@@ -68,7 +68,7 @@ Developers can then take this data and use in web and mobile applications.  Howe
 
 REST with JSON has become the favorite of developers and API owners, because it is easier to both deploy and consume than other implementations. Even though REST + JSON is not a standard, it is seeing wide acceptance across the industry.
 
-### When Things Go Wrong - Error Handling
+### When Things Go Wrong — Error Handling
 
 One of the most important issues to remember in API strategy is, developers need to handle what happens when an error occurs; otherwise, access to data fails and subsequently so does the application.  For the purposes of the service framework, an error is defined as an unexpected behavior that occurred during the process of a request. It's important to note that what might be considered an "error" can often be an expected behavior. 
 For instance, a search operation returning no results (a blank object) and an HTTP status 200 OK code might be construed as an error, but in reality this is not outside the realm of expected normal operation.
