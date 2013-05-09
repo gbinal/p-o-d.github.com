@@ -98,7 +98,7 @@ Agencies must use machine-readable and open formats for information as it is col
 
 ##### b. Use data standards
 
-Consistent with existing policies relating to Federal agencies? use of standards[^20] for information as it is collected or created, agencies must use standards in order to promote data interoperability and openness. 
+Consistent with existing policies relating to Federal agencies' use of standards[^20] for information as it is collected or created, agencies must use standards in order to promote data interoperability and openness. 
 
 ##### c. Ensure information stewardship through the use of open licenses
 
