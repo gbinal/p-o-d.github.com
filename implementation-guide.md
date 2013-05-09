@@ -145,10 +145,10 @@ Collect or create information (data) in a way that supports downstream informati
 * It is much easier to collect data in the way you will eventually distribute and publish it, rather than having to manipulate the data midway through to comply with later requirements.
 
 ### D) Light Reading
-* [Open Government Directive]()
-* [NIST FIPS Publication 199]()
-* [Controlled Unclassified Information requirements]()
-* [Mosaic Effect Wikipedia article]()
+* [Open Government Directive](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf)
+* [NIST FIPS Publication 199](http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf)
+* [Controlled Unclassified Information requirements](http://www.archives.gov/cui/)
+* [Mosaic Effect](http://www.computerworld.com/s/article/91109/Sidebar_The_Mosaic_Effect)
 
   
 ## 7) Release an Existing Data Collection as Open Data
