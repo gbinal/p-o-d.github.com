@@ -41,7 +41,7 @@ At the onset, the General Services Administration is here to provide daily overs
 
 **Can I use the project's content or source code elsewhere?**  
 The project [as originally published](https://github.com/GSA-OCSIT/project-open-data.github.com/blob/master/faq.md) constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. Subsequent contributions by members of the public, however, retain their original copyright.
-In order to better facilitate collaboration, the content of this project is licensed under the [creative commons 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+In order to better facilitate collaboration, the content of this project is licensed under the [Creative Commons 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
 **How can I contribute?**  
 This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing. This can be done by contributing to ongoing discussions or by simply clicking the “improve this content” button at the top of each page and submitting a proposed improvement.
