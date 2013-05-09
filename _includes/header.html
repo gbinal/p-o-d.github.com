@@ -17,7 +17,7 @@
         <script src="{{ site.root_url }}/assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
 {% capture edit_url %}{{ site.prose_url }}#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.filename }}{% endcapture %}
     </head>
-    <body>
+    <body class="{{ page.id }}">
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
         <![endif]-->

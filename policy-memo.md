@@ -1,14 +1,13 @@
 ---
 layout: default
-title: M-13-13 
+title: M-13-13 — Memorandum for the Heads of Executive Departments and Agencies
 permalink: /policy-memo/
 filename: policy-memo.md
 published: true
+id: policy-memo
 ---
 
 # &nbsp; {.hide}
-
-## Memorandum for the Heads of Executive Departments and Agencies
 
 **From:**
 
@@ -16,6 +15,7 @@ published: true
 * **Steven VanRoekel**<br />Federal Chief Information Officer
 * **Todd Park**<br />U.S. Chief Technology Officer
 * **Dominic J. Mancini**<br />Deputy Administrator, Office of Information and Regulatory Affairs
+{#from}
 
 **Subject:** Open Data Policy&#8212;Managing Information as an Asset
 
