@@ -44,7 +44,7 @@ body {
 }
 
 @media (min-width: 768px) {
-  body {background: url(../img/seal.png) 80% 90% no-repeat fixed;}
+  body {background: url(../img/seal.jpg) 80% 90% no-repeat fixed;}
   .navbar-inverse .brand {margin: .25em .5em .25em 0; }
 }
 
@@ -98,6 +98,3 @@ p, ul, ol, dl, {padding-bottom: 2em;}
 .footnotes a[rev=footnote] { float: right; margin-top: -40px; }
 .footnotes { font-size: 0.8em;}
 .footnotes ol li p { margin-bottom: 10px;}
-
-/* schema */
-.schema .table tbody tr td:nth-child(1) { width: 25%;}
