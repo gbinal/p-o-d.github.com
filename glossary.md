@@ -145,7 +145,7 @@ A style of software architecture for distributed systems such as the World Wide 
 
 ### RSS 
 
-A family of web feed formats (often dubbed Really Simple Syndication) used to publish frequently updated works — such as blog entries, news headlines, audio, and video — in a standardized format. An RSS document (which is called a "feed", "web feed", or "channel") includes full or summarized text, plus metadata such as publishing dates and authorship. —*[source](http://en.wikipedia.org/wiki/RSS)*
+A family of web feed formats (often dubbed Really Simple Syndication) used to publish frequently updated works — such as blog entries, news headlines, audio, and video — in a standardized format. An RSS document (which is called a "feed," "web feed," or "channel") includes full or summarized text, plus metadata such as publishing dates and authorship. —*[source](http://en.wikipedia.org/wiki/RSS)*
 
 ### Schema 
 
