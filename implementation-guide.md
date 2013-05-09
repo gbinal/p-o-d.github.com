@@ -19,7 +19,7 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 
 ### B) Best Practices and Examples
 
-* Conduct a Zero Base Review effort of all existing data. Give this effort a very short timeframe and the very specific goal of producing a simple list of all data assets within the agency. Stop at the due date rather than stopping at the 100 percent marker, which is very difficult to reach in a single pass. Repeat at regular intervals.
+* Conduct a zero-based review effort of all existing data. Give this effort a very short timeframe and the very specific goal of producing a simple list of all data assets within the agency. Stop at the due date rather than stopping at the 100 percent marker, which is very difficult to reach in a single pass. Repeat at regular intervals.
 * Develop and communicate a clear path for listing newly created or acquired datasets into the enterprise data inventory.
 * The more employees who can contribute to the enterprise data inventory, whether by submitting feedback or by actually being able to log in and update listings in the agency DMS, the more accurate and complete your metadata will be.
 * While it may initially seem that maintaining your agency data inventory in a single spreadsheet is the simplest solution, this is often not the case. A central spreadsheet is difficult for more than one person to maintain, easily leading to errors and omissions.
