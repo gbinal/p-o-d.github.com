@@ -51,7 +51,7 @@ A value or set of values representing a specific concept or concepts. Data becom
 
 ### /Data page
 
-A hub for data discovery which provides a common location that lists and links to an organization’s datasets.  Such a hub is often located at www.example.com/data.  [[source]()]
+A hub for data discovery which provides a common location that lists and links to an organization’s datasets.  Such a hub is often located at www.example.com/data.  [[source](http://project-open-data-staging.herokuapp.com/policy-memo/)]
 
 ### Dataset
 
