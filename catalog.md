@@ -58,7 +58,7 @@ Agencies must have present a table/list of each dataset in the /data page.  The 
 * Dataset description
 * URL to the dataset (endpoint)
 
-The page must be populated from the machine-readable catalog file (e.g. data.xml or data.json) following the [specification](schema/) described above.  Agencies are encouraged to add functionality to assist end user discoverability.  Additional functions might be sorting, filtering or paging to help make a more digestible list.  Agencies are also encouraged to add more to the standard schema which might further assist end user discoverability and usability (e.g. thumbnails).
+The page must be populated from the machine-readable catalog file (e.g. data.xml or data.json) following the [specification](schema/) described above.  Agencies are encouraged to add functionality to assist end-user discoverability.  Additional functions might be sorting, filtering or paging to help make a more digestible list.  Agencies are also encouraged to add more to the standard schema which might further assist end-user discoverability and usability (e.g. thumbnails).
 
 Supplemental Information
 ------------------------
