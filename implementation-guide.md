@@ -158,7 +158,7 @@ Collect or create information (data) in a way that supports downstream informati
 ### A) Minimum Required for Compliance
 
 * Review information for privacy, confidentiality pledge, security, and other restrictions to release.
-* Make the data available in a machine-readable format. See LINK for a list of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
+* Make the data available in a machine-readable format. See [this list](faq.md) of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
 * Post the data files in an Internet-accessible location, listing this location the dataset’s entry in your agency inventory listing.
 
 ### B) Tools
