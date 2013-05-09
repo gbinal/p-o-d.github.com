@@ -1,52 +1,31 @@
-[{
-    "title": "Office Locations",
-    "description": "A list of the agency's office locations and contact information.",
-    "dataDictionary": "http://www.agency.gov/data/information/locations",
-    "download": "http://www.agency.gov/data/raw/locations.zip",
-    "format": "csv",
-    "keywords": "keyword1",
-    "modified": "1/1/2013",
-    "organization": "Agency",
-    "person": "John, Smith",
-    "mbox": "john.smith@agency.gov",
-    "identifier": "1",
-    "public": true,
-    "webService": "http://www.agency.gov/data/raw/locations.json",
-    "license": "public domain",
-    "spatial": "United States",
-    "temporal": "today"
-}, {
-    "title": "Database Export",
-    "description": "A full export of the agency's database.",
-    "dataDictionary": "http://www.agency.gov/data/information/database",
-    "download": "http://www.agency.gov/data/raw/database.csv",
-    "format": "xml",
-    "keywords": "keyword2",
-    "modified": "2/1/2013",
-    "organization": "Agency",
-    "person": "Jane, Smith",
-    "mbox": "jane.smith@agency.gov",
-    "identifier": "2",
-    "public": true,
-    "webService": "",
-    "license": "public domain",
-    "spatial": "United States",
-    "temporal": "2001-current"
-}, {
-    "title": "System Data API",
-    "description": "A restful web service for a system's data set from 2012.",
-    "dataDictionary": "http://www.agency.gov/data/information/system_api",
-    "download": "http://www.agency.gov/data/raw/system_2012.csv",
-    "format": "csv, json",
-    "keywords": "keyword1, keyword2",
-    "modified": "12/15/2012",
-    "organization": "Agency",
-    "person": "Bill, Smith",
-    "mbox": "bill.smith@agency.gov",
-    "identifier": "3",
-    "public": true,
-    "webService": "http://www.agency.gov/data/raw/data_api.json",
-    "license": "creative commons Cco",
-    "spatial": "United States",
-    "temporal": "2012"
-}]
+[
+    {
+        "title": "Public Elementary/Secondary Listing",
+        "description": "The purpose of the CCD nonfiscal surveys is to provide a listing of all schools and agencies providing free public elementary and secondary education, along with basic descriptive statistical information on each school and agency listed. Penalties apply for misuse, seehttp://nces.ed.gov/ncesglobal/data_usage_agreement.aspfor more details.", 
+        "keyword": "education, schools", 
+        "modified": "2011-11-19 00:00:00",
+        "publisher": "US Department of Education",
+        "person": "Open Data Initiative",
+        "mbox": "opendata@ed.gov",
+        "identifier": "ykv5-fn9t",
+        "accessLevel": "public",
+        "dataDictionary": "http://nces.ed.gov/ccd/pdf/INsc09101a.pdf",
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ],
+        "webService": "http://explore.data.gov/api/views/ykv5-fn9t/rows.json", 
+        "license": "Public Domain", 
+        "spatial": "US", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00"    
+    }]
