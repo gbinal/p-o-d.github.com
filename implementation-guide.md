@@ -104,7 +104,9 @@ If your Senior Agency Official for Privacy is not positioned within the office o
 
 ### A) Minimum Required for Compliance
 
-Review and update your existing IRM Strategic Plan to describe how your agency has institutionalized and operationalized the requirements of this Memorandum, including:
+Review and update your existing IRM Strategic Plan to describe how your agency has institutionalized and operationalized the requirements of this Memorandum. In your IRM Strategic Plans under the *Managing Information as an Asset* section, you should describe your approach to managing information as an asset, including how your agency will promote interoperability and openness throughout the information life cycle and properly safeguard information that may require additional protection. Agencies should specifically address how information collection and creation efforts, information system design, and data management and release practices will support interoperability and openness. This may involve describing updates to policies and processes, and offering employee trainings. 
+
+Additionally, agencies should include information on:
 * Use of open licenses
 * Use of open standards
 * Collecting data in a machine-readable, standards-compliant way
@@ -115,6 +117,7 @@ Review and update your existing IRM Strategic Plan to describe how your agency h
 
 * [44 USC 3506 (b)(2)](http://www.gpo.gov/fdsys/granule/USCODE-2011-title44/USCODE-2011-title44-chap35-subchapI-sec3506/content-detail.html)
 * [OMB Circular A-11](http://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc)
+* [OMB FY 13 PortfolioStat Guidance] (http://www.whitehouse.gov/blog/2013/03/27/portfoliostat-20-driving-better-management-and-efficiency-federal-it)
 
 <center><h2><u>Ongoing</u></h2></center>  
 
