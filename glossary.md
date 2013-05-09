@@ -163,7 +163,7 @@ Expresses a software architectural concept that defines the use of services to s
 
 ### SOAP 
 
-SOAP (Simple Object Access Protocol) is a message-based protocol based on XML for accessing services on the Web. It employs XML syntax to send text commands across the Internet using HTTP. SOAP is similar in purpose to the DCOM and CORBA distributed object systems, but is lighter weight and less programming intensive. Because of its simple exchange mechanism, SOAP can also be used to implement a messaging system.  —*[source](http://www.epa.gov/waters/doc/glossary.html)*
+SOAP (Simple Object Access Protocol) is a message-based protocol based on XML for accessing services on the Web. It employs XML syntax to send text commands across the Internet using HTTP. SOAP is similar in purpose to the DCOM and CORBA distributed object systems, but is more lightweight and less programming-intensive. Because of its simple exchange mechanism, SOAP can also be used to implement a messaging system.  —*[source](http://www.epa.gov/waters/doc/glossary.html)*
 
 ### Swagger 
 
