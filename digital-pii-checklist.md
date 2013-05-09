@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital "Personalally Identifiable Information" Checklist
+title: Digital "Personally Identifiable Information" Checklist
 permalink: /digital-pii-checklist/
 filename: digital-pii-checklist.md
 ---
