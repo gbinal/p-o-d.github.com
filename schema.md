@@ -51,7 +51,7 @@ Contact Email        | Contact person's email address. 			           	          
 Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database.                                                 | identifier            
 Public Access Level | The degree to which this dataset **could** be made publicly-available, *regardless of whether it has been made available*. Choices: Public (is or *could be* made publicly available), Restricted (available under certain conditions), or Private (never able to be made publicly available)  | accessLevel          
 
-"Common Core" Required if Applicable Fields
+"Common Core" Required-if-Applicable Fields
 -------------------------------------------
 The following fields must be used to describe each dataset if they are applicable:
 
