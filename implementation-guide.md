@@ -28,7 +28,7 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 ## 2) Create and maintain a public data inventory
 *[Due by 10/9/13]*
 
-Maintain a publicly accessible listing of all datasets maintained by your agency, sans any non-public datasets, for harvesting by a central Data.gov search engine and the public at-large.
+Maintain a publicly accessible listing of all datasets maintained by your agency, sans any non-public datasets, for harvesting by a central Data.gov search engine and the public at large.
 
 ### A) Minimum Required for Compliance
 
