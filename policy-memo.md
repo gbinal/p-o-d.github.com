@@ -7,6 +7,7 @@ id: policy-memo
 ---
 
 # &nbsp; {.hide}
+## &nsp; {.hide}
 
 **From:**
 
@@ -37,7 +38,7 @@ This Memorandum is designed to be consistent with existing requirements in the P
 
 If agencies have any questions regarding this Memorandum, please direct them to OMB at [datause@omb.eop.gov](datause@omb.eop.gov).
 
-## Attachment
+---
 
 This attachment provides definitions and implementation guidance for M-13-13, *Open Data Policy&#8212;Managing Information as an Asset*.
 
