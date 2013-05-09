@@ -49,10 +49,10 @@ Publish your agency’s enterprise data inventory, with the aforementioned infor
 
 ### C) Best Practices and Examples
 
-* Using the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema) to describe your enterprise data inventory makes it very simple to turn this inventory into your public inventory.
-* A detailed and descriptive title, description, and set of keywords for each dataset is the difference between customers finding your data, and no one finding your data. Since agency data catalogs are harvested and searchable on Data.gov, accurate and thorough metadata is the best way to connect customers with your data.
-* Include restricted and non-public datasets in your public data inventory listing. Remember that this file contains metadata about the data and not the data itself.
-* When you include restricted datasets in your public data inventory, include specific information on how customers can request and qualify for access to that dataset.
+* Using the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema) to describe your enterprise data inventory makes it very simple to use that inventory for your public inventory.
+* A detailed and descriptive title, description, and set of keywords for each dataset is the difference between customers finding your data and no one finding your data. Since agency data catalogs are harvested and searchable on Data.gov, accurate and thorough metadata is the best way to connect customers with your data.
+* Consider including restricted and non-public datasets in your public data inventory listing. Remember that this file contains metadata about the data and not the data themselves.
+* When you include restricted datasets in your public data inventory, include specific information on how customers can request and qualify for access to those data.
 * Integrate your public data inventory with a tool for soliciting feedback from customers to avoid duplicative effort. For example, the [Kickstart WordPress plugin](https://github.com/project-open-data/kickstart) can automatically generate a voting and commenting mechanism from your data.json file.
 
 ### D) Resources
