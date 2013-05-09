@@ -155,6 +155,12 @@ Data.gov will (when possible) help agencies get started by creating a /data file
 ### How should I manage this /data file?
 
 A wide variety of tools are available to manage a data catalog, whether public-facing or for internal data managements. The records of metadata in the file can be managed by databases, spreadsheets, or even text editors. Data management systems should be able to export the metadata either in the desired format or in one which may be simply mapped with [tools](http://labs.data.gov).
+
+### What if different departments within my agency need to generate separate data.json files?
+
+There may be situations where, because of existing separate DMS systems or to better match existing data publishing processes, an agency needs to maintain its data catalog in multiple pieces. In this case, you can write an appender that copies the contents of each additional data.json file into the master agency.gov/data.json file on a regular basis.
+
+You should list your main agency.gov/data.json file and any additional data.json files your agency maintains as listings within the master agency.gov/data.json file. See [an example for the format](examples/catalog-sample-extended.json).
  
 ### What formats are required/recommended for the agency.gov/data file?
 
