@@ -32,7 +32,7 @@ This project constitutes a collaborative work ("open source"). Federal employees
 3. Click "Submit."
 4. You change should appear, once approved.
 
-*Note: You may need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
+*Note: You will need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
 
 #### Advanced
 
