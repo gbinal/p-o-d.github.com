@@ -183,7 +183,7 @@ Data that is more free-form, such as multimedia files, images, sound files, or u
 
 ### Web Service
 
-A Web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has an interface described in a machine-processable format (specifically WSDL). Other systems interact with the Web service in a manner prescribed by its description using SOAP messages, typically conveyed using HTTP with an XML serialization in conjunction with other Web-related standards. WATERS Web Service include but are not limited to SOAP, HTTP, and GIS Services. —*[source](http://www.epa.gov/waters/doc/glossary.html)*
+A Web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has an interface described in a machine-processable format (specifically WSDL). Other systems interact with the Web service in a manner prescribed by its description using SOAP messages, typically conveyed using HTTP with an XML serialization in conjunction with other Web-related standards.—*[source](http://www.epa.gov/waters/doc/glossary.html)*
 
 ### WSDL
 
