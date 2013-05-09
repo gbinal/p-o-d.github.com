@@ -19,7 +19,7 @@ This project is meant to be a living document, so that collaboration in the open
 
 ### Where do I come in?
 
-Help the United States Government make its Open Data Policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute?' below). 
+Help the United States Government make its Open Data Policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See "How can I contribute?" below). 
 
 ### How can I contribute?
 
