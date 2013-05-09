@@ -6,7 +6,7 @@ filename: implementation-guide.md
 ---
 
 ## 1) Create and maintain an enterprise data inventory
-*[Due by 10/9/13]*
+*[Due by 11/9/13]*
 
 Maintain a complete listing of all datasets owned, managed, collected, and/or created by your agency, described in a common format.
 
