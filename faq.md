@@ -18,7 +18,7 @@ This project is meant to be a living document, so that collaboration in the open
 
 ### Where do I come in?
 
-Help the United States Government make its open data policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute?'). 
+Help the United States Government make its Open Data Policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute?' below). 
 
 ### How can I contribute?
 
@@ -176,4 +176,4 @@ All executive agencies.
 
 ### How long do agencies have to implement the policy?
 
-Agencies are required to implement the data policy within six months.
+Agencies are required to implement the Open Data Policy within six months.
