@@ -41,7 +41,7 @@ The JSON representation of the catalog should track directly to the RDFa version
 
 ### RDFa Lite
 
-[RDFa Lite](http://www.w3.org/TR/rdfa-lite/) is a subset of RDFa (Resource Description Framework in Attribute) that provides a common syntax for expressing metadata on websites in a way that computers can understand and begin to formulate knowledge about those data about your organization. RDFa Lite embeds itself in existing, standard HTML pages. For example, if previously a dataset was described as `<h2>Name of Dataset</h2>`, RDFa would extend that markup as  `<h2 property="dct:title">Name of Dataset</h2>` (notice the additional of the property field). This additional metadata is not visible when the page is rendered, and does not affect the page layout or content. It simply provides an additional level of description for search engines, crawlers, and other programatic consumers of your site's content.  It is acceptable for the RDFa Lite file to contain only the machine readable metadata, but agencies may wish to add human readable content to display the metadata to the public if they so desire.
+[RDFa Lite](http://www.w3.org/TR/rdfa-lite/) is a subset of RDFa (Resource Description Framework in Attribute) that provides a common syntax for expressing metadata on websites in a way that computers can understand and begin to formulate knowledge about those data about your organization. RDFa Lite embeds itself in existing, standard HTML pages. For example, if previously a dataset was described as `<h2>Name of Dataset</h2>`, RDFa would extend that markup as  `<h2 property="dct:title">Name of Dataset</h2>` (notice the additional of the property field). This additional metadata is not visible when the page is rendered, and does not affect the page layout or content. It simply provides an additional level of description for search engines, crawlers, and other programatic consumers of your site's content.  It is acceptable for the RDFa Lite file to contain only the machine-readable metadata, but agencies may wish to add human readable content to display the metadata to the public if they so desire.
 
 
 Generating Machine-Readable Reporting Files
@@ -58,7 +58,7 @@ Agencies must have present a table/list of each dataset in the /data page.  The 
 * Dataset description
 * URL to the dataset (endpoint)
 
-The page must be populated from the machine readable catalog file (e.g. data.xml or data.json) following the [specification](schema/) described above.  Agencies are encouraged to add functionality to assist end user discoverability.  Additional functions might be sorting, filtering or paging to help make a more digestible list.  Agencies are also encouraged to add more to the standard schema which might further assist end user discoverability and usability (e.g. thumbnails).
+The page must be populated from the machine-readable catalog file (e.g. data.xml or data.json) following the [specification](schema/) described above.  Agencies are encouraged to add functionality to assist end user discoverability.  Additional functions might be sorting, filtering or paging to help make a more digestible list.  Agencies are also encouraged to add more to the standard schema which might further assist end user discoverability and usability (e.g. thumbnails).
 
 Supplemental Information
 ------------------------
