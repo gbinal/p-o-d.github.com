@@ -17,7 +17,7 @@ id: policy-memo
 * **Dominic J. Mancini**<br />Deputy Administrator, Office of Information and Regulatory Affairs
 {#from}
 
-**Subject:** Open Data Policy&#8212;Managing Information as an Asset
+**Subject:**{.from} Open Data Policy&#8212;Managing Information as an Asset 
 
 * Table of Contents
 {:toc}
