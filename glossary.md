@@ -49,7 +49,7 @@ A comma separated values (CSV) file is a computer data file used for implementin
 
 ### Data 
 
-A value or set of values representing a specific concept or concepts. Data become "information" when analyzed and possibly combined with other data in order to extract meaning, and to provide context. The meaning of data can vary depending on its context.  Data includes ALL data.  It includes, but is not limited to, 1) geospatial data 2) unstructured data, 3) structured data, etc.  —*[source](http://www.data.gov/glossary)*
+A value or set of values representing a specific concept or concepts. Data become "information" when analyzed and possibly combined with other data in order to extract meaning, and to provide context. The meaning of data can vary depending on its context.  Data includes *all* data.  It includes, but is not limited to, 1) geospatial data 2) unstructured data, 3) structured data, etc.  —*[source](http://www.data.gov/glossary)*
 
 ### /Data page
 
