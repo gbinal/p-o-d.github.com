@@ -106,10 +106,8 @@ Data Quality        | *Data Quality*          | *n/a*                | [xsd:bool
 Category            | *Subject Area*          | *groups*                | [dcat:theme](http://www.w3.org/TR/vocab-dcat/#property--theme-category)   | *sdo:about*
 Related Documents   | *Reference for Technical Documentation* | *n/a*                | [dcterms:references](http://www.w3.org/TR/vocab-dcat/#property--related-documents) | *n/a*
 Size                | *File Size*             | *n/a*                | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size) | *sdo:contentSize*
-Homepage URL        | *n/a*                  | *url*                | [foaf:homepage](http://www.w3.org/TR/vocab-dcat/#property--homepage) \*\*  | *sdo:url*
+Homepage URL        | *n/a*                  | *url*                | [dcat:landingPage](http://www.w3.org/ns/dcat#landingPage)  | *sdo:url*
 RSS Feed            | *Access Point*          | *n/a*                | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed) \*  | *n/a*
 System of Records   | *n/a*                  | *n/a*                | *n/a*  | *n/a*
 
 \*When combined with _accessURL_, _format_, and _size_.
-
-\*\*In DCAT, *foaf:homepage* refers to the catalog homepage, while in the "common core" metadata it refers to the dataset homepage.
