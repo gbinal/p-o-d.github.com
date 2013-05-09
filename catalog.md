@@ -47,7 +47,7 @@ The JSON representation of the catalog should track directly to the RDFa version
 Generating Machine-Readable Reporting Files
 -------------------------------------------
 
-Agencies must follow the provided [specification](schema/).  We have built a [catalog generator](http://project-open-data.github.com/catalog-generator/) to assist you in building your catalog and generating .json, .xml, or RDFa Lite files.  
+Agencies must follow the provided [specification](schema/).  We have built a [catalog generator](http://project-open-data.github.com/catalog-generator/) to assist you in building your catalog and generating JSON, XML, or RDFa Lite files.  
 
 Presentation
 ------------
