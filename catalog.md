@@ -8,7 +8,7 @@ filename: catalog.md
 /Data Requirements
 ------------------
 
-The Open Data Policy requires agencies to list and describe all agency data that *can* be made publicly available (i.e. there are no valid restrictions to release) in a publicly available open data catalog with common core metadata.  It further requires the catalog to be human-readable and machine-readable.  This guidance describes to agencies steps for implementing this portion of the policy. 
+The Open Data Policy requires agencies to list and describe all agency data that *can* be made publicly available (i.e. there are no valid restrictions to release) in a publicly available open data catalog with [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/).  It further requires the catalog to be human-readable and machine-readable.  This guidance describes to agencies steps for implementing this portion of the policy. 
 
 Why this effort
 ---------------
@@ -29,7 +29,7 @@ All information deemed 'machine-readable' required in this policy must be descri
 Implementing
 ------------
 
-To fulfill the requirements of this memorandum, agencies should begin to describe datasets as a catalog using the vocabulary of the [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
+To fulfill the requirements of this memorandum, agencies should begin to describe datasets as a catalog using the vocabulary of the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). This catalog is to be published in two places. First, as a standalone JSON file at `agency.gov/data.json` and second with RDFa Lite, either embedded within a HTML page which include human readable markups (e.g., `agency.gov/data.html`) or as an XML file (e.g., `agency.gov/data.xml`). 
 
 ### JSON
 
