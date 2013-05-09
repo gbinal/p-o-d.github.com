@@ -73,9 +73,13 @@ Release cycles vary from repo to repo. Check out the readme file of the repo whe
  
 ## IRM Strategic Plans
  
-### When will additional guidance on IRM strategic plans be released?
+### What is an IRM Strategic Plan?
 
-Guidance on IRM strategic plans will be released in early 2013.
+Agencies' Information Resource Management (IRM) plans are comprehensive strategic documents for information management that are intended to align with the agency’s Strategic Plan. IRM plans should provide a description of how information resource management activities help accomplish agency missions, and ensure that related management decisions are integrated with organizational planning, budget, procurement, financial management, human resources management, and program decisions.  
+
+### How do the IRM plans relate to the open data policy?
+
+In 2012, OMB established PortfolioStat accountability sessions to engage directly with agency leadership to assess the maturity and effectiveness of current IT management practices and address management opportunities and challenges. As part of the annual PortfolioStat process, agencies must update their IRM Strategic Plans to describe how they are meeting new and existing information life cycle management requirements.  Specifically, agencies must describe how they have institutionalized and operationalized the interoperability and openness requirements in this Memorandum into their core processes across all applicable agency programs and stakeholders.  The [FY13 OMB PortfolioStat Guidance](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-09.pdf. ) was issued on March 27, 2013. 
 
 ## Machine Readable and Open Formats
 
