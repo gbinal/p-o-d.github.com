@@ -5,10 +5,10 @@ permalink: /transportation-case-study/
 filename: transportation-case-study.md
 ---
 
-January 8, 2013  
+*January 8, 2013  
 Open Data at DOT - A Case Study for Maturing Data Release Practices to Drive Innovation and Increase Accountability  
 Kristen Baldwin, Associate Chief Information Officer for IT Policy Oversight  
-Office of the Chief Information Officer, Department of Transportation  
+Office of the Chief Information Officer, Department of Transportation*  
 
 --------------------
 
