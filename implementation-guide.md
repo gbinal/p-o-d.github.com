@@ -127,7 +127,7 @@ Collect or create information (data) in a way that supports downstream informati
 
 * Collect data electronically whenever possible.
 * Choose or build a data collection tool that:  
-    - Exports data in a machine-readable format. Consult this list for suggested machine-readable formats.  
+    - Exports data in a machine-readable format. Consult [this list]({{ site.url }}/faq) for suggested machine-readable formats.  
     - Uses existing open data standards, if available.  
 * Apply an open license, in consultation with best practices, to information as it is collected or created so that if data are made public there are no restrictions on the use or re-use of these data.
 * Collect the minimum amount of data needed to achieve your stated goals, in order to avoid having to remove additional personally-identifiable information later in the collection or release process.
