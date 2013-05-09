@@ -11,6 +11,7 @@ body {
 
 .container {max-width: 720px; line-height: 1.5em;}
 .container p {margin: 0 0 1.5em 0;}
+.container li { line-height: 1.5em;}
 
 .navbar {
   -webkit-box-shadow: 0 5px 5px rgba(0,0,0,.2);
