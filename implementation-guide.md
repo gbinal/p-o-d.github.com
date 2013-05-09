@@ -5,8 +5,9 @@ permalink: /implementation-guide/
 filename: implementation-guide.md
 ---
 
+  
 ## 1) Create and maintain an enterprise data inventory
-*[Due by 11/9/13]*
+*[Due by 10/9/13]*
 
 Maintain a complete listing of all datasets owned, managed, collected, and/or created by your agency, described in a common format.
 
@@ -22,9 +23,10 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 * Develop and communicate a clear path for listing newly created or acquired datasets into the enterprise data inventory.
 * The more employees who can contribute to the enterprise data inventory, whether by submitting feedback or by actually being able to log in and update listings in the agency DMS, the more accurate and complete your metadata will be.
 * While it may initially seem that maintaining your agency data inventory in a single spreadsheet is the simplest solution, this is often not the case. A central spreadsheet is difficult for more than one person to maintain, easily leading to errors and omissions.
-* In addition to the required [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/), work with your agency to develop an expanded set of metadata fields that make sense for your vertical.
+* In addition to the requierd [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/), work with your agency to develop an expanded set of metadata fields that make sense for your vertical.
 * Your agency can and should use this central inventory listing as an internal search tool to increase awareness of data collections already in existence and to prevent duplicative research efforts. For example, a search of this inventory may reveal that the combination of two existing datasets could produce the results sought by a proposed new collection.
 
+  
 ## 2) Create and maintain a public data inventory
 *[Due by 10/9/13]*
 
@@ -55,6 +57,7 @@ Publish your agency’s enterprise data inventory, with the aforementioned datas
 
 * [Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)
 
+  
 ## 3) Engage with customers to help facilitate and prioritize data release
 *[Due by 10/9/13]*
 
@@ -73,6 +76,7 @@ Create a process to solicit feedback from customers about existing and potential
 * The required set of [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) includes fields for a contact name (“person”) and an email address (“mbox”). Listing specific, accurate information in these fields for each dataset ensures that customers can give direct feedback on a dataset to the person who is most likely to be able to act on that feedback.
 * If you enable customers to leave comments on datasets, ensure someone at your agency monitors these comments and responds in a timely manner. When new visitors see outdated, unanswered comments, they are less likely to provide feedback.
 
+  
 ## 4) Clarify Roles and Responsibilities
 *[Due by 10/9/13]*
 
@@ -91,6 +95,7 @@ If your Senior Agency Official for Privacy is not positioned within the office o
 * [The Clinger-Cohen Act of 1996](http://govinfo.library.unt.edu/npr/library/misc/itref.html)
 * [OMB Memorandum M-05-08](http://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-08.pdf)
 
+  
 ## 5) Update IRM Strategic Plan
 
 ### A) Minimum Required for Compliance
@@ -109,6 +114,7 @@ Review and update your existing IRM Strategic Plan to describe how your agency h
 
 <center><h2><u>Ongoing</u></h2></center>  
 
+  
 ## 6) Start a New Data Creation or Collection as Open Data
 
 Collect or create information (data) in a way that supports downstream information processing and dissemination activities.
@@ -142,6 +148,7 @@ Collect or create information (data) in a way that supports downstream informati
 * [Controlled Unclassified Information requirements]()
 * [Mosaic Effect Wikipedia article]()
 
+  
 ## 7) Release an Existing Data Collection as Open Data
 
 ### A) Minimum Required for Compliance
@@ -160,6 +167,7 @@ Collect or create information (data) in a way that supports downstream informati
 
 * Let us know about your machine-readable, API-accessible data so we can highlight it here.
 
+  
 ## 8) Create a New (or Significantly Modify an Existing) Information System
 
 New, or significantly modified, information systems need to support interoperability and information accessibility.
