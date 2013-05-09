@@ -88,7 +88,7 @@ p, ul, ol, dl, {padding-bottom: 2em;}
 .button-right { float: right; margin-top: 28px; }
 
 /* Policy Memo */
-.policy-memo h1 {margin-bottom: 50px;}
+.policy-memo h1 {margin-bottom: 50px; line-height: 1em;}
 .policy-memo #from { list-style: none; margin-left: 100px; margin-top: -45px; margin-bottom: 25px;}
 .policy-memo #from li { margin-bottom: 10px;}
 
