@@ -182,7 +182,7 @@ New, or significantly modified, information systems need to support interoperabi
 ### B) Best Practices and Examples
 
 * Brainstorm both the known and potential future uses of the data when designing an information system.
-* The more open and flexible a system is now, the less likely it will need to be replaced or significantly modified in the future. Your agency should weigh upfront system design costs with the long-term potential cost savings and benefits.
+* The more open and flexible a system is now, the less likely it is that it will need to be replaced or significantly modified in the future. Your agency should weigh upfront system design costs with the long-term potential cost savings and benefits.
 
 ### C) Light Reading
 
