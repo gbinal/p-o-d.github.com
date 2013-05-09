@@ -199,17 +199,17 @@ Progress on agency implementation of the actions required in this Memorandum wil
 
 Nothing in this Memorandum shall be construed to affect existing requirements for review and clearance of pre-decisional information by OMB relating to legislative, budgetary, administrative, and regulatory materials. Moreover, nothing in this Memorandum shall be construed to reduce the protection of information whose release would threaten national security, invade personal privacy, breach confidentiality or contractual terms, violate the Trade Secrets Act,[^40] violate other statutory confidentiality requirements,[^41] or damage other compelling interests. This Memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-[^1]: President Barack Obama, Memorandum on Transparency and Open Government (Jan. 21, 2009), *available at *<a>http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment</a>. 
+[^1]: President Barack Obama, Memorandum on Transparency and Open Government (Jan. 21, 2009), *available at* <a>http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment</a>. 
 
-[^2]: OMB Memorandum M-10-06, *Open Government Directive* (Dec. 8, 2009), *available at *<a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf</a> 
+[^2]: OMB Memorandum M-10-06, *Open Government Directive* (Dec. 8, 2009), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf</a> 
 
-[^3]: OMB Circular A-130, *available at *<a>http://www.whitehouse.gov/omb/Circulars_a130_a130trans4/</a> 
+[^3]: OMB Circular A-130, *available at* <a>http://www.whitehouse.gov/omb/Circulars_a130_a130trans4/</a> 
 
 [^4]: OMB Memorandum M-06-02, *Improving Public Access to and Dissemination of Government Information and Using the Federal Enterprise Architecture Data Reference Model* (Dec. 16, 2005), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/fy2006/m06-02.pdf</a> ** 
 
-[^5]: President Barack Obama, Memorandum on Building a 21st Century Digital Government (May 23, 2012), *available at *<a>http://www.whitehouse.gov/sites/default/files/uploads/2012digital_mem_rel.pdf</a> 
+[^5]: President Barack Obama, Memorandum on Building a 21st Century Digital Government (May 23, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/uploads/2012digital_mem_rel.pdf</a> 
 
-[^6]: Office of Management and Budget, *Digital Government: Building a 21<sup>st</sup> Century Platform to Better Serve the American People* (May 23, 2012), *available at *<a>http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf</a> 
+[^6]: Office of Management and Budget, *Digital Government: Building a 21<sup>st</sup> Century Platform to Better Serve the American People* (May 23, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf</a> 
 
 [^7]: 44 U.S.C. § 3501 *et seq.* 
 
@@ -229,7 +229,7 @@ Nothing in this Memorandum shall be construed to affect existing requirements fo
 
 [^15]: *Structured* information is to be contrasted with *unstructured* information (commonly referred to as "content") such as press releases and fact sheets. As described in the *Digital Government Strategy*, content may be converted to a structured format and treated as data. For example, a web-based fact sheet may be broken into the following component data pieces: the title, body text, images, and related links. 
 
-[^16]: The White House, *National Strategy for Trusted Identities in Cyberspace* (April 2011), *available at *<a>http://www.whitehouse.gov/sites/default/files/rss_viewer/NSTICstrategy_041511.pdf</a> 
+[^16]: The White House, *National Strategy for Trusted Identities in Cyberspace* (April 2011), *available at* <a>http://www.whitehouse.gov/sites/default/files/rss_viewer/NSTICstrategy_041511.pdf</a> 
 
 [^17]: OMB Memorandum M-10-23, *Guidance for Agency Use of Third-Party Websites and Applications* (June 25, 2010), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf</a> 
 
@@ -237,7 +237,7 @@ Nothing in this Memorandum shall be construed to affect existing requirements fo
 
 [^19]: The requirements of this subsection build upon existing requirements in OMB Statistical Policy Directives No. 1 and No. 2, *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/inforeg/directive1.pdf</a> and <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/inforeg/directive2.pdf</a>. 
 
-[^20]: *See* OMB Circular A-119, *available at* <a>http://www.whitehouse.gov/omb/circulars_a119</a>, and OMB Memorandum M-12-08, *Principles for Federal Engagement in Standards Activities to Address National Priorities* (Jan 27, 2012), *available at *<a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-08.pdf</a> 
+[^20]: *See* OMB Circular A-119, *available at* <a>http://www.whitehouse.gov/omb/circulars_a119</a>, and OMB Memorandum M-12-08, *Principles for Federal Engagement in Standards Activities to Address National Priorities* (Jan 27, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-08.pdf</a> 
 
 [^21]: If a data user augments or alters original information that is attributed to the Federal Government, the user is responsible for making clear the source and nature of that augmentation. 
 
@@ -253,13 +253,13 @@ Nothing in this Memorandum shall be construed to affect existing requirements fo
 
 [^27]: *See* OMB Circular A-130, *available at* <a>http://www.whitehouse.gov/omb/Circulars_a130_a130trans4/</a> 
 
-[^28]: NIST FIPS Publication 199 "Standards for Security Categorization of Federal Information and Information Systems", *available at * <a>http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf</a> 
+[^28]: NIST FIPS Publication 199 "Standards for Security Categorization of Federal Information and Information Systems", *available at*  <a>http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf</a> 
 
 [^29]: Executive Order 13556, Controlled Unclassified Information, *available at* <a>http://www.whitehouse.gov/the-press-office/2010/11/04/executive-order-13556-controlled-unclassified-information</a>. 
 
 [^30]: The White House, *National Strategy for Information Sharing and Safeguarding *(December 2011), *available at* <a>http://www.whitehouse.gov/the-press-office/2012/12/19/national-strategy-information-sharing-and-safeguarding</a> 
 
-[^31]: *See* NIST Special Publication 800-53 "Security and Privacy Controls for Federal Information Systems and Organizations", *available at * <a>http://csrc.nist.gov/publications/drafts/800-53-rev4/sp800-53-rev4-ipd.pdf</a> 
+[^31]: *See* NIST Special Publication 800-53 "Security and Privacy Controls for Federal Information Systems and Organizations", *available at*  <a>http://csrc.nist.gov/publications/drafts/800-53-rev4/sp800-53-rev4-ipd.pdf</a> 
 
 [^32]: *See* OMB Circular A-130, section 8(a)(2). 
 
