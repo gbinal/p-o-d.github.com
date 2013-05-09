@@ -1,5 +1,22 @@
 [
     {
+        "title": "Data Catalog",
+        "description": "Version 1.0", 
+        "keyword": "catalog", 
+        "modified": "",
+        "publisher": "",
+        "person": "",
+        "mbox": "",
+        "identifier": "",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "",
+                "format": "json"
+            }
+        ]  
+    },
+    {
         "title": "",
         "description": "", 
         "keyword": "", 
