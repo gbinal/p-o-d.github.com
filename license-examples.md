@@ -5,6 +5,8 @@ permalink: /license-examples/
 filename: license-examples.md
 ---
 
+This section offers usable examples of open licenses for potential use by agencies.  
+
 ## Generally
 
 Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection under 17 U.S.C. § 105. When purchasing data or content from third-party vendors, however care must be taken to ensure the information is not hindered by a restrictive, non-open license. In general, such licenses should comply with [the open knowledge definition](http://opendefinition.org/okd/) of an open license. Several examples of common open licenses are listed below:
