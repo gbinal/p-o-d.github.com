@@ -29,8 +29,8 @@ This project constitutes a collaborative work ("open source"). Federal employees
 
 1. Click the "Improve this content" button in the top right corner of any page.
 2. Make changes as you would normally.
-3. Click "Submit".
-4. You change should appear once approved.
+3. Click "Submit."
+4. You change should appear, once approved.
 
 *Note: You may need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
 
