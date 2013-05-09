@@ -76,7 +76,7 @@ foundation for further innovation. DOT took the vision for the [safety community
 * [DOT Open Government](http://www.dot.gov/open)
 * [DOT Data Inventory](http://www.dot.gov/open/data)
 * [DOT Regulatory Compliance Plan](http://www.dot.gov/sites/dot.dev/files/docs/DOT%20Draft%20Enforcement%20and%20Compliance%20Data%20Report%20-%2005-18-2011%20-%20OCR.pdf)
-* [DOT on data.gov](https://explore.data.gov/browse?Dataset-Summary_Agency=Department+of+Transportation)
+* [DOT on Data.gov](https://explore.data.gov/browse?Dataset-Summary_Agency=Department+of+Transportation)
 * [Safety community on Data.gov](http://safety.data.gov)
 
 
