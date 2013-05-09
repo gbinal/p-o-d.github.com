@@ -5,9 +5,9 @@ permalink: /labor-case-study/
 filename: labor-case-study.md
 ---
 
-September 28, 2012
-U.S. Department of Labor
-Mike Pulsifer (pulsifer.michael@dol.gov)
+*September 28, 2012  
+U.S. Department of Labor  
+Mike Pulsifer (pulsifer.michael@dol.gov)*  
 
 ## Executive Summary
 
