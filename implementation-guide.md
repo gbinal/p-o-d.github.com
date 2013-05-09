@@ -13,7 +13,7 @@ Maintain a complete listing of all datasets owned, managed, collected, and/or cr
 
 ### A) Minimum Required for Compliance
 
-Produce a single catalog or list of data managed in a single table, workspace, or other relevant location. Describe each dataset according to the [common core metadata](schema/).
+Produce a single catalog or list of data managed in a single table, workspace, or other relevant location. Describe each dataset according to the [common core metadata](/schema/).
 
 This listing can be maintained in a Data Management System (DMS) such as the open-source [CKAN](http://www.ckan.org) platform; a single spreadsheet, with each metadata field as its own column; or a DMS of your choosing.
 
@@ -38,7 +38,7 @@ While agencies are only required to list datasets with an "Access Level" value o
 
 Document any datasets or metadata in your enterprise data inventory that your agency does not believe can be made publicly available, in consultation with your Office of General Counsel or its equivalent.
 
-Publish your agency’s enterprise data inventory, with the aforementioned information removed, to a file located at [agency].gov/data.json and described using (at minimum) the [common core metadata](schema/). This file itself must be listed as a dataset within itself (see [an example of format](examples/catalog-sample-extended.json) ); if you have multiple data.json files across your agency, include all of them in the top-level data.json at agency.gov/data.json.
+Publish your agency’s enterprise data inventory, with the aforementioned information removed, to a file located at [agency].gov/data.json and described using (at minimum) the [common core metadata](/schema/). This file itself must be listed as a dataset within itself (see [an example of format](/examples/catalog-sample-extended.json) ); if you have multiple data.json files across your agency, include all of them in the top-level data.json at agency.gov/data.json.
 
 While you could manually create this file in a text editor, it is recommended that you use one of the tools provided to generate this file automatically from your existing DMS or enterprise inventory file.
 
@@ -59,7 +59,7 @@ While you could manually create this file in a text editor, it is recommended th
 
 ### D) Resources
 
-* [Common Core Metadata](schema/)
+* [Common Core Metadata](/schema/)
 
   
 ## 3) Engage with customers to help facilitate and prioritize data release
@@ -77,7 +77,7 @@ Create a process to solicit feedback from customers about existing and potential
 
 ### B) Best Practices and Examples
 
-* The required set of [common core metadata](schema/) includes fields for a contact name (“person”) and an email address (“mbox”). Listing specific, accurate information in these fields for each dataset ensures that customers can give direct feedback on a dataset to the person who is most likely to be able to act on that feedback.
+* The required set of [common core metadata](/schema/) includes fields for a contact name (“person”) and an email address (“mbox”). Listing specific, accurate information in these fields for each dataset ensures that customers can give direct feedback on a dataset to the person who is most likely to be able to act on that feedback.
 * If you enable customers to leave comments on datasets, ensure someone at your agency monitors these comments and responds in a timely manner. When new visitors see outdated, unanswered comments, they are less likely to provide feedback.
 
   
@@ -132,7 +132,7 @@ Collect or create information (data) in a way that supports downstream informati
 
 * Collect data electronically whenever possible.
 * Choose or build data collections tool that:  
-    - Export data in machine-readable formats. Consult [this list](faq.md) for suggested machine-readable formats.  
+    - Export data in machine-readable formats. Consult [this list](/faq.md) for suggested machine-readable formats.  
     - Use existing open data standards, if available.  
 * Apply an open license, in consultation with best practices, to information as it is collected or created so that if data are made public there are no restrictions on the use or re-use of these data.
 * Collect the minimum amount of data needed to achieve your stated goals, in order to avoid having to remove additional personally-identifiable information later in the collection or release process.
@@ -163,7 +163,7 @@ Collect or create information (data) in a way that supports downstream informati
 ### A) Minimum Required for Compliance
 
 * Review information for privacy, confidentiality pledge, security, and other restrictions to release.
-* Make the data available in a machine-readable format. See [this list](faq.md) of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
+* Make the data available in a machine-readable format. See [this list](/faq.md) of commonly accepted machine-readable formats. Where appropriate, provide access to the data via an API.
 * Post the data files in an Internet-accessible location, listing this location the dataset’s entry in your agency inventory listing.
 
 ### B) Tools
