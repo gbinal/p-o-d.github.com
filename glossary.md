@@ -3,7 +3,6 @@ layout: default
 title: Glossary
 permalink: /glossary/
 filename: glossary.md
-published: false
 ---
 
 ### API 
