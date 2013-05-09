@@ -5,10 +5,8 @@ permalink: /future-case-study/
 filename: future-case-study.md
 ---
 
-October 16, 2012  
-(primary author)  
-Waldo Jaquith  
-waldo@virginia.edu, 434-243-1034
+*October 16, 2012    
+Primary Author - Waldo Jaquith*  
 
 ## Executive Summary
 Agency’s compliance with previous open data mandates resulted in the provision of dozens of schema-less CSV files on their website in addition to several existing datasets, stored in an DB2 database, with a custom web application providing access to them. They were tasked with providing access to those datasets via a RESTful API, to provide machine-readable, atomic-level access to those records, with no additional funding to support the mandate.
