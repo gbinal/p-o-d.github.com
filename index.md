@@ -80,7 +80,7 @@ Resources to provide guidance and assistance for each aspect of creating and mai
 
 5-5 [Chief Data Officer Material](cdo/) - Sample language for a Chief Data Officer position description.
 
-5-6 [API Basics](api-basics/) - Introductory resources for understanding Application Programming Interfaces (APIs).
+5-6 [API Basics](api-basics/) - Introductory resources for understanding application programming interfaces (APIs).
 
 5-7 [Data Release Safeguard Checklist](http://www.data.gov/sites/default/files/attachments/Privacy%20and%20Security%20Checklist.pdf) - Checklist to enable the safe and secure release of data.
 
