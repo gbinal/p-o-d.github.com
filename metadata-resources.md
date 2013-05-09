@@ -5,7 +5,7 @@ permalink: /metadata-resources/
 filename: metadata-resources.md
 ---
 
-This section provides further background and resources to assist agencies in implementing the [common core metadata schema](http://project-open-data-staging.herokuapp.com/schema/).  
+This section provides further background and resources to assist agencies in implementing the [common core metadata schema](schema/).  
 
 ### Template Data Files
 
@@ -111,7 +111,7 @@ Category            | *Subject Area*          | *groups*                | [dcat:
 Related Documents   | *Reference for Technical Documentation* | *n/a*                | [dcterms:references](http://www.w3.org/TR/vocab-dcat/#property--related-documents) | *n/a*
 Distribution        | *Dataset Group Name*    | *n/a*                | [dcat:distribution](http://www.w3.org/TR/vocab-dcat/#property--dataset-distribution) | *ds:distribution*
 Size                | *File Size*             | *n/a*                | [dcat:size](http://www.w3.org/TR/vocab-dcat/#property--size) | *sdo:contentSize*
-Homepage URL        | *n/a*	                  | *url*                | [foaf:homepage](http://www.w3.org/TR/vocab-dcat/#property--homepage) \*\*  | *sdo:url*
+Homepage URL        | *n/a*                    | *url*                | [foaf:homepage](http://www.w3.org/TR/vocab-dcat/#property--homepage) \*\*  | *sdo:url*
 RSS Feed            | *Access Point*          | *n/a*                | [dcat:feed](http://www.w3.org/TR/vocab-dcat/#Class:_Feed) \*  | *n/a*
 
 \*When combined with _accessURL_, _format_, and _size_.
