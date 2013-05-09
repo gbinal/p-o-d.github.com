@@ -181,3 +181,27 @@ All executive agencies.
 ### How long do agencies have to implement the policy?
 
 Agencies are required to implement the Open Data Policy within six months.
+
+## National Information Exchange Model (NIEM) 
+
+### What is the relationship between NIEM and the efforts underway for the Digital Government Strategy, The Open Data Policy, and Data.gov?
+
+Each of these initiatives has a discreet, targeted focus, but all are aimed at increasing access and use of government data.  Data.gov has provided a central place to find data and applications for publically releasable information.   New applications and services to better serve citizens have been produced as a result in the increase of information made available through Data.gov.  The DGS/ODP policy establishes a framework to help institutionalize the principles of effective information management at each stage of the information’s life cycle.  The framework can help agencies build information systems and processes in a way that increases information and system interoperability, openness, and safeguarding – mutually reinforcing activities that help to promote data discoverability and usability.  NIEM, as a government-wide program provides tools to enhance the way many communities build standardized exchanges to increase mission performance.  NIEM fully aligns to the DGS/ODP policy and can be seen one of the tools for implementation.
+
+### What is NIEM?
+
+NIEM provides a commonly understood way for various organizations to connect data that improves government decision making for the greater good. By making it possible for organizations to share critical data, NIEM empowers people to make informed decisions that improve efficiency and advance and fulfill organizational missions.
+
+NIEM is not a standard, database, software, or the actual exchange of information. Rather, NIEM provides the community of users, tools, common terminology, governance, methodologies, and support that enables the creation of standards. As a result, organizations can “speak the same language” to quickly and efficiently exchange meaningful data.
+
+There are 14 domains or communities established within NIEM.  These are the Biometrics, CBRN (Chemical, Biological, Radiological, Nuclear), Children, Youth, and Family Services, Cyber, Emergency Management, Health, Human Services, Immigration, Infrastructure Protection, Intelligence, International Trade, Justice, Maritime, and Screening Communities.
+
+Additional tools and toolkits can be found at NIEM.gov.  Any tools relevant to the NIEM community may also be registered in the NIEM Tools catalog to ensure reuse across the NIEM community at NIEM.gov.
+
+### Has the NIEM community embraced the DGS/ODP direction?
+
+Treating information as a national asset is core to the Open Data Policy and the National Strategy for Information Sharing and Safeguarding. Departments and agencies will need an end-to-end Data Strategy that accommodates both codified in IT governance. Both are aimed at liberating data from the bounds of the application into exposure for unintentional users and uses (as permitted by law and policy). NIEM has become a best-practice implementation of the new National Information Sharing and Safeguarding Strategy, and is fully supportive of the implementation of the Open Data Policy and is positioned to become an early adopter. NIEM provides a common data model, governance, training, tools, technical support services, and an active community. 
+
+### Does NIEM conform to the DGS/ODP requirements?
+
+NIEM adheres to the DGS/ODP Policy.  NIEM Communities use open standards such as XML / XSD, and UML to assist in the development of standardized ways of exchanging information across and between government agencies.  NIEM is vendor and product neutral.  The adoption of the UML profile will allow additional open standards implementations of NIEM based exchanges as supported by community requirements. Additionally, some NIEM Communities submit their NIEM based information exchanges to external standards development organizations to increase industry adoption such as the NIEM Biometrics and NIST, NIEM Radiological / Nuclear and IEC.
