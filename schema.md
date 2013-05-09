@@ -44,10 +44,10 @@ Field               | Definition                                                
 Title               | Human-readable name of the asset.  Should be in plain English and include sufficient detail to facilitate search and discovery.                | title           
 Description         | Human-readable description (e.g., an abstract) with sufficient detail to enable a user to quickly understand whether the asset is of interest. | description     
 Tags                | Tags (or keywords) help users discover your dataset, please include terms that would be used by technical and non-technical users.             | keyword        
-Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                         | modified        
-Publisher           | The publishing agency.               | publisher    
-Contact Name      | Contact person's name for the asset.                                                                                       | person         
-Contact Email	    | Contact person's email address. 			           	                                                                             | mbox	       
+Last Update         | Most recent date on which the dataset was changed, updated or modified.                                                                        | modified        
+Publisher           | The publishing agency.                                                                                                                         | publisher    
+Contact Name        | Contact person's name for the asset.                                                                                                           | person         
+Contact Email	      | Contact person's email address. 			           	                                                                                             | mbox	       
 Unique Identifier   | A unique identifier for the dataset or API as maintained within an Agency catalog or database.                                                 | identifier            
 Public Access Level | The degree to which this dataset **could** be made publicly-available, *regardless of whether it has been made available*. Choices: Public (is or *could be* made publicly available), Restricted (available under certain conditions), or Private (never able to be made publicly available)  | accessLevel          
 
@@ -58,13 +58,13 @@ The following fields must be used to describe each dataset if they are applicabl
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            
 -------             | ---------------                                                                                                                                | --------------  
-Data Dictionary   | URL to the data dictionary for the dataset or API.  Note that documentation other than a Data Dictionary can be referenced using Related Documents as shown in the expanded fields.              | dataDictionary  
-Download URL        | URL providing direct access to the downloadable distribution of a dataset.                                                                      | accessURL              
+Data Dictionary     | URL to the data dictionary for the dataset or API.  Note that documentation other than a Data Dictionary can be referenced using Related Documents as shown in the expanded fields.              | dataDictionary  
+Download URL        | URL providing direct access to the downloadable distribution of a dataset.                                                                     | accessURL              
 Endpoint            | Endpoint of web service to access dataset.                                                                                                     | webService            
-Format              | The file format or API type of the distribution.                                                                                              | format          
+Format              | The file format or API type of the distribution.                                                                                               | format          
 License             | The license dataset or API is published with.  See [Open Licenses](http://gsa-ocsit.github.com/project-open-data.github.com/open-licenses/) for more information.   | license         
-Spatial  	    | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place.                      | spatial 	       
-Temporal	    | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data).                                     | temporal	       
+Spatial  	          | The range of spatial applicability of a dataset.  Could include a spatial region like a bounding box or a named place.                         | spatial 	       
+Temporal	          | The range of temporal applicability of a dataset (i.e., a start and end date of applicability for the data).                                   | temporal	       
 
 Beyond Common Core -- Extending the Schema
 ------------------------------------------
@@ -77,29 +77,30 @@ Agencies are encouraged to use the following expanded fields when appropriate. A
 {.table .table-striped}
 Field               | Definition                                                                                                                                    | JSON                 
 ------              | ------                                                                                                                                        | ----                  
-Release Date        | Date of formal issuance.                                                                                                                        | issued         
+Release Date        | Date of formal issuance.                                                                                                                      | issued         
 Frequency           | Frequency with which dataset is published.                                                                                                    | accrualPeriodicity    
-Language            | The language of the dataset.                                                                                                                    | language              
-Granularity         | Level of granularity of the dataset.                                                                      | granularity           
+Language            | The language of the dataset.                                                                                                                  | language              
+Granularity         | Level of granularity of the dataset.                                                                                                          | granularity           
 Data Quality        | Whether the dataset meets the agency's Information Quality Guidelines (true/false).                                                                                                             | dataQuality          
-Category            | Main thematic category of the dataset.                | theme                 
+Category            | Main thematic category of the dataset.                                                                                                        | theme                 
 Related Documents   | Related documents such as technical information about a dataset, developer documentation, etc.                                                                                            | references            
-Size                | The size of the downloadable dataset.                                                                                                           | size                  
+Size                | The size of the downloadable dataset.                                                                                                         | size                  
 Homepage URL        | Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface. | landingPage	            
-RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                        | feed            
+RSS Feed            | URL for an RSS feed that provides access to the dataset.                                                                                     d`  | feed            
 System of Records   | URL to the System of Records related to this dataset. | systemOfRecords
 
 
 Further Metadata Field Guidance
 -------------------------------
+
 {.table .table-striped}
-**Field** | **title**
------ | -----
+Field       | title
+-----           | -----
 **Cardinality** | (1,1)
-**Required** | Yes, always
+**Required**    | Yes, always
 **Accepted Values** | String
 **Usage Notes** | Acronyms should be avoided.
-**Example** | {"title":"Types of Vegetables"}
+**Example**     | {"title":"Types of Vegetables"}
 
 {.table .table-striped}
 **Field** | **description**
