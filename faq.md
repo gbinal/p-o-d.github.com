@@ -87,35 +87,34 @@ While ISO 32000 is an open standard, the Portable Document Format (PDF) does not
 
 ### What is the relationship of the metadata standard (specifically) to NIEM, ISE, FGDC, and other existing (especially official) government data standards?
 
-The [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
+The [common core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/) is based on existing vocabularies and easily mapped to NIEM, Information Sharing Environment, and FGDC.
 
 ### What is a "persistent identifier"?
 
 A persistent identifier is a unique label assigned to digital objects or data files that is managed and kept up to date over a defined time period (e.g., Unique Investment Identifiers).
 
-### Who established the core metadata schema?
+### Who established the common core metadata schema?
 
 The core metadata schema was the result of recommendations from a government-wide Metadata Working Group at Data.gov combined with research of existing public schemas for data catalogs.  Most of the elements trace their roots to the Dublin Core Library.
  
 ### How can I recommend changes and improvements to the metadata schema?
 
-Submit a pull request for the core metadata schema. 
+Submit a pull request for the [metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/). 
 
-### Can I extend the metadata schema beyond the terms specified in the [core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)?
+### Can I extend the metadata schema beyond the terms specified in the [common core metadata schema](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)?
 
 Yes, if your data management process includes rich metadata specific to the mission of your agency or the Line of Business your agency participates, publishing additional metadata that makes your data more useful to the public is welcomed and encouraged.  Note that Data.gov will be harvesting only the metadata in this published schema unless specific arrangements are in place (e.g. geospatial FGDC/ISO).
  
 
 ## Security, Privacy and Data Quality
 
-### Who is responsible for insuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agency's requirements for security and privacy and quality?
+### Who is responsible for ensuring that datasets published in the agency.gov/data page (and subsequently Data.gov) meet each agency's requirements for security and privacy and quality?
 
 Each agency is responsible for ALL data made public.
  
 ### How can I contact the Data.gov staff for assistance in conducting mosaic effect reviews?
 
 For general questions about Data.gov, please contact http://www.data.gov/contact-us. For specific information about the mosaic effect, please contact the Data.gov PMO at GSA.
-
 
 ## Public Data Listing
 
@@ -153,7 +152,7 @@ A wide variety of tools are available to manage a data catalog, whether public-f
  
 ### What formats are required/recommended for the agency.gov/data file?
 
-There are several syntaxes that may be used when publishing the data file. The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation). It is recommended that agencies also create a data.html file and use RDFa Lite (Resource Description Framework) to mark-up the metadata using the [core metadata schema](http://project-open-data.github.com/schema/). The RDFa Lite file can be easily consumed by major search engines and applications and make you data easier to find by the public. A third alternative for populating your metadata file is XML (eXtensible Markup Language). Agencies are encouraged to maintain all three version of the metadata file. [Tools](http://labs.data.gov) are available to transform any instance of the file into the alternative formats.
+There are several syntaxes that may be used when publishing the data file. The syntax that is required to make the data readily available to developers is JSON (JavaScript Object Notation). It is recommended that agencies also create a data.html file and use RDFa Lite (Resource Description Framework) to mark-up the metadata using the [common core metadata schema](http://project-open-data.github.com/schema/). The RDFa Lite file can be easily consumed by major search engines and applications and make you data easier to find by the public. A third alternative for populating your metadata file is XML (eXtensible Markup Language). Agencies are encouraged to maintain all three version of the metadata file. [Tools](http://labs.data.gov) are available to transform any instance of the file into the alternative formats.
 
 ## Agency participation with Open Data
 
