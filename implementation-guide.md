@@ -55,7 +55,7 @@ Publish your agency’s enterprise data inventory, with the aforementioned infor
 * When you include restricted datasets in your public data inventory, include specific information on how customers can request and qualify for access to that dataset.
 * Integrate your public data inventory with a tool for soliciting feedback from customers to avoid duplicative effort. For example, the [Kickstart WordPress plugin](https://github.com/project-open-data/kickstart) can automatically generate a voting and commenting mechanism from your data.json file.
 
-### D) Light Reading
+### D) Resources
 
 * [Common Core Metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/)
 
@@ -94,7 +94,7 @@ Update your Senior Agency Official for Privacy (SAOP) responsibilities to includ
 
 If your Senior Agency Official for Privacy is not positioned within the office of the CIO, designate an official within the office of the CIO to liaise with the privacy office.
 
-### B) Light Reading
+### B) Resources
 
 * [The Clinger-Cohen Act of 1996](http://govinfo.library.unt.edu/npr/library/misc/itref.html)
 * [OMB Memorandum M-05-08](http://www.whitehouse.gov/sites/default/files/omb/assets/omb/memoranda/fy2005/m05-08.pdf)
@@ -111,7 +111,7 @@ Review and update your existing IRM Strategic Plan to describe how your agency h
 * Publishing data in open formats
 * Privacy analysis, with a presumption of openness
 
-### B) Light Reading
+### B) Resources
 
 * [44 USC 3506 (b)(2)](http://www.gpo.gov/fdsys/granule/USCODE-2011-title44/USCODE-2011-title44-chap35-subchapI-sec3506/content-detail.html)
 * [OMB Circular A-11](http://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc)
@@ -146,7 +146,7 @@ Collect or create information (data) in a way that supports downstream informati
 * Make sure your machine-readable data is also human-readable. This may mean providing two separate files, but more likely means including a human-readable key and a detailed description.
 * It is much easier to collect data in the way you will eventually distribute and publish it, rather than having to manipulate the data midway through to comply with later requirements.
 
-### D) Light Reading
+### D) Resources
 * [Open Government Directive](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf)
 * [NIST FIPS Publication 199](http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf)
 * [Controlled Unclassified Information requirements](http://www.archives.gov/cui/)
@@ -188,6 +188,6 @@ New, or significantly modified, information systems need to support interoperabi
 * Brainstorm both the known and potential future uses of the data when designing an information system.
 * The more open and flexible a system is now, the less likely it is that it will need to be replaced or significantly modified in the future. Your agency should weigh upfront system design costs with the long-term potential cost savings and benefits.
 
-### C) Light Reading
+### C) Resources
 
 * [Common Approach to Federal Enterprise Architecture](http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/common_approach_to_federal_ea.pdf)
