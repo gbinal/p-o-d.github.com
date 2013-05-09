@@ -19,7 +19,7 @@ This project is meant to be a living document, so that collaboration in the open
 
 ### Where do I come in?
 
-Help the United States Government make its Open Data Policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See 'How can I contribute?' below). 
+Help the United States Government make its Open Data Policy better by collaborating. Please suggest enhancements by editing the content here, or add tools that help anyone open data (See "How can I contribute?" below). 
 
 ### How can I contribute?
 
@@ -29,14 +29,14 @@ This project constitutes a collaborative work ("open source"). Federal employees
 
 1. Click the "Improve this content" button in the top right corner of any page.
 2. Make changes as you would normally.
-3. Click "Submit".
-4. You change should appear once approved.
+3. Click "Submit."
+4. You change should appear, once approved.
 
-*Note: You may need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
+*Note: You will need to [create a free GitHub account](https://github.com/signup/free) if you do not already have one.*
 
 #### Advanced
 
-1. Configure git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/)/[GitHub for Windows](http://windows.github.com/) and optionally [Mou](http://mouapp.com/).
+1. Configure Git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/)/[GitHub for Windows](http://windows.github.com/) and optionally [Mou](http://mouapp.com/).
 2. [Fork](https://help.github.com/articles/fork-a-repo) the project.
 3. Make changes as you would normally using the tools installed in step #1.
 4. Push the changes back to your fork.
