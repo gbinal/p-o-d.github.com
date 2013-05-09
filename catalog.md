@@ -52,7 +52,7 @@ Agencies must follow the provided [specification](schema/).  We have built a [ca
 Presentation
 ------------
 
-Agencies must have present a table/list of each dataset in the /data page.  The /data pages will serve as the authoritative source of agency publicly available data. The page there must be populated with the a list of datasets.  The presentation of this page must contain a table/list of the data in the agencies catalog with at least the following attributes;
+Agencies must have present a table/list of each dataset in the /data page.  The /data pages will serve as the authoritative source of agency publicly available data. The page there must be populated with the a list of datasets.  The presentation of this page must contain a table/list of the data in the agencies catalog with at least the following attributes:
 
 * Dataset name
 * Dataset description
