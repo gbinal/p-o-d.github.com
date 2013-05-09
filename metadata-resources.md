@@ -5,6 +5,7 @@ permalink: /metadata-resources/
 filename: metadata-resources.md
 ---
 
+This section provides further background and resources to assist agencies in implementing the [common core metadata schema](http://project-open-data-staging.herokuapp.com/schema/).  
 
 ### Template Data Files
 
