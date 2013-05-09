@@ -115,10 +115,10 @@ Field       | title
 **Field** | **dataDictionary**
 ----- | -----
 **Cardinality** | (1,1)
-**Required** | Yes, if there is corresponding documentation online.
+**Required** | Yes, if there is corresponding data dictionary online. (Documentation that is not specifically a data dictionary belongs in "references")
 **Accepted Values** | URL
 **Usage Notes** | -
-**Example** |  {"dataDictionary":"http://www.agency.gov/vegetables/documentation.html"}
+**Example** |  {"dataDictionary":"http://www.agency.gov/vegetables/dictionary.html"}
 
 {.table .table-striped}
 **Field** | **accessURL**
