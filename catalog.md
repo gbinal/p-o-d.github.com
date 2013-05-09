@@ -5,6 +5,8 @@ permalink: /catalog/
 filename: catalog.md
 ---
 
+This section provides further guidance and explanation for implementing the agency data catalog.    
+
 /Data Requirements
 ------------------
 
