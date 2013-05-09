@@ -84,6 +84,8 @@ Create a process to solicit feedback from customers about existing and potential
 
 Ensure your agency CIO is positioned and authorized to implement the requirements of this Memorandum, as per the Clinger-Cohen Act of 1996.
 
+Ensure there is someone in your agency clearly designated and responsible for the promotion of efficient and effective data release practices across the agency.
+
 Ensure your privacy and security officials are positioned with the authority to identify information that may require additional protection and agency activities that may require additional safeguards.
 
 Update your Senior Agency Official for Privacy (SAOP) responsibilities to include incorporating a full analysis of privacy, confidentiality, and security issues into every step of the agency information system planning process.
