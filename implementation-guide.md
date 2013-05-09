@@ -7,7 +7,7 @@ filename: implementation-guide.md
 
   
 ## 1) Create and maintain an enterprise data inventory
-*[Due by 10/9/13]*
+*[Due by 11/9/13]*
 
 Maintain a complete listing of all datasets owned, managed, collected, and/or created by your agency, described in a common format.
 
@@ -28,7 +28,7 @@ This listing can be maintained in a Data Management System (DMS) such as the ope
 
   
 ## 2) Create and maintain a public data inventory
-*[Due by 10/9/13]*
+*[Due by 11/9/13]*
 
 Maintain a publicly accessible listing of all datasets maintained by your agency, sans any non-public datasets, for harvesting by a central Data.gov search engine and the public at large.
 
@@ -59,7 +59,7 @@ Publish your agency’s enterprise data inventory, with the aforementioned datas
 
   
 ## 3) Engage with customers to help facilitate and prioritize data release
-*[Due by 10/9/13]*
+*[Due by 11/9/13]*
 
 ### Minimum Required for Compliance
 
@@ -78,7 +78,7 @@ Create a process to solicit feedback from customers about existing and potential
 
   
 ## 4) Clarify Roles and Responsibilities
-*[Due by 10/9/13]*
+*[Due by 11/9/13]*
 
 ### A) Minimum Required for Compliance
 
