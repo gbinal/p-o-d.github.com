@@ -15,7 +15,7 @@ Maintain a complete listing of all datasets owned, managed, collected, and/or cr
 
 Produce a single catalog or list of data managed in a single table, workspace, or other relevant location. Describe each dataset according to the [common core metadata](http://gsa-ocsit.github.com/project-open-data.github.com/schema/).
 
-This listing can be maintained in a Data Management System (DMS) such as the open-source [CKAN](http://www.ckan.org) platform; a single spreadsheet, with each metadata field as its own column; or a custom or proprietary DMS of your choosing.
+This listing can be maintained in a Data Management System (DMS) such as the open-source [CKAN](http://www.ckan.org) platform; a single spreadsheet, with each metadata field as its own column; or a DMS of your choosing.
 
 ### B) Best Practices and Examples
 
