@@ -3,7 +3,6 @@ layout: default
 title: Common Core Metadata Schema
 permalink: /schema/
 filename: schema.md
-published: true
 ---
 
 This section contains guidance to support the use of the [common core metadata schema](http://gsa-ocsit.github.io/project-open-data.github.com/schema/) to list agency datasets and Application Programming Interfaces (APIs) as hosted at agency.gov/data.  
