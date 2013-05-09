@@ -211,19 +211,19 @@ Nothing in this Memorandum shall be construed to affect existing requirements fo
 
 [^6]: Office of Management and Budget, *Digital Government: Building a 21<sup>st</sup> Century Platform to Better Serve the American People* (May 23, 2012), *available at *<a>http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf</a> 
 
-[^7]: 44 U.S.C. ? 3501 *et seq.* 
+[^7]: 44 U.S.C. § 3501 *et seq.* 
 
-[^8]: Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. ? 3501 note). 
+[^8]: Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note). 
 
-[^9]: 5 U.S.C. ? 552a. 
+[^9]: 5 U.S.C. § 552a. 
 
-[^10]: 44 U.S.C. ? 3541, *et seq*. 
+[^10]: 44 U.S.C. § 3541, *et seq*. 
 
-[^11]: Section 503(a), Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. ? 3501 note); *see also* Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/fedreg/2007/061507_cipsea_guidance.pdf</a> 
+[^11]: Section 503(a), Pub. L. No. 107-347, 116 Stat. 2899 (2002) (codified as 44 U.S.C. § 3501 note); *see also* Implementation Guidance for Title V of the E-Government Act, Confidential Information Protection and Statistical Efficiency Act of 2002 (CIPSEA), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/assets/omb/fedreg/2007/061507_cipsea_guidance.pdf</a> 
 
 [^12]: 5 USC 552(a)(2). 
 
-[^13]: Pub. L. No. 106-554 (2000) (codified at 44 U.S.C. ? 3504(d)(1) and 3516). *See also* OMB Memorandum M-12-18, *Managing Government Records Directive* (Aug. 24, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-18.pdf</a>. 
+[^13]: Pub. L. No. 106-554 (2000) (codified at 44 U.S.C. § 3504(d)(1) and 3516). *See also* OMB Memorandum M-12-18, *Managing Government Records Directive* (Aug. 24, 2012), *available at* <a>http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-18.pdf</a>. 
 
 [^14]: 44 U.S.C. Chapters 21, 22, 29, 31, and 33. *See also* 36 CFR Subchapter B &#8211; Records Management. 
 
