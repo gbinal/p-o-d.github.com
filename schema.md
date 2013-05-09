@@ -89,8 +89,8 @@ RSS Feed            | URL for an RSS feed that provides access to the dataset.  
 System of Records   | URL to the System of Records related to this dataset. | systemOfRecords
 
 
-### Further Metadata Field Guidance
-
+Further Metadata Field Guidance
+-------------------------------
 {.table .table-striped}
 **Field** | **title**
 ----- | -----
