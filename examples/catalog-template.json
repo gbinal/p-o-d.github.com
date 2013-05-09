@@ -20,17 +20,7 @@
         "webService": "", 
         "license": "", 
         "spatial": "", 
-        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS", 
-        "issued": "",
-        "frequency": "",
-        "language": "", 
-        "granularity": "",
-        "dataQuality": "",
-        "theme": "", 
-        "references": "", 
-        "landingPage": "",
-        "feed": "",
-        "systemOfRecords": ""     
+        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS"   
     },
     {
         "title": "",
@@ -63,16 +53,6 @@
         "webService": "", 
         "license": "", 
         "spatial": "", 
-        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS", 
-        "issued": "",
-        "frequency": "",
-        "language": "", 
-        "granularity": "",
-        "dataQuality": "",
-        "theme": "", 
-        "references": "", 
-        "landingPage": "",
-        "feed": "",
-        "systemOfRecords": ""     
+        "temporal": "YYYY-MM-DD HH:MM:SS,YYYY-MM-DD HH:MM:SS"    
     }
 ]
