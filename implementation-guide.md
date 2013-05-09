@@ -106,7 +106,7 @@ If your Senior Agency Official for Privacy is not positioned within the office o
 
 Review and update your existing IRM Strategic Plan to describe how your agency has institutionalized and operationalized the requirements of this Memorandum. In your IRM Strategic Plans under the *Managing Information as an Asset* section, you should describe your approach to managing information as an asset, including how your agency will promote interoperability and openness throughout the information life cycle and properly safeguard information that may require additional protection. Agencies should specifically address how information collection and creation efforts, information system design, and data management and release practices will support interoperability and openness. This may involve describing updates to policies and processes, and offering employee trainings. 
 
-Additionally, agencies should include information on:
+Additionally, you should include information on:
 * Use of open licenses
 * Use of open standards
 * Collecting data in a machine-readable, standards-compliant way
