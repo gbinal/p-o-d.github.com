@@ -100,7 +100,7 @@ Field       | title
 **Required**    | Yes, always
 **Accepted Values** | String
 **Usage Notes** | Acronyms should be avoided.
-**Example**     | {"title":"Types of Vegetables"}
+**Example**     | `{"title":"Types of Vegetables"}`
 
 {.table .table-striped}
 **Field** | **description**
@@ -109,7 +109,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | This should be human-readable and understandable to an average person.
-**Example** | {"description":"This dataset contains a list of vegetables, including nutrition information and seasonality. Includes details on tomatoes, which are really fruit but considered a vegetable in this dataset."}
+**Example** | `{"description":"This dataset contains a list of vegetables, including nutrition information and seasonality. Includes details on tomatoes, which are really fruit but considered a vegetable in this dataset."}`
 
 {.table .table-striped}
 **Field** | **dataDictionary**
@@ -118,7 +118,7 @@ Field       | title
 **Required** | Yes, if there is corresponding data dictionary online. (Documentation that is not specifically a data dictionary belongs in "references")
 **Accepted Values** | URL
 **Usage Notes** | -
-**Example** |  {"dataDictionary":"http://www.agency.gov/vegetables/dictionary.html"}
+**Example** |  `{"dataDictionary":"http://www.agency.gov/vegetables/dictionary.html"}`
 
 {.table .table-striped}
 **Field** | **accessURL**
@@ -127,7 +127,7 @@ Field       | title
 **Required** | Yes, if the file is available for public download.
 **Accepted Values** | URL
 **Usage Notes** | This must be the **direct** download URL. Use **homepage** for landing or disambiguation pages, or **dataDictionary** for documentation pages.
-**Example** |  {"accessURL":"http://www.agency.gov/vegetables/listofvegetables.csv"}
+**Example** |  `{"accessURL":"http://www.agency.gov/vegetables/listofvegetables.csv"}`
 
 {.table .table-striped}
 **Field** | **format**
@@ -136,7 +136,7 @@ Field       | title
 **Required** | Yes, if the file is available for public download.
 **Accepted Values** | String
 **Usage Notes** | This must describe the exact file available at **accessURL** using file extensions (e.g., CSV, XLS, XSLX, TSV, JSON, XML). For example, if the download file is a ZIP containing a CSV, the entry here is "ZIP".
-**Example** | {"format":"csv"}
+**Example** | `{"format":"csv"}`
 
 {.table .table-striped}
 **Field** | **keyword**
@@ -145,7 +145,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | Separate keywords with commas.
-**Example** | {"keyword":"squash,vegetables,veggies,greens,leafy,spinach,kale,nutrition,tomatoes,tomatos"}
+**Example** | `{"keyword":"squash,vegetables,veggies,greens,leafy,spinach,kale,nutrition,tomatoes,tomatos"}`
 
 {.table .table-striped}
 **Field** | **modified**
@@ -154,7 +154,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | Date (YYYY-MM-DD)
 **Usage Notes** | Dates should be formatted as YYYY-MM-DD. Specify "01" as the day if unknown. If this file is brand-new, enter the **issued** date here as well.
-**Example** |  {"modified":"2012-01-15"}
+**Example** |  `{"modified":"2012-01-15"}`
 
 {.table .table-striped}
 **Field** | **publisher**
@@ -163,7 +163,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | Departments and multi-unit agencies may use this field to describe which subordinate agency published this dataset.
-**Example** |  {"publisher":"U.S. Department of Education"}
+**Example** |  `{"publisher":"U.S. Department of Education"}`
 
 {.table .table-striped}
 **Field** | **person**
@@ -172,7 +172,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | Name should be formatted as Last, First
-**Example** |  {"person":"Brown, John"}
+**Example** |  `{"person":"Brown, John"}`
 
 {.table .table-striped}
 **Field** | **mbox**
@@ -181,7 +181,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | Email address
 **Usage Notes** | -
-**Example** |  {"mbox":"joe@agency.gov"}
+**Example** |  `{"mbox":"joe@agency.gov"}`
 
 {.table .table-striped}
 **Field** | **identifier**
@@ -190,7 +190,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | String
 **Usage Notes** | This field allows third parties to maintain a consistent record for datasets even if title or URLs are updated. Agencies may integrate an existing system for maintaining unique identifiers or enter arbitrary characters for this field. However, each identifier **must** be unique across the agency's catalog and remain fixed. Characters should be alphanumeric.
-**Example** |  {"identifier":"1344"}
+**Example** |  `{"identifier":"1344"}`
 
 {.table .table-striped}
 **Field** | **accessLevel**
@@ -199,7 +199,7 @@ Field       | title
 **Required** | Yes, always
 **Accepted Values** | Must be one of the following: Public, Restricted, Private
 **Usage Notes** | This field refers to degree to which this dataset *could be made available* to the public, regardless of whether it is currently available to the public. For example, if a member of the public can walk into your agency and obtain a dataset, that entry is **public** even if there are no files online. A *restricted* dataset is one only available under certain conditions or to certain audiences (such as researchers who sign a waiver). A private dataset is one that could never be made available to the public for privacy, security, or other reasons as determined by your agency.
-**Example** | {"accessLevel":"public"}
+**Example** | `{"accessLevel":"public"}`
 
 {.table .table-striped}
 **Field** | **webService**
@@ -208,7 +208,7 @@ Field       | title
 **Required** | Yes, if the dataset has an API
 **Accepted Values** | URL
 **Usage Notes** | This field will serve to delineate the web services offered by an agency and will be used to aggregate cross-government API catalogs.
-**Example** | {"webService":"http://www.agency.gov/vegetables/vegetables.json"}
+**Example** | `{"webService":"http://www.agency.gov/vegetables/vegetables.json"}`
 
 {.table .table-striped}
 **Field** | **license**
@@ -217,7 +217,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | -
 **Usage Notes** | See list of licenses.
-**Example** |  {"license":""}
+**Example** |  `{"license":""}`
 
 {.table .table-striped}
 **Field** | **spatial**
@@ -226,7 +226,7 @@ Field       | title
 **Required** | Yes, if the dataset is spatial
 **Accepted Values** | See Usage Notes
 **Usage Notes** | This field should contain one of the following types of content: (1) a bounding coordinate box for the dataset represented in latitude / longitude pairs where the coordinates are specified in decimal degrees and in the order of: minimum longitude, minimum latitude, maximum longitude, maximum latitude; (2) a latitude / longitude pair (in decimal degrees) representing a point where the dataset is relevant; (3) a geographic feature expressed in [Geography Markup Language using the Simple Features Profile](http://www.ogcnetwork.net/gml-sf); or (4) a geographic feature from the [GeoNames database](www.geonames.org).
-**Example** |  {"spatial":"Lincoln, Nebraska"}
+**Example** |  `{"spatial":"Lincoln, Nebraska"}`
 
 {.table .table-striped}
 **Field** | **temporal**
@@ -235,7 +235,7 @@ Field       | title
 **Required** | Yes, if applicable
 **Accepted Values** | See Usage Notes
 **Usage Notes** | This field should contain an interval of time defined by start and end dates.  Dates should be formatted as pairs of {start date, end date} in the format YYYY-MM-DD hh:mm:ss using 24 hour clock time notation (e.g., 2011-02-14 12:00:00,  2013-02-14 12:00:00). 
-**Example** |  {"temporal":"2000-01-15 00:45:00,2010-01-15 00:06:00"}
+**Example** |  `{"temporal":"2000-01-15 00:45:00,2010-01-15 00:06:00"}`
 
 {.table .table-striped}
 **Field** | **issued**
@@ -244,7 +244,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | Date (YYYY-MM-DD)
 **Usage Notes** | -
-**Example** |  {"issued":"2001-01-15"}
+**Example** |  `{"issued":"2001-01-15"}`
 
 {.table .table-striped}
 **Field** | **accrualPeriodicity**
@@ -253,7 +253,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | Must be one of the following: hourly, daily, weekly, yearly, other
 **Usage Notes** | -
-**Example** |  {"accrualPeriodicity":"yearly"}
+**Example** |  `{"accrualPeriodicity":"yearly"}`
 
 {.table .table-striped}
 **Field** | **language**
@@ -262,7 +262,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | String
 **Usage Notes** | -
-**Example** |  {"language":"English"}
+**Example** |  `{"language":"English"}`
 
 {.table .table-striped}
 **Field** | **granularity**
@@ -271,7 +271,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | String
 **Usage Notes** | Typically geographical or temporal.
-**Example** |  {"granularity":"vegetables"}
+**Example** |  `{"granularity":"vegetables"}`
 
 {.table .table-striped}
 **Field** | **dataQuality**
@@ -280,7 +280,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | Must be one of the following: true, false
 **Usage Notes** | Indicates whether a dataset
-**Example** |  {"dataQuality":"true"}
+**Example** |  `{"dataQuality":"true"}`
 
 {.table .table-striped}
 **Field** | **category**
@@ -289,7 +289,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | String
 **Usage Notes** | Separate multiple categories with a comma. Could include [ISO Topic Categories](http://www.isotopicmaps.org/).  
-**Example** |  {"category":"vegetables"}
+**Example** |  `{"category":"vegetables"}`
 
 {.table .table-striped}
 **Field** | **references**
@@ -298,7 +298,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | URL
 **Usage Notes** | Separate multiple URLs with a comma.
-**Example** |  {"references":"http://www.agency.gov/fruits/fruits.csv,http://www.agency.gov/legumes/legumes.csv"}
+**Example** |  `{"references":"http://www.agency.gov/fruits/fruits.csv,http://www.agency.gov/legumes/legumes.csv"}`
 
 {.table .table-striped}
 **Field** | **distribution**
@@ -308,7 +308,7 @@ Field       | title
 **Accepted Values** | See Usage Notes
 **Usage Notes** | Distribution is a concatenation, as appropriate, of the following elements: download url, format, endpoint, language, size.  An example of this this model is:  
   
-    "distribution": [{"accessURL": "http://data.mcc.gov/example_resource/data.json", "format":"JSON", "size":"22mb"},{"accessURL":"http://data.mcc.gov/example_/data.xml", "format":"XML", "size":"24mb"}]  
+    "distribution": [`{"accessURL": "http://data.mcc.gov/example_resource/data.json", "format":"JSON", "size":"22mb"}`,`{"accessURL":"http://data.mcc.gov/example_/data.xml", "format":"XML", "size":"24mb"}`]  
 
 **Example** | -
 
@@ -319,7 +319,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | See Usage Notes
 **Usage Notes** | Sizes should be formatted as (e.g.), 52kb, 140mb, 2gb. 
-**Example** |  {"size":"3mb"}
+**Example** |  `{"size":"3mb"}`
 
 {.table .table-striped}
 **Field** | **landingPage**
@@ -328,7 +328,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | URL
 **Usage Notes** | This field is not intended for an agency's homepage (e.g. www.agency.gov), but rather if a dataset has a human-friendly hub or landing page that users should be directed to for all resources tied to the dataset.  This allows agencies to better specify what a visitor receives after selecting one of the agency's datasets on Data.gov or in third-party mashups.
-**Example** |  {"landingPage":"http://www.agency.gov/vegetables"}
+**Example** |  `{"landingPage":"http://www.agency.gov/vegetables"}`
 
 {.table .table-striped}
 **Field** | **feed**
@@ -337,7 +337,7 @@ Field       | title
 **Required** | No
 **Accepted Values** | URL
 **Usage Notes** | These RSS feeds will be used to create a cross-agency RSS feed search tool.
-**Example** |  {"feed":"http://www.agency.gov/vegetables/vegetables.rss"}
+**Example** |  `{"feed":"http://www.agency.gov/vegetables/vegetables.rss"}`
 
 
 Rationale for Metadata Nomenclature
