@@ -130,7 +130,7 @@ Having the metadata available at the agency level provides agencies with a self-
 
 ### How will agency.gov/open, /developer, and /data pages work together?
 
-The agency.gov/open page contains informational regards an agencies contributions to Open Government, while the /developer and /data pertains to APIs and Open Data. All three pages contribute to an open and transparent government in the United States.
+The agency.gov/open page contains informational regards an agencies contributions to Open Government, while the /developer and /data pages pertain to APIs and Open Data. All three pages contribute to an open and transparent government in the United States.
 
 ### What is the relationship of the /data page and public data listing to Data.gov, and how will this impact current Data.gov processes?
 
