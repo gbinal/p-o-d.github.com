@@ -83,7 +83,7 @@ GitHub is a social coding platform allowing developers to publicly or privately 
 
 ### Hackathon 
 
-An event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject and the demographic group of the programmers. In other cases, there is no restriction on the type of software being created.  —*[source](http://en.wikipedia.org/wiki/Hackathon)*
+An event in which computer programmers and others in the field of software development, like graphic designers, interface designers, project managers and computational philologists, collaborate intensively on software projects. Occasionally, there is a hardware component as well. Hackathons typically last between a day and a week in length. Some hackathons are intended simply for educational or social purposes, although in many cases the goal is to create usable software. Hackathons tend to have a specific focus, which can include the programming language used, the operating system, an application, an API, the subject, or the demographic group of the programmers. In other cases, there is no restriction on the type of software being created.  —*[source](http://en.wikipedia.org/wiki/Hackathon)*
 
 ### Information
 
