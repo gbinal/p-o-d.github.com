@@ -171,9 +171,7 @@ A specification and complete framework implementation for describing, producing,
 
 ### Terms of Service 
 
-Terms of Service provide a legal framework for developers to operate within. They set the stage for the business development relationships that will occur within an API ecosystem.
-
-TOS should protect the API owners company, assets and brand, but should also provide assurances for developers who are building businesses on top of an API. —*[source](http://apievangelist.com/buildingblocks/terms_of_use__conditions.php)*
+Terms of Service provide a legal framework for developers to operate within. They set the stage for the business development relationships that will occur within an API ecosystem. Terms of Service should protect the API owner's company, assets and brand, but should also provide assurances for developers who are building businesses on top of an API. —*[source](http://apievangelist.com/buildingblocks/terms_of_use__conditions.php)*
 
 ### TSV 
 
