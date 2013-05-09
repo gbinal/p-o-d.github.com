@@ -36,7 +36,7 @@ Links to downloadable examples of metadata files developed in this and other for
 -----------------------------
 The following "common core" fields are required, to be used to describe each entry:
 
-(*Select the question marks to learn more about the use of each element, including the range of valid entries where appropriate. [Consult the schema maps to find the equivalent Data.gov, RDFa Lite, and CKAN fields](metadata-resources#common_core_required_fields_equivalents).*)
+(*Consult the 'Further Metadata Field Guidance' section lower in the page to learn more about the use of each element, including the range of valid entries where appropriate. Consult the [schema maps]](metadata-resources#common_core_required_fields_equivalents) to find the equivalent Data.gov, RDFa Lite, and CKAN fields.*)
 
 {.table .table-striped}
 Field               | Definition                                                                                                                                     |JSON            
