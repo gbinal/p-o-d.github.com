@@ -62,4 +62,4 @@ The page must be populated from the machine readable catalog file (e.g. data.xml
 Supplemental Information
 ------------------------
 
-Agencies are encouraged to supplement these requirements with other information, outreach and tools (e.g. blog posts, GitHub tools, customer engagement tools etc).  Components, bureaus and programs are also encouraged to highlight their work implementing the Policy through their own channels.
+Agencies are encouraged to supplement these requirements with other information, outreach and tools (e.g. blog posts, GitHub tools, customer engagement tools etc).  Components, bureaus and programs are also encouraged to highlight their work implementing the Open Data Policy through their own channels.
