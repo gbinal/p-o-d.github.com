@@ -42,16 +42,13 @@ Since the release of the API & SDKs, DOL has published the SDKs as open source p
 ## Lessons Learned
 
 * Developers like tools, such as SDKs, that make app development, and government data use, easier.
-
 * Developers like to use data from multiple sources. Making the SDKs compatible with other agency APIs, rather than producing multiple SDKs for each individual API, will make app development even easier.
-
 * Sample code makes your API, and by extension, your data, more accessible to novice developers.
 
 
 ## Related Information
 
 * [US Department of Labor](http://developer.dol.gov/)
-
 * [Dept. of Labor GitHub](https://github.com/USDepartmentofLabor)
 
 ## Disclaimer
