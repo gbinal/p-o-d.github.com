@@ -7,7 +7,7 @@ filename: api-basics.md
 
 ### What is an API?
 
-An API -- Application Programming Interface -- at its most basic level, allows your product or service to talk to other products or services. In this way, an API allows you to open up data and functionality to other developers and to other businesses. It is increasingly the way in which agencies and companies exchange data and services, both internally and externally.
+An API -- application programming interface -- at its most basic level, allows your product or service to talk to other products or services. In this way, an API allows you to open up data and functionality to other developers and to other businesses. It is increasingly the way in which agencies and companies exchange data and services, both internally and externally.
 
 ### What are APIs used for?
 
