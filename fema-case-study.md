@@ -5,10 +5,9 @@ permalink: /fema-case-study/
 filename: fema-case-study.md
 ---
 
-Karole Johns  
-October 24, 2012  
+*October 24, 2012    
 Improving the Delivery of Disaster Assistance - Using Standards-Based Data and Flexible Technology Platforms to Increase Data Sharing across the Federal Government and Reduce the Burden on Disaster Survivors  
-Disaster Assistance Improvement Program PMO  
+Karole Johns, Disaster Assistance Improvement Program PMO*  
 
 ### Executive Summary
 
