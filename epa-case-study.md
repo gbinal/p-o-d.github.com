@@ -7,7 +7,7 @@ filename: epa-case-study.md
 
 *November 2, 2012  
 Central Data Exchange - Building an Open and Interoperable Platform for Environmental Data Sharing  
-U.S. Environmental Protection Agency, Office of Environmental Information, Office of Information Collection  *
+U.S. Environmental Protection Agency, Office of Environmental Information, Office of Information Collection*   
 
 ### Executive Summary
 Central Data Exchange (CDX) created by the US Environmental Protection Agency (EPA) is used by Industry, State, Local Agencies, and Tribes to share environmental data.  Through the use of open data standards and the service-oriented architecture (SOA) approach, CDX has become an extensible and interoperable platform for the sharing of environmental information on the national scale.  Today, more than 65,000 active users and 65 environmental programs use CDX to meet their electronic reporting and data exchange needs.  CDX has significantly improved the quality and timeliness of environmental data and reduced overall reporting burdens for Industry, State, Local Agencies, and Tribes.  In addition, the operational cost of CDX has decreased from $30.94 in 2006 to $1.90 in 2011 on a per transaction basis due to the increase in the number of participating partners.
