@@ -5,17 +5,14 @@ permalink: /fema-case-study/
 filename: fema-case-study.md
 ---
 
-
-
-Improving the Delivery of Disaster Assistance  
-Using Standards-Based Data and Flexible Technology Platforms to Increase Data Sharing across the Federal Government and Reduce the Burden on Disaster Survivors  
+Karole Johns  
 October 24, 2012  
+Improving the Delivery of Disaster Assistance - Using Standards-Based Data and Flexible Technology Platforms to Increase Data Sharing across the Federal Government and Reduce the Burden on Disaster Survivors  
 Disaster Assistance Improvement Program PMO  
-Karole Johns, [Karole.johns@fema.dhs.gov](mailto:Karole.johns@fema.dhs.gov) 540-686-3211  
 
 ### Executive Summary
 
-*In 2008, the Disaster Assistance Improvement Program (DAIP), an E-Government initiative led by FEMA with support from 16 U.S. Government partners, launched DisasterAssistance.gov to simplify the process for disaster survivors to identify and apply for disaster assistance.  DAIP utilized existing partner technologies and implemented a services oriented architecture (SOA) that integrated the content management system and rules engine supporting Department of Labor’s Benefits.gov applications with FEMA’s Individual Assistance Center application.  The FEMA SOA serves as the backbone for data sharing interfaces with three of DAIP’s federal partners and transfers application data to reduce duplicate data entry by disaster survivors.  As DAIP works to integrate additional partners and further reduce the burden on disaster survivors, the Program is exploring solutions that reduce the technological and fiscal barriers to entry for partners while overcoming the challenges presented by each partner’s unique legal, security, policy and privacy requirements.*  
+In 2008, the Disaster Assistance Improvement Program (DAIP), an E-Government initiative led by FEMA with support from 16 U.S. Government partners, launched DisasterAssistance.gov to simplify the process for disaster survivors to identify and apply for disaster assistance.  DAIP utilized existing partner technologies and implemented a services oriented architecture (SOA) that integrated the content management system and rules engine supporting Department of Labor’s Benefits.gov applications with FEMA’s Individual Assistance Center application.  The FEMA SOA serves as the backbone for data sharing interfaces with three of DAIP’s federal partners and transfers application data to reduce duplicate data entry by disaster survivors.  As DAIP works to integrate additional partners and further reduce the burden on disaster survivors, the Program is exploring solutions that reduce the technological and fiscal barriers to entry for partners while overcoming the challenges presented by each partner’s unique legal, security, policy and privacy requirements.
 
 ### Challenge
 More than 800,000 individuals needed emergency assistance, such as housing, food, and clothing, after Hurricane Katrina struck the southern United States in 2005. That year, more than 2.7 million people applied for FEMA assistance. Since Hurricane Katrina, there have been more than 50 presidentially declared national disasters each year. These events have caused injury and death, destroyed homes and businesses, and disrupted the lives of hundreds of thousands of people across the nation. Executive Order 13411 was issued in response to the confusion and frustration people encountered when they asked for help from multiple federal programs following Hurricane Katrina. It required the government to simplify the process of identifying and applying for disaster assistance.
