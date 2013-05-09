@@ -84,12 +84,12 @@ Public Access Level | *n/a*                   | *n/a*             | *n/a* | *n/a
 {.table .table-striped}
 Field               | *Data.gov*   | *CKAN* | *RDFa Lite 1.1* | *Schema.org*
 -------             | -------                 | -------           | -------  | ------- 
-Data Dictionary     | *Data Dictionary*       | *n/a*                | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary) | *n/a*
-Download URL        | *Access Point*          | *resources\[url\]*                | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download) | *sdo:contentUrl*
-Endpoint            | *Access Point*          | *n/a*                | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice) \*  | *n/a*
-Format              | *Media Format*          | *resources\[format\]*                | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)      | *sdo:encodingFormat*
+Data Dictionary     | *Data Dictionary*       | *data_dict*                | [dcat:dataDictionary](http://www.w3.org/TR/vocab-dcat/#property--data-dictionary) | *n/a*
+Download URL        | *Access Point*          | *res_url*                | [dcat:accessURL](http://www.w3.org/TR/vocab-dcat/#property--access-download) | *sdo:contentUrl*
+Endpoint            | *Access Point*          | *res_url*                | [dcat:webService](http://www.w3.org/TR/vocab-dcat/#class--webservice) \*  | *n/a*
+Format              | *Media Format*          | *res_format*                | [dcterms:format](http://www.w3.org/TR/vocab-dcat/#property--format)      | *sdo:encodingFormat*
 License             | *Dataset license agreement URL* | *license_id*        | [dcterms:license](http://www.w3.org/TR/vocab-dcat/#property--license-1) | *n/a*
-Spatial             | *Geographic scope*      | *n/a*                | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage) | *ds:spatialCoverage*
+Spatial             | *Geographic scope*      | *spatial*                | [dcterms:spatial](http://www.w3.org/TR/vocab-dcat/#property--spatial-geographical-coverage) | *ds:spatialCoverage*
 Temporal            | *Period of Coverage*    | *n/a*                | [dcterms:temporal](http://www.w3.org/TR/vocab-dcat/#property--temporal-coverage) | *ds:temporalCoverage*
 
 Expanded Fields
