@@ -3,7 +3,6 @@ layout: default
 title: Slash Data Catalog Requirements
 permalink: /catalog/
 filename: catalog.md
-published: false
 ---
 
 /Data Requirements
@@ -51,7 +50,7 @@ Agencies must follow the provided [specification](http://gsa-ocsit.github.com/pr
 Presentation
 ------------
 
-Agencies must have present a table/list of each dataset in the /data page.  The /data pages will serve as the authoritative source of agency publicly available data. The page there must be populated with the a list of data sets.  The presentation of this page must contain a table/list of the data in the agencies catalog with at least the following attributes;
+Agencies must have present a table/list of each dataset in the /data page.  The /data pages will serve as the authoritative source of agency publicly available data. The page there must be populated with the a list of datasets.  The presentation of this page must contain a table/list of the data in the agencies catalog with at least the following attributes;
 
 * Dataset name
 * Dataset description

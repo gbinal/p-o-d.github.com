@@ -3,7 +3,6 @@ layout: default
 title: Principles
 permalink: /principles/
 filename: principles.md
-published: false
 ---
 
 In general, open data will be consistent with the following principles:

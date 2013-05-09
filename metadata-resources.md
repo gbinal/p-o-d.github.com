@@ -3,7 +3,6 @@ layout: default
 title: Metadata Resources
 permalink: /metadata-resources/
 filename: metadata-resources.md
-published: false
 ---
 
 

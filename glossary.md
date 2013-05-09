@@ -3,7 +3,6 @@ layout: default
 title: Glossary
 permalink: /glossary/
 filename: glossary.md
-published: false
 ---
 
 ### API 
@@ -52,9 +51,9 @@ A value or set of values representing a specific concept or concepts. Data becom
 
 ### /Data page
 
-A hub for data discovery which provides a common location that lists and links to an organization’s data sets.  Such a hub is often located at www.example.com/data.  [[source]()]
+A hub for data discovery which provides a common location that lists and links to an organization’s datasets.  Such a hub is often located at www.example.com/data.  [[source]()]
 
-### Data Set
+### Dataset
 
 A dataset is an organized collection of data. The most basic representation of a dataset is data elements presented in tabular form. Each column represents a particular variable. Each row corresponds to a given value of that column's variable. A dataset may also present information in a variety of non-tabular formats, such as an extended mark-up language (XML) file, a geospatial data file, or an image file, etc. [[source](http://www.data.gov/glossary)]
 

@@ -21,11 +21,11 @@ Data.gov has been a tremendous asset to those who wish to download government da
 
 Most cell phone companies nowadays impose limits of one form or another on their customers’ data usage. Using one provider as an example, the basic data plan, targeted at the typical smartphone user, has a limit of 200 megabytes (MB) per month. Once this limit is exceeded, the user can face additional charges. One smartphone platform even limits over-the-air app downloads to 20 MB to protect the users’ data caps.
 
-The Department of Labor has many datasets published on data.gov that, if included in a mobile app, would consume at least a half of a typical user’s monthly data limit, assuming they could download it over the air at all. One, the Workforce Investment Act (WIA) Net Impact Evaluation Dataset, measures in at a hefty 321 MB.
+The Department of Labor has many datasets published on Data.gov that, if included in a mobile app, would consume at least a half of a typical user’s monthly data limit, assuming they could download it over the air at all. One, the Workforce Investment Act (WIA) Net Impact Evaluation Dataset, measures in at a hefty 321 MB.
 
 ## Approach
 
-Our solution was to create an application programming interface (API) that would allow developers of web or mobile apps to download only what their app needs when it needs it. Rather than include the entire dataset, the app would send a request to DOL’s API asking for a much smaller subset of that data. The response would be typically much smaller than an average web page, reducing the impact on the user. DOL’s API is not a replacement for the datasets published to data.gov. However, it provides instant, light-weight, and easy to access data for developers of web and mobile apps.
+Our solution was to create an application programming interface (API) that would allow developers of web or mobile apps to download only what their app needs when it needs it. Rather than include the entire dataset, the app would send a request to DOL’s API asking for a much smaller subset of that data. The response would be typically much smaller than an average web page, reducing the impact on the user. DOL’s API is not a replacement for the datasets published to Data.gov. However, it provides instant, light-weight, and easy to access data for developers of web and mobile apps.
 
 Initially, developer.dol.gov launched with just three datasets. Today, the API provides access to 32 datasets containing a total of 175 individual tables across 4 categories. One of the visions of our API effort is to ensure all of the department’s publicly available data is also available through the API, so expect this number to grow as time goes on.
 
