@@ -12,12 +12,12 @@ This section provides further background and resources to assist agencies in imp
 <table width="60%">
 <b><tr><td><ul>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-template.json">JSON</a></li>
-<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template.html">RDFa Lite</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-template.html">RDFa Lite</a></li>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-template.csv">CSV</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-template-extended.json">JSON (Extended)</a></li>
-<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-template-extended.html">RDFa Lite (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-template-extended.html">RDFa Lite (Extended)</a></li>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-template-extended.csv">CSV (Extended)</a></li>
 </ul></td></tr></b>
 </table>
@@ -27,12 +27,12 @@ This section provides further background and resources to assist agencies in imp
 <table width="60%">
 <b><tr><td><ul>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-sample.json">JSON</a></li>
-<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample.html">RDFa Lite</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-sample.html">RDFa Lite</a></li>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-sample.csv">CSV</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-sample-extended.json">JSON (Extended)</a></li>
-<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/gh-pages/assets/catalog-sample-extended.html">RDFa Lite (Extended)</a></li>
+<li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-sample-extended.html">RDFa Lite (Extended)</a></li>
 <li><a href="https://raw.github.com/GSA-OCSIT/project-open-data.github.com/examples/catalog-sample-extended.csv">CSV (Extended)</a></li>
 </ul></td></tr></b>
 </table>
