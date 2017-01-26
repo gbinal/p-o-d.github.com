@@ -1,4 +1,4 @@
-Introducing: Project Open Data
+Introducing: Project Open Data 
 
 Technology is evolving faster than the policies used to govern them.  Often we find ourselves working within outdated policy frameworks that have not kept pace with modern tools and technology.  Last week when the President launched the new Open Data Policy and Executive Order, we didn’t want to make the same mistake. We wanted to create a culture change in government where we embrace collaboration; where anyone can help us make open data work better. 
 
